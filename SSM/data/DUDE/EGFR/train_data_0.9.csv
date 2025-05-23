@@ -1,0 +1,345 @@
+cid,SMILES,protacxn,acname,acvalue,targetname,aidtypeid,activityid,label
+70701995,[O-]CCOCn1ccc2ncnc(Nc3cnc(Oc4cccc(C(F)(F)F)c4)c(Cl)c3)c21,Q15303,IC50,10.0,Receptor tyrosine-protein kinase erbB-4 (human),Confirmatory,Inactive,0
+16736274,OCCOCCn1ccc2ncnc(Nc3cnc(Oc4cccc(C(F)(F)F)c4)c(Cl)c3)c21,P21860,IC50,0.42,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+134139534,CN1CCN(C/C=C/C(=O)Nc2cc3c(Nc4ccc(Cc5ccccn5)cc4)ncnc3cn2)CC1,Q15303,IC50,0.094,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+134136245,CCOc1cc2ncnc(Nc3ccc4c(ccn4S(=O)(=O)c4ccccc4)c3)c2cc1NC(=O)/C=C/CN1CCCC1,Q15303,IC50,0.011,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+141510925,CN1CCN(c2ccc(Nc3ncc4nc(Sc5ccccc5)n(C5CCOCC5)c4n3)cc2)CC1,P21860,IC50,0.002,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+134140680,CCC(=O)Nc1cc2c(Nc3ccc(OCc4ccccn4)cc3)ncnc2cc1OC,Q15303,IC50,0.108,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+121273567,CC#CC(=O)Nc1cc2c(Oc3ccc(C(=O)Nc4ccccn4)cc3)ccnc2cc1OCCN1CCOCC1,Q15303,IC50,0.037,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+156905961,COC1CCN(c2nccc(Nc3cc4c(cn3)nc(COCCOCCON3CCN(c5ccc6c(c5)C(=O)N(C5CCC(=O)NC5=O)C6=O)CC3)n4C(C)C)n2)CC1,P21860,IC50,30.0,Receptor tyrosine-protein kinase erbB-3 (human),Confirmatory,Inactive,0
+134145160,CCC(=O)Nc1cc2c(Nc3ccc(Oc4cccnc4)cc3)ncnc2cc1OC,Q15303,IC50,0.285,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+71463564,Nc1nc2cnc(-c3ccccc3)cn2n1,Q15303,IC50,20.0,Receptor tyrosine-protein kinase erbB-4 (human),Confirmatory,Inactive,0
+134146699,CCOc1cc2ncnc(Nc3ccc4c(cnn4Cc4ccccc4)c3)c2cc1NC(=O)/C=C/CN1C[C@@H](C)N[C@@H](C)C1,Q15303,IC50,0.004,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+134153988,CCOc1cc2ncnc(Nc3ccc4c(cnn4Cc4ccccc4)c3)c2cc1NC(=O)/C=C/CN1[C@H](C)CNC[C@@H]1C,Q15303,IC50,0.004,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+134139694,CCOc1cc2ncnc(Nc3ccc4c(cnn4Cc4ccccc4)c3)c2cc1NC(=O)/C=C/CN1CCN(C)CC1,Q15303,IC50,0.004,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+134154596,COCCOc1cc2ncnc(Nc3ccc4c(cnn4Cc4ccccc4)c3)c2cc1NC(=O)/C=C/CN1CCN(C)CC1,Q15303,IC50,0.003,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+5330130,COc1cc(OC)cc(-c2cc3cnc(NCCCCN4CCN(C)CC4)cc3nc2NC(=O)NC(C)(C)C)c1,P20786,IC50,1.3,Pdgfra - platelet derived growth factor receptor alpha (Norway rat),Confirmatory,Active,1
+11604864,O=C(C#CCCN1CCCCC1)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cn1,Q15303,IC50,0.0018,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+121273408,C=CC(=O)Nc1ccc2nccc(Oc3ccc(C(=O)Nc4cc(CC)ccn4)cc3)c2c1,Q15303,IC50,0.016,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+137657932,Cc1[nH]nc2ccc(-c3cc(N[C@@H](CO)c4ccccc4)cnc3-c3cc(Cl)ccc3O)cc12,Q15303,IC50,0.0053,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+137637094,Cc1[nH]nc2ccc(-c3cc(N[C@@H](CO)c4ccccc4)cnc3-c3cc(F)ccc3O)cc12,Q15303,IC50,0.0062,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+137651391,Cc1[nH]nc2ccc(-c3cc(N[C@@H](CO)c4ccccc4)cnc3-c3ccc(F)cc3O)cc12,Q15303,IC50,0.0024,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+127045270,Fc1ccc(Nc2ncnc3ccc(-c4cnn(C5CCNCC5)c4)cc23)cc1Cl,Q15303,IC50,1.603,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+146623164,C=CC(=O)N1CCC([C@@H]2CCNc3c(C(N)=O)c(-c4cc(OC)c(C)c(OC)c4)nn32)CC1,Q15303,IC50,0.094,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+11386747,CC(=O)Nc1c(C(C)=O)c(=O)n(C)c2nc(-c3ccc(Cl)cc3Cl)c(-c3ccc(Cl)cc3)cc12,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+11364870,CC(=O)c1c(NS(C)(=O)=O)c2cc(-c3ccc(Cl)cc3)c(-c3ccc(Cl)cc3Cl)nc2n(C)c1=O,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+52916803,CS(=O)(=O)c1cc(C2(NC(=O)c3cncc4c3cnn4-c3ccc(F)cc3)CC2)ccn1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+71623052,Cc1cc(C)c(-n2ccn3nc(-c4cccnc4)cc23)cc1NC(=O)c1cc(C#N)cc(S(F)(F)(F)(F)F)c1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+137636807,Nc1nccn2c([C@H]3CN(C4CCOCC4)CCO3)nc(-c3ccc(C(=O)Nc4cc(C(F)(F)F)ccn4)cc3F)c12,Q15303,IC50,0.076,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+76902376,COc1cc(C(=O)Nc2cc(C(F)(F)F)ccn2)ccc1-c1nc([C@@H]2CC[C@H]3CCC(=O)N3C2)n2ccnc(N)c12,Q15303,IC50,0.16,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+77105257,Nc1nccn2c([C@@H]3CC[C@H]4CCC(=O)N4C3)nc(-c3ccc(C(=O)Nc4cc(C(F)(F)F)ccn4)cc3)c12,Q15303,IC50,0.024,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+89794927,Cc1nc(N2CC[C@@H](O)C2)ncc1-c1cc(C(F)(F)F)cc2[nH]ncc12,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+72202607,COc1cc2ncnc(Nc3ccc(Oc4ccccc4)cc3)c2cc1NC(=O)/C=C/CN1CCCCC1,Q15303,IC50,0.003,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+155541355,CC(C)CC(=O)N1CCc2nc(-c3ccc(Br)cc3)nc(N(C)Cc3ccccc3)c2C1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+24202429,CO[C@H]1[C@@H](N(C)C(=O)c2ccccc2)C[C@@H]2O[C@@]1(C)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(=O)NC4,NP_001036064,,3.1,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Other,Inactive,0
+155555047,O=C(NS(=O)(=O)c1ccc(NCC2CCOCC2)c([N+](=O)[O-])c1)c1ccc(N2CCN(Cc3ccc(C(F)(F)F)cc3-c3ccc(Cl)cc3)CC2)cc1Oc1cnc2[nH]ccc2c1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+129126091,CC#CC(=O)N1CCC[C@H]1c1nc(-c2ccc(C(=O)Nc3cc(C(F)(F)F)ccn3)c(OC)c2)c2c(N)nccn12,Q15303,IC50,0.099,Receptor tyrosine-protein kinase erbB-4 (human),Confirmatory,Active,1
+131953432,O=C(NCC1[C@H]2CN(C(=O)OCc3cc(C(F)(F)F)cc(C(F)(F)F)c3)C[C@@H]12)c1ccc2n[nH]nc2c1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+157303770,Cc1cc(Nc2ncnn3ccc(CN4[C@@H]5CC[C@H]4CC(N)C5)c23)ccc1Oc1ccn2ncnc2c1,Q15303,IC50,0.184,Receptor tyrosine-protein kinase erbB-4 (human),Confirmatory,Active,1
+157282507,Cc1cc(Nc2ncnn3ccc(CN4[C@@H]5CC[C@H]4CC(O)C5)c23)ccc1Oc1ccn2ncnc2c1,Q15303,IC50,0.15,Receptor tyrosine-protein kinase erbB-4 (human),Confirmatory,Active,1
+146180757,COc1cc2c(Nc3ccc(Oc4ccccc4)cc3)ncnc2cc1OCC1CCN(C)CC1,P21860,,,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Literature-derived,Active,1
+145990507,Clc1ccc(Nc2cc(Nc3cccc(Cl)n3)ncn2)cc1,P21860,IC50,0.236,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+155550034,CC(=O)N1CCC(c2ccc(C(=O)NC3=NCCN3)cc2C(F)(F)F)CC1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+122703613,CC(C)(C)C(=O)N1N=CC[C@H]1c1ccccc1,Q15303,,,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Literature-derived,Active,1
+24883287,C=CC(=O)N1CCC[C@H]1C(=O)Nc1cc2c(Nc3cccc(Cl)c3F)ncnc2cc1OCCOC,Q15303,IC50,0.1,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+24883334,C=CC(=O)N1CCC[C@H]1C(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3F)ncnc2cc1OCCOC,Q15303,IC50,0.1,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+5328163,CN1CCN(CCCNc2ncc3cc(-c4c(Cl)cccc4Cl)c(NC(=O)Nc4ccccc4)nc3n2)CC1,P20786,IC50,0.37,Pdgfra - platelet derived growth factor receptor alpha (Norway rat),Confirmatory,Active,1
+71535003,C=CC(=O)N1C[C@H](COc2nc(Nc3cnn(C)c3)nc3[nH]cc(Cl)c23)[C@@H](OC)C1,P21860,IC50,0.021,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+138454798,O=C(Nc1ccc2[nH]nc(-c3ccc4[nH]ccc4c3)c2c1)c1c(Cl)cccc1Cl,Q15303,,,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Literature-derived,Inactive,0
+134145579,CCC(=O)Nc1cc2c(Nc3ccc(NCc4ccccc4)cc3)ncnc2cc1OC,Q15303,IC50,0.064,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+166176976,C=CC(=O)N1CC[C@@H](n2nc(Nc3ccc(Oc4ccccc4)cc3)c3cnc4[nH]cnc2c43)C1,Q15303,IC50,0.408,Receptor tyrosine-protein kinase erbB-4 (human),Confirmatory,Active,1
+145977147,C=CC(=O)Nc1cc(Nc2ccnc(-c3cn(C)c4ccccc34)n2)c(OC)cc1N(C)CCN(C)C,P21860,IC50,0.036,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+87522699,CCC(=N\O)/C(C)=C/c1ccc(F)c(C)c1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+42641861,CCC(=N\O)/C(C)=C/c1ccc(F)cc1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+78341183,N#C/C(=C\c1cccc(-c2cccc3[nH]ncc23)c1)C(N)=O,Q15303,IC50,0.044,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+155550101,CS(=O)(=O)NCC[C@H](NC(=O)c1cncc2c1cnn2-c1ccc(F)cc1)c1ccnc(S(C)(=O)=O)c1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+155540682,NS(=O)(=O)c1cc(NC(=O)C2(c3ccccc3Cl)CC2)ccc1Oc1cccc(Cl)c1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+118607832,C=CC(=O)Nc1cc(Nc2ncc(C(=O)OC(C)C)c(-c3cn(C)c4ccccc34)n2)c(OC)cc1N(C)CCN(C)C,P21860,IC50,0.0033,Receptor tyrosine-protein kinase erbB-3 (human),Confirmatory,Active,1
+154701643,Cc1nc(C2CCN(C(=O)c3ccc(OC(F)(F)F)cc3N)CC2)c2ncc(N3CCN(C)CC3)cc2n1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+134128280,CN1CCN(c2cnc3c(C4CCN(C(=O)c5ccc(OC(F)(F)F)cc5N)CC4)ncnc3c2)CC1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+25218697,Fc1cccc(COc2ccc(Nc3ncnc4sc(C#C[C@H]5CCCN5)cc34)cc2Cl)c1,Q15303,IC50,2.301,Receptor tyrosine-protein kinase erbB-4 (human),Confirmatory,Active,1
+123631,COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1OCCCN1CCOCC1,P21860,Kd,0.79,Receptor tyrosine-protein kinase erbB-3 (human),Confirmatory,Active,1
+145992597,COc1cccc(Nc2cc(Nc3ccc(S(N)(=O)=O)cc3)ncn2)c1,P21860,IC50,1.847,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+112866175,COc1cccc(Nc2cc(Nc3cc(OC)ccc3OC)ncn2)c1,P21860,IC50,0.018,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+112865697,COc1ccc(OC)c(Nc2cc(Nc3ccc(F)cc3)ncn2)c1,P21860,IC50,0.23,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+145985403,COc1ccc(OC)c(Nc2cc(Nc3ccc(S(N)(=O)=O)cc3)ncn2)c1,P21860,IC50,0.619,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+112865788,COc1cccc(Nc2cc(Nc3cccc(Cl)c3)ncn2)c1,P21860,IC50,1.573,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+112866205,CCOC(=O)c1ccc(Nc2cc(Nc3cccc(OC)c3)ncn2)cc1,P21860,IC50,1.745,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+73294997,CN1CCN(C(C)(C)/C=C(\C#N)C(=O)N2CCC[C@@H](n3nc(-c4ccc(Oc5ccccc5)cc4F)c4c(N)ncnc43)C2)CC1,Q15303,IC50,0.041,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+42611190,O=C(O)c1cc(-c2ccc(C3CCNCC3)cc2)c2ccc(-c3ccc(C(F)(F)F)cc3)cc2c1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+155561056,Cc1c(C(=O)O)cc(-c2ccc(C3CCNCC3)cc2)c2ccc(-c3ccc(C(F)(F)F)cc3)cc12,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+44279279,c1ccc(Cn2ccc3cc(Nc4ncnc5ccccc45)ccc32)cc1,P06494,IC50,0.09,Erbb2 - erb-b2 receptor tyrosine kinase 2 (Norway rat),Confirmatory,Active,1
+44279655,COc1cc2ncnc(Nc3ccc4c(ccn4Cc4ccccc4)c3)c2cc1OC,P06494,IC50,0.049,Erbb2 - erb-b2 receptor tyrosine kinase 2 (Norway rat),Confirmatory,Active,1
+134152991,CCC(=O)Nc1cc2c(Nc3ccc4c(ccn4Cc4ccccc4)c3)ncnc2cc1OC,Q15303,IC50,0.038,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+137633473,C=CC(=O)Nc1cc(Nc2n[nH]c3cc(Nc4cccc(F)c4)ccc23)c(OC)cc1N(C)CCN(C)C,Q15303,,,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Literature-derived,Active,1
+129284334,CC(C)(O)[C@H](F)CN1Cc2cc(NC(=O)c3cnn4cccnc34)c(N3CCOCC3)cc2C1=O,Q15303,,,Receptor tyrosine-protein kinase erbB-4 (human),Other,Inactive,0
+56649300,Cc1cc(-n2nc(Cc3cc(F)cc(C(F)(F)F)c3)nc2C)ccc1C(N)=O,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+701322,O=C(Nc1cc(N2CCOCC2)ncn1)c1ccc(F)cc1,P21860,IC50,0.096,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+121293882,C=CC(=O)Nc1cccc(-c2ccc(C(N)=O)c3[nH]c(C)c(C)c23)c1C,Q15303,IC50,0.24,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+121294143,C=CS(=O)(=O)Nc1cccc(-c2ccc(C(N)=O)c3[nH]c(C)c(C)c23)c1C,Q15303,IC50,0.01,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+135157200,Cc1ncsc1-c1ccc([C@H](C)NC(=O)[C@@H]2C[C@@H](O)CN2C(=O)[C@@H](NC(=O)CN2CCN(CCCC#Cc3cccc4c3C(=O)N(C(C(=O)Nc3nccs3)c3cc(F)ccc3O)C4)CC2)C(C)(C)C)cc1,P21860,IC50,30.0,Receptor tyrosine-protein kinase erbB-3 (human),Confirmatory,Inactive,0
+172472596,Cc1ccc(F)c(S(=O)(=O)Nc2ccc(-c3nc(OC[C@H]4CN(CCCCCCOCCOCCOCC(=O)N[C@H](C(=O)N5C[C@@H](O)C[C@H]5C(=O)NCc5ccc(-c6scnc6C)cc5)C(C)(C)C)CCO4)c4cn[nH]c4n3)cc2)c1,Q15303,,,Receptor tyrosine-protein kinase erbB-4 (human),Other,Inactive,0
+139035049,Cc1ccc(F)c(S(=O)(=O)Nc2ccc(-c3nc(OC[C@H]4CN(CCCCCCOCCOCCOCC(=O)N[C@H](C(=O)N5C[C@H](O)C[C@H]5C(=O)NCc5ccc(-c6scnc6C)cc5)C(C)(C)C)CCO4)c4cn[nH]c4n3)cc2)c1,Q15303,,,Receptor tyrosine-protein kinase erbB-4 (human),Other,Inactive,0
+91885570,Cn1nc(C(F)(F)F)cc1-c1cnc(N2CCc3cc(S(=O)(=O)Nc4c(F)cc(Cl)cc4F)cc(N4CCCC4=O)c32)nc1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+137649100,Nc1nccn2c([C@@H]3CCCN(C4CCOCC4)C3)nc(-c3ccc(C(=O)Nc4cc(C(F)(F)F)ccn4)cc3F)c12,Q15303,IC50,0.059,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+134143257,CCC(=O)Nc1cc2c(Nc3ccc(Oc4ccc5c(c4)OCO5)cc3)ncnc2cc1OC,Q15303,IC50,0.04,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+5310991,CCCOc1ccc([C@H]2[C@H](C(=O)O)[C@@H](c3ccc4c(c3)OCO4)CN2CC(=O)Nc2c(CC)cccc2CC)cc1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+101933292,CCCOc1ccc([C@@H]2[C@@H](C(=O)O)[C@H](c3ccc4c(c3)OCO4)CN2CC(=O)Nc2c(CC)cccc2CC)cc1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+4708,C=CC(=O)Nc1ccc2ncnc(Nc3cccc(Br)c3)c2c1,Q15303,IC50,0.012,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+11655791,CCOc1cc2ncnc(Nc3cccc(I)c3)c2cc1OCC.Cl,Q15303,IC50,0.059,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+52946569,CCOc1cc2ncnc(Nc3cccc(Br)c3)c2cc1OCC.Cl,Q15303,IC50,0.05,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+11246488,COc1cc2ncnc(Nc3cccc(Br)c3)c2cc1OC.Cl,Q15303,IC50,0.049,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+9907221,C#CC(=O)Nc1ccc2ncnc(Nc3cccc(Br)c3)c2c1,Q15303,IC50,0.0017,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+11595844,O=C(C#CCO)Nc1ccc2ncnc(Nc3ccc(F)c(Cl)c3)c2c1,Q15303,IC50,0.0073,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+11518637,CCCCN(CC#CC(=O)Nc1ccc2ncnc(Nc3ccc(F)c(Cl)c3)c2c1)CCCC,Q15303,IC50,0.624,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+2776,CC#CC(=O)Nc1ccc2ncnc(Nc3cccc(Br)c3)c2c1,Q15303,IC50,0.012,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+11553647,CCN(CC)CC#CC(=O)Nc1ccc2ncnc(Nc3ccc(F)c(Cl)c3)c2c1,Q15303,IC50,0.31,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+11532242,CCN(CC)CCC#CC(=O)Nc1ccc2ncnc(Nc3ccc(F)c(Cl)c3)c2c1,Q15303,IC50,0.016,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+11719423,CC(C)N(CC#CC(=O)Nc1ccc2ncnc(Nc3ccc(F)c(Cl)c3)c2c1)C(C)C,Q15303,IC50,0.011,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+71512060,COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1NC(=O)/C(F)=C/CN(C)C,Q15303,IC50,0.023,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+134139047,CCC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OC,Q15303,IC50,0.376,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+134147887,COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1NC(=O)/C=C/CN(C(C)C)C(C)C,Q15303,IC50,0.088,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+74766099,C=CC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OC,P21860,IC50,0.001,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+165430655,COc1cc2ncnc(Nc3cc(Cl)c(F)cc3O)c2cc1O,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Literature-derived,Active,1
+134149963,CCC(=O)Nc1cc2c(Nc3ccc4c(ccn4Cc4ccco4)c3)ncnc2cc1OC,Q15303,IC50,0.022,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+46893145,COc1cc(-c2cn([C@H]3CCc4c(F)cccc4N(CC(F)(F)F)C3=O)nn2)ccc1-n1cnc(C)c1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+134152401,CCOc1cc2ncnc(Nc3ccc(OCc4ccccn4)cc3)c2cc1NC(=O)/C=C/CN1CCCC1,Q15303,IC50,0.041,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+124203924,Cc1c(NC(=O)c2cc(C(N)=O)nc3cc(F)ccc23)c(C(F)(F)F)nn1Cc1ccc(C(C)(C)C)cc1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+118191391,Cc1c(NC(=O)c2cc(C(N)=O)nc3cc(F)ccc23)c(C(F)(F)F)nn1Cc1ccc(C#N)cc1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+11717001,OCCn1cc(-c2ccc3c(c2)CC/C3=N\O)c(-c2ccncc2)n1,P21860,Kd,2.3,Receptor tyrosine-protein kinase erbB-3 (human),Confirmatory,Active,1
+57519545,OCCn1cc(-c2ccc3c(c2)CCC3=NO)c(-c2ccncc2)n1,P21860,Kd,2.3,Receptor tyrosine-protein kinase erbB-3 (human),Confirmatory,Active,1
+42642648,C[C@@H]1COC(Nc2ccc3ncnc(Nc4ccc(OCc5nccs5)c(Cl)c4)c3c2)=N1,Q15303,IC50,0.004,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+71494905,C=CC(=O)N1CCCC[C@H]1n1nc(-c2ccc(Oc3ccccc3)cc2)c2c(N)ncnc21,Q15303,IC50,0.0001,Receptor tyrosine-protein kinase erbB-4 (human),Confirmatory,Active,1
+164946935,C#Cc1cccc(Oc2ncnc3ccc(OCc4ccc(S(=O)(=O)N(C)C#C)cc4)cc23)c1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Literature-derived,Active,1
+71452977,CC(C)(C(=O)NCCn1ccc2ncnc(Nc3ccc(Oc4cccc(Cl)c4)c(Cl)c3)c21)S(C)(=O)=O.Cc1ccc(S(=O)(=O)O)cc1,Q15303,IC50,0.16,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+137662140,Cc1nc(Cc2cccc(C(F)(F)F)c2)sc1-c1ccc(C(N)=O)nc1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+127045266,Cn1cc(-c2ccc3ncnc(Nc4ccc5ncccc5c4)c3c2)cn1,Q15303,IC50,0.93,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+156905958,COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1NC(=O)/C=C/CN(C)CCCOCCCOCC(=O)N[C@H](C(=O)N1CC(O)C[C@@H]1C(=O)NCc1ccc(-c2scnc2C)cc1)C(C)(C)C,P21860,IC50,20.0,Receptor tyrosine-protein kinase erbB-3 (human),Confirmatory,Inactive,0
+134143525,CCOc1cc2ncnc(Nc3ccc4c(cnn4Cc4ccccc4)c3)c2cc1NC(=O)/C=C/CN1[C@H](C)CCC[C@@H]1C,Q15303,IC50,0.005,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+134146010,CCOc1cc2ncnc(Nc3ccc4c(cnn4Cc4ccccc4)c3)c2cc1NC(=O)/C=C/CN1CCCCC1,Q15303,IC50,0.004,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+2858522,Br.Cc1cc2nc(NCCCO)n(CC(=O)c3cc(C(C)(C)C)c(O)c(C(C)(C)C)c3)c2cc1C,NP_001036064,,,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Other,Inactive,0
+134134364,CCOc1cc2ncnc(Nc3ccc4c(ccn4S(=O)(=O)c4ccccc4)c3)c2cc1NC(=O)/C=C/CN(C)C,Q15303,IC50,0.01,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+134157614,CCC(=O)Nc1cc2c(Nc3ccc4c(ccn4S(=O)(=O)c4ccccc4)c3)ncnc2cc1OC,Q15303,IC50,0.063,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+135236586,N#Cc1cnc2ccc(NC(=O)C3CSSC3)cc2c1Nc1ccc(OCc2cccc(F)c2)c(Cl)c1,Q15303,IC50,0.55,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+135236566,N#Cc1cnc2cc(OC[C@@H](O)CO)c(NC(=O)C3CSSC3)cc2c1Nc1ccc(OCc2cccc(F)c2)c(Cl)c1,Q15303,IC50,0.05,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+5328137,CCN(CC)CCCCNc1ncc2cc(-c3c(Cl)cccc3Cl)c(NC(=O)Nc3ccccc3)nc2n1,P20786,IC50,1.2,Pdgfra - platelet derived growth factor receptor alpha (Norway rat),Confirmatory,Active,1
+11503073,O=C(C#CCN1CCOCC1)Nc1ccc2ncnc(Nc3ccc(F)c(Cl)c3)c2c1,Q15303,IC50,0.229,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+44580689,Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1-c1ccc2ccncc2c1,Q15303,IC50,0.3,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+70701994,CC(C)([O-])CC(=O)NCCn1ccc2ncnc(Nc3ccc(Oc4cccc(C(F)(F)F)c4)c(Cl)c3)c21,Q15303,IC50,0.26,Receptor tyrosine-protein kinase erbB-4 (human),Confirmatory,Active,1
+11620908,CC(C)(O)CC(=O)NCCn1ccc2ncnc(Nc3ccc(Oc4cccc(C(F)(F)F)c4)c(Cl)c3)c21,P21860,IC50,0.023,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+56851053,O=S(=O)(CCO)CCn1ccc2ncnc(Nc3ccc(Oc4cccc(C(F)(F)F)c4)c(Cl)c3)c21,P21860,IC50,0.04,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+56851433,N#Cc1ccc(Oc2ccc(Nc3ncnc4cc[nH]c34)cc2Cl)cc1,P21860,IC50,0.59,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+56851288,N#Cc1cc2ncnc(Nc3ccc(Oc4cccc(C(F)(F)F)c4)c(Cl)c3)c2n1CCOCCO,P21860,IC50,0.23,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+56851290,Clc1cc(Nc2ncnc3cc[nH]c23)ccc1Oc1ccccc1,P21860,IC50,0.11,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+56851430,Clc1cccc(Oc2ccc(Nc3ncnc4cc[nH]c34)cc2Cl)c1,P21860,IC50,0.035,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+56851428,Fc1cccc(Oc2ccc(Nc3ncnc4cc[nH]c34)cc2Cl)c1,P21860,IC50,0.15,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+56849560,Cn1ccc2ncnc(Nc3ccc(Oc4cccc(C(F)(F)F)c4)c(Cl)c3)c21,P21860,IC50,0.027,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+56849849,CS(=O)(=O)O.O=C(CCO)NCCn1ccc2ncnc(Nc3ccc(Oc4cccc(C(F)(F)F)c4)c(Cl)c3)c21,P21860,IC50,0.0072,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+56849704,OCCOCCn1ccc2ncnc(Nc3ccc(Oc4cccc(OC(F)(F)F)c4)c(Cl)c3)c21,P21860,IC50,0.049,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+56849847,CN(CCn1ccc2ncnc(Nc3ccc(Oc4cccc(C(F)(F)F)c4)c(Cl)c3)c21)C(=O)CO,P21860,IC50,0.015,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+56851052,O=S(CCO)CCn1ccc2ncnc(Nc3ccc(Oc4cccc(C(F)(F)F)c4)c(Cl)c3)c21,P21860,IC50,0.031,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+56851591,FC(F)(F)Oc1cccc(Oc2ccc(Nc3ncnc4cc[nH]c34)cc2Cl)c1,P21860,IC50,0.22,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+56851592,Cc1cccc(Oc2ccc(Nc3ncnc4cc[nH]c34)cc2Cl)c1,P21860,IC50,0.02,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+56850930,OCCNCCn1ccc2ncnc(Nc3ccc(Oc4cccc(C(F)(F)F)c4)c(Cl)c3)c21,P21860,IC50,0.022,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+11684629,OCCOCCn1ccc2ncnc(Nc3ccc(Oc4cccc(C(F)(F)F)c4)c(Cl)c3)c21,P21860,IC50,0.015,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+56849703,OCCOCCn1ccc2ncnc(Nc3ccc(Oc4cccc(Cl)c4)c(Cl)c3)c21,P21860,IC50,0.0057,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+56851427,Fc1ccccc1Oc1ccc(Nc2ncnc3cc[nH]c23)cc1Cl,P21860,IC50,0.061,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+56851593,COc1cccc(Oc2ccc(Nc3ncnc4cc[nH]c34)cc2Cl)c1,P21860,IC50,0.29,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+56851051,OCCSCCn1ccc2ncnc(Nc3ccc(Oc4cccc(C(F)(F)F)c4)c(Cl)c3)c21,P21860,IC50,0.044,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+56851429,Clc1ccccc1Oc1ccc(Nc2ncnc3cc[nH]c23)cc1Cl,P21860,IC50,0.027,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+56850806,OCCCCCn1ccc2ncnc(Nc3ccc(Oc4cccc(C(F)(F)F)c4)c(Cl)c3)c21,P21860,IC50,0.033,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+56849563,OCCn1ccc2ncnc(Nc3ccc(Oc4cccc(Cl)c4)c(Cl)c3)c21,P21860,IC50,0.0095,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+56849846,O=C(CO)NCCn1ccc2ncnc(Nc3ccc(Oc4cccc(C(F)(F)F)c4)c(Cl)c3)c21,P21860,IC50,0.01,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+56851431,N#Cc1ccccc1Oc1ccc(Nc2ncnc3cc[nH]c23)cc1Cl,P21860,IC50,0.051,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+56849562,Cn1ccc2ncnc(Nc3ccc(Oc4cccc(OC(F)(F)F)c4)c(Cl)c3)c21,P21860,IC50,0.05,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+56849701,OCCn1ccc2ncnc(Nc3ccc(Oc4cccc(C(F)(F)F)c4)c(Cl)c3)c21,P21860,IC50,0.034,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+56851590,FC(F)(F)Oc1ccccc1Oc1ccc(Nc2ncnc3cc[nH]c23)cc1Cl,P21860,IC50,0.21,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+56851589,FC(F)(F)c1cccc(Oc2ccc(Nc3ncnc4cc[nH]c34)cc2Cl)c1,P21860,IC50,0.067,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+56851432,N#Cc1cccc(Oc2ccc(Nc3ncnc4cc[nH]c34)cc2Cl)c1,P21860,IC50,0.15,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+56851588,FC(F)(F)c1ccccc1Oc1ccc(Nc2ncnc3cc[nH]c23)cc1Cl,P21860,IC50,0.15,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+56849848,CC(C)(O)C(=O)NCCn1ccc2ncnc(Nc3ccc(Oc4cccc(C(F)(F)F)c4)c(Cl)c3)c21,P21860,IC50,0.035,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+56849558,Cn1ccc2ncnc(Nc3ccc(Oc4cccc(Cl)c4)c(Cl)c3)c21,P21860,IC50,0.0092,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+56849702,OCCn1ccc2ncnc(Nc3ccc(Oc4cccc(OC(F)(F)F)c4)c(Cl)c3)c21,P21860,IC50,0.11,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+56851166,Cc1cc2ncnc(Nc3ccc(Oc4cccc(C(F)(F)F)c4)c(Cl)c3)c2n1CCOCCO,P21860,IC50,0.038,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+71222614,CC1(C(=O)N2CCC[C@@H](c3nc(-c4ccc(C(=O)Nc5cc(C(F)(F)F)ccn5)cc4)c4c(N)nccn34)C2)COC1,Q15303,IC50,0.118,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+71226207,CC1(C(=O)N2CCC[C@@H](c3nc(-c4ccc(C(=O)Nc5cc(C(F)(F)F)ccn5)cc4F)c4c(N)nccn34)C2)COC1,Q15303,IC50,0.081,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+57335384,C=CC(=O)Nc1cccc(Nc2nc(Nc3ccc(N4CCN(C(C)=O)CC4)cc3OC)ncc2C(F)(F)F)c1,P21860,IC50,0.046,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+129219978,C=CC(=O)N1CC[C@@H](NC(=O)c2sc3nccc4c3c2NC(=O)N4c2ccc(Oc3ccccc3)cc2C)C1,Q15303,IC50,0.377,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+67218825,COc1ccc(C)cc1NC(=O)Nc1cccc(C(=O)c2cn(C3CCCC3)c3ncnc(N)c23)c1,P21860,IC50,0.00069,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+67219716,Nc1ncnc2c1c(C(=O)c1cccc(NC(=O)Nc3c(F)cccc3F)c1)cn2C1CCCC1,P21860,IC50,0.067,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+71615301,Nc1ncnc2c1c(C(=O)c1cccc(NC(=O)Nc3ccc(Cl)cc3Cl)c1)cn2C1CCCC1,P21860,IC50,0.0012,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+67219433,Nc1ncnc2c1c(C(=O)c1cccc(NC(=O)Nc3ccc(Cl)cc3)c1)cn2C1CCCC1,P21860,IC50,0.0046,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+67219570,Cc1ccc(F)c(NC(=O)Nc2cccc(C(=O)c3cn(C4CCCC4)c4ncnc(N)c34)c2)c1,P21860,IC50,0.00089,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+135565635,CC(C)n1nc(-c2cc3cc(O)ccc3[nH]2)c2c(N)ncnc21,P21860,Kd,0.12,Receptor tyrosine-protein kinase erbB-3 (human),Confirmatory,Active,1
+155552127,CO[C@@H]1[C@H](N(C)CCOCCOCCOCCNC(=O)CCC2=[N+]3C(=Cc4c(C)cc(C)n4[B-]3(F)F)C=C2)C[C@H]2O[C@]1(C)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(=O)NC4,Q15303,Kd,0.798,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+155531579,CO[C@@H]1[C@H](NCCOCCOCCOCCNC(=O)CCC2=[N+]3C(=Cc4c(C)cc(C)n4[B-]3(F)F)C=C2)C[C@H]2O[C@]1(C)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(=O)NC4,Q15303,Kd,0.496,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+145968559,CN1CCN(c2ccc(Nc3ncc4nc(S(=O)c5ccccc5)n(C5CCCC5)c4n3)cc2)CC1,P21860,IC50,0.0042,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+72737404,CCN(CC)CCCNC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1O[C@H]1CCOC1,Q15303,IC50,0.008,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+15606394,CN(C)C/C=C/C(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1O[C@H]1CCOC1.O=C(O)/C=C\C(=O)O.O=C(O)/C=C\C(=O)O,Q15303,IC50,1.437,Receptor tyrosine-protein kinase erbB-4 (human),Confirmatory,Active,1
+10184653,CN(C)C/C=C/C(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1O[C@H]1CCOC1,P21860,Kd,4.5,Receptor tyrosine-protein kinase erbB-3 (human),Confirmatory,Active,1
+25114442,COc1ccc2cc(OCC3(C(=O)O)CN(C(=O)c4ccc(F)cc4)C3)ccc2c1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+134148660,CCOc1cc2ncnc(Nc3ccc(OCc4cccc(F)c4)c(Cl)c3)c2cc1NC(=O)/C=C/CN1CCN(C)CC1,Q15303,IC50,0.01,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+135157178,COC1(CCN2CCN(c3ccc4c(c3)C(=O)N(C3CCC(=O)NC3=O)C4=O)CC2)CCN(c2nccc(Nc3cc4c(cn3)nc(C)n4C(C)C)n2)CC1,P21860,IC50,25.0,Receptor tyrosine-protein kinase erbB-3 (human),Confirmatory,Inactive,0
+170902033,CCOc1cc(N2CCN(C)CC2)ccc1Nc1ncc2cc(-c3cccc(NC(=O)c4cccc(C(F)(F)F)c4)c3)c(=O)n(C[C@H]3CCCO3)c2n1,Q15303,Kd,0.016,Receptor tyrosine-protein kinase erbB-4 (human),Confirmatory,Active,1
+23652660,CCC(F)(F)c1cc(N2CCC(S(C)(=O)=O)CC2)nc2sc(C(N)=O)c(N)c12,Q15303,,,Receptor tyrosine-protein kinase erbB-4 (human),Other,Inactive,0
+137631967,OC[C@H](Nc1cnc(-c2cc(Cl)ccc2O)c(-c2ccc3cnccc3c2)c1)c1ccccc1,Q15303,IC50,0.005,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+57341660,C=CC(=O)Nc1cccc(N2C(=O)N(Cc3ccccc3)Cc3cnc(Nc4ccc(N5CCN(C)CC5)cc4OC)nc32)c1,Q15303,,,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Literature-derived,Active,1
+134155700,CCOc1cc2ncnc(Nc3ccc(OCc4cccc(F)c4)c(Cl)c3)c2cc1NC(=O)/C=C/CN1CCCC1,Q15303,IC50,0.004,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+118958833,COc1cnccc1Nc1nc(-c2nn(Cc3c(F)cc(OCCO)cc3F)c3ccccc23)ncc1OC,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+51352628,COCCc1ccc(-c2c(C)nc3c(N4CCOCC4)ccnn23)cn1,Q15303,,,Receptor tyrosine-protein kinase erbB-4 (human),Other,Inactive,0
+155540854,N#Cc1ccc(-c2csc(N3N=C(c4ccc(N5CCOCC5)cc4)CC3c3ccc(Cl)cc3)n2)cc1,Q15303,IC50,4.68,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+155540856,Fc1ccc(-c2csc(N3N=C(c4ccc(N5CCOCC5)cc4)CC3c3ccc(Cl)cc3)n2)cc1,Q15303,IC50,1.5,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+451705,CN[C@H]1C[C@@H]2O[C@](C)([C@H]1OC)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(=O)NC4,NP_001036064,,0.77,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Other,Active,1
+155546287,O=C(NCCCC1CCCCC1)c1ccc(CNC(=O)c2cnn(-c3ccccc3)c2C(F)(F)F)cc1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+71226367,C[C@H]1CC[C@@H](c2nc(-c3ccc(C(=O)Nc4cc(C(F)(F)F)ccn4)cc3F)c3c(N)nccn23)CN1C(=O)C1CC1,Q15303,IC50,0.065,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+145969908,CN1CCN(c2ccc(Nc3ncc4nc(Sc5ccccc5)n(C5CCC(O)CC5)c4n3)cc2)CC1,P21860,IC50,0.0024,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+9915028,CCCCN(CCCC)C(=O)CN1C[C@H](c2cc(OC)c3c(c2)OCO3)[C@@H](C(=O)O)[C@@H]1CC(C)(C)CCC,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+91827581,CCCCN(CCCC)C(=O)CN1C[C@@H](c2cc(OC)c3c(c2)OCO3)[C@H](C(=O)O)[C@H]1CC(C)(C)CCC,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+44279217,c1ccc(Cn2cnc3ccc(Nc4ncnc5ccccc45)cc32)cc1,P06494,IC50,4.4,Erbb2 - erb-b2 receptor tyrosine kinase 2 (Norway rat),Confirmatory,Active,1
+78243752,C=CC(=O)Nc1cc(-c2nn(C3CCC(N4CCN(C(C)=O)CC4)CC3)c3ncnc(N)c23)ccc1Oc1ccccc1,P21860,IC50,0.023,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+138973681,CNCc1ccccc1-c1csc([C@H](C)Nc2nc(C)nc3cc(OC)c(OC)cc23)c1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+137322663,CNCc1ccccc1-c1csc([C@@H](C)Nc2nc(C)nc3cc(OC)c(OC)cc23)c1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+134148454,CCC(=O)Nc1cc2c(Nc3ccc4c(ccn4Cc4cccnc4)c3)ncnc2cc1OC,Q15303,IC50,0.328,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+3081361,COc1cc2c(Nc3ccc(Br)cc3F)ncnc2cc1OCC1CCN(C)CC1,P21860,Kd,0.16,Receptor tyrosine-protein kinase erbB-3 (human),Confirmatory,Active,1
+71455782,N#CC1(c2ccccn2)CCN(Cc2cc(C(=O)N3CCCC3)c(=O)n3ccccc23)CC1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+52950015,Cc1cc(Br)c2oc(Nc3ccc(-c4cn(C5CCC(N6CCN(C)CC6)CC5)c5ncnc(N)c45)cc3F)nc2c1,P21860,IC50,1.45,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+11496734,COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1NC(=O)/C=C/CN1CCCCCC1,Q15303,IC50,0.04133,Receptor tyrosine-protein kinase erbB-4 (human),Confirmatory,Active,1
+134154721,CCOc1cc2ncnc(Nc3ccc(NS(=O)(=O)c4ccccc4)cc3)c2cc1NC(=O)/C=C/CN1CCOCC1,Q15303,IC50,0.018,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+56851594,Fc1cccc(COc2ccc(Nc3ncnc4cc[nH]c34)cc2Cl)c1,P21860,IC50,0.0077,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+25127713,C=CC(=O)N1CCC(Oc2cc3c(Nc4ccc(Cl)c(Cl)c4F)ncnc3cc2OC)CC1,NP_001036064,,,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Literature-derived,Active,1
+11488320,CNC(=O)CN1CCC(Oc2cc3c(Nc4cccc(Cl)c4F)ncnc3cc2OC)CC1,P21860,IC50,0.004,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+53358071,CC(C)CCNc1ccc(-c2cnc3ccc(N4CCC(N)CC4)nn23)cn1,Q15303,,,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Literature-derived,Active,1
+11590557,O=C(C#CCCN1CCOCC1)Nc1ccc2ncnc(Nc3ccc(F)c(Cl)c3)c2c1,Q15303,IC50,0.0043,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+122516793,Cc1cnc(N)nc1OCC(C)(C)CO,P21860,,,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Literature-derived,Inactive,0
+166642419,CNCCN(C)Cc1cncc(-c2ccc(NS(=O)(=O)C3CC3)cc2)c1,Q15303,,,Receptor tyrosine-protein kinase erbB-4 (human),Literature-derived,Inactive,0
+118430456,Cc1c(Oc2c(F)cccc2F)c(OC(C)C)nn1-c1ncc(C2CC2)cc1F,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+18792927,Nc1ncnc2c1c(-c1cccc(O)c1)cn2C1CCNCC1,Q15303,,,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Literature-derived,Active,1
+45376872,CCOC(=O)c1cc2cc(-c3cc(C(=O)NCc4ccc(C(=O)O)cc4)nn3C)ccc2[nH]1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+56850410,Cn1nc(C(=O)NCc2ccc(C(=O)O)cc2)cc1-c1ccc2[nH]ccc2c1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+67219498,Nc1ncnc2c1c(C(=O)c1ccc(NC(=O)Nc3c(F)cccc3F)cc1)cn2C1CCCC1,P21860,IC50,0.254,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+135157183,COC1CCN(c2nccc(Nc3cc4c(cn3)nc(COCCN3CCN(CCOc5ccc6c(c5)C(=O)N(C5CCC(=O)NC5=O)C6=O)CC3)n4C(C)C)n2)CC1,P21860,IC50,8.6,Receptor tyrosine-protein kinase erbB-3 (human),Confirmatory,Active,1
+171347252,C=CC(=O)N1CCC[C@H](n2nc(C(=O)c3ccc(CC(=O)N(C)C)c(C)c3C)c3c(N)ncnc32)C1,Q15303,IC50,0.0085,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+49821991,COCCOc1nc(-c2ccc(Cl)nc2)nc2c1CN(C(=O)c1ncn3ccccc13)CC2,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+70647728,Cc1c(-c2ccc(C(N)=O)c3[nH]c4cc(C(C)(C)O)ccc4c23)cccc1-n1cnc2ccccc2c1=O,Q15303,IC50,0.05,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+73389638,CN(C1COC1)C(C)(C)/C=C(\C#N)C(=O)N1CCC[C@H]1Cn1nc(-c2ccc(Oc3ccccc3)cc2F)c2c(N)ncnc21,NP_001036064,,,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Literature-derived,Active,1
+155519537,Nc1ncnc2c1c(-c1ccc(Oc3ccccc3)cc1)cn2C[C@H]1CCCN1C[C@@H]1CO1,Q15303,IC50,0.385,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+137652864,C=CS(=O)(=O)N1CCC[C@@H]1Cn1cc(-c2ccc3c(c2)OCO3)c2c(N)ncnc21,Q15303,IC50,1.004,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+44279345,Nc1cc2c(Nc3ccc4c(ccn4Cc4ccccc4)c3)ncnc2cn1,P06494,IC50,0.026,Erbb2 - erb-b2 receptor tyrosine kinase 2 (Norway rat),Confirmatory,Active,1
+127045267,C#Cc1cccc(Nc2ncnc3ccc(-c4cnn(C)c4)cc23)c1,Q15303,IC50,0.782,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+127043295,Cn1cc(-c2ccc3ncnc(Nc4ccc(F)c(Cl)c4)c3c2)cn1,Q15303,IC50,0.801,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+5328149,CN1CCN(CCCNc2ncc3cc(-c4c(Cl)cccc4Cl)c(NC(=O)NC(C)(C)C)nc3n2)CC1,P20786,IC50,0.27,Pdgfra - platelet derived growth factor receptor alpha (Norway rat),Confirmatory,Active,1
+5330167,COc1cc(OC)cc(-c2cc3cnc(NCCCN4CCN(C)CC4)nc3nc2NC(=O)NC(C)(C)C)c1,P20786,IC50,7.9,Pdgfra - platelet derived growth factor receptor alpha (Norway rat),Confirmatory,Active,1
+168279948,CC#CC(=O)N1CCC[C@H]1n1nc(-c2ccc(C(=O)Nc3ccccn3)cc2)c2c(N)ncnc21,Q15303,IC50,0.016,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+46927672,CC(C)c1nc(-c2ccc(F)c(NS(=O)(=O)c3c(F)cccc3F)c2)c(-c2ccnc(Nc3ccc(N4CCOCC4)nc3)n2)s1,Q15303,IC50,0.01,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+59126962,COc1ccc2c(O[C@@H]3C[C@H]4C(=O)N[C@]5(C(=O)O)CC5/C=C\CCCCC[C@H](NC(=O)OC5CCCC5)C(=O)N4C3)cc(-c3csc(NC(=O)C(C)C)n3)nc2c1C,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+5025739,c1ccc(N2CCN(Cc3nc4ccccc4[nH]3)CC2)nc1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+11772152,CSc1cccnc1N1CCN(Cc2nc3ccccc3[nH]2)CC1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+56849556,Cc1ccc(Oc2ccc(Nc3ncnc4cc[nH]c34)cc2C)cn1,P21860,IC50,1.9,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+156905965,O=C1CCC(N2C(=O)c3ccc(NCCOCCOCC#Cc4cccc5c4C(=O)N(C(C(=O)Nc4nccs4)c4cc(F)ccc4O)C5)cc3C2=O)C(=O)N1,P21860,IC50,30.0,Receptor tyrosine-protein kinase erbB-3 (human),Confirmatory,Inactive,0
+124125214,NS(=O)(=O)c1cc(NC(=O)Cc2ccccc2)ccc1Oc1cccc(Cl)c1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+118073729,C=CC(=O)N[C@@H]1CN(c2nc(Nc3cn(C)nc3C)c3ncn(C(C)C)c3n2)C[C@H]1F,P21860,IC50,0.009,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+118073677,C=CC(=O)N[C@@H]1CN(c2nc(Nc3cnn(C)c3)c3ncn(C(C)C)c3n2)C[C@H]1F,P21860,IC50,0.002,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+118073560,C=CC(=O)N[C@@H]1CN(c2nc(Nc3cn(C)nc3OC)c3ncn(C(C)C)c3n2)C[C@H]1F,P21860,IC50,0.002,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+24959105,CC1=C(C#N)C(c2ccc3n[nH]c(C)c3c2)C(C#N)=C(C)N1,Q15303,,,Receptor tyrosine-protein kinase erbB-4 (human),Other,Inactive,0
+52946503,Nc1ncnc2c1c(-c1ccc(Nc3nc4cccc(Cl)c4o3)cc1)nn2C1CCC(N2CCOCC2)CC1,P21860,IC50,1.02,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+139600336,O=C(Nc1cnc(Oc2ccc(F)cc2)nc1)N1CCc2ncccc2[C@@H]1c1ccc(F)cc1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+145978865,COc1ccc(OC)c(Nc2cc(NCCc3cccs3)ncn2)c1,P21860,IC50,0.167,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+155560620,CO[C@@H](C)c1c(Nc2ccc([C@H](N(C)C(=O)C3CCS(=O)(=O)CC3)C(F)(F)F)cc2)cnc2cc(Cl)nn12,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+155561913,CO[C@@H](C)c1c(Nc2ccc([C@@H](N(C)C(=O)C3CCS(=O)(=O)CC3)C(F)(F)F)cc2)cnc2cc(Cl)nn12,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+155558842,O=C1NC(c2ccccn2)Sc2ccccc21,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+156905966,Cc1ncsc1-c1ccc([C@H](C)NC(=O)[C@H]2C[C@H](O)CN2C(=O)[C@@H](NC(=O)COCCOCCOCC#Cc2cccc3c2C(=O)N(C(C(=O)Nc2nccs2)c2cc(F)ccc2O)C3)C(C)(C)C)cc1,P21860,IC50,30.0,Receptor tyrosine-protein kinase erbB-3 (human),Confirmatory,Inactive,0
+156169745,Cn1cc(-c2cc3c(cc2NC(=O)c2coc(-c4ccnc(N)c4)n2)CC(C)(C)O3)cn1,Q15303,,,Receptor tyrosine-protein kinase erbB-4 (human),Literature-derived,Inactive,0
+135236809,N#Cc1cnc2ccc(NC(=O)CC3CCSS3)cc2c1Nc1ccc(OCc2cccc(F)c2)c(Cl)c1,Q15303,IC50,0.05,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+44229839,CC(C)(N)C(=O)NCCn1ccc2ncnc(Nc3ccc(Oc4cccc5sncc45)c(Cl)c3)c21,Q15303,IC50,0.079,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+5494449,Cc1cc(Nc2cc(N3CCN(C)CC3)nc(Sc3ccc(NC(=O)C4CC4)cc3)n2)n[nH]1,P21860,Kd,7.1,Receptor tyrosine-protein kinase erbB-3 (human),Confirmatory,Active,1
+24995525,CCn1cc(-c2ccnc3[nH]ccc23)c(-c2cccc(NC(=O)Nc3ccc(C(F)(F)F)cc3)c2)n1,Q15303,,,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Literature-derived,Inactive,0
+135157218,Cc1ncsc1-c1ccc(CNC(=O)[C@@H]2C[C@@H](O)CN2C(=O)[C@@H](NC(=O)CCCCCOCCCCOCCCCOc2cc3ncnc(Nc4ccc(F)c(Cl)c4)c3cc2NC(=O)/C=C/CN(C)C)C(C)(C)C)cc1,P21860,IC50,6.6,Receptor tyrosine-protein kinase erbB-3 (human),Confirmatory,Active,1
+134139490,CCC(=O)Nc1cc2c(Nc3ccc4c(cnn4Cc4ccccn4)c3)ncnc2cc1OC,Q15303,IC50,0.015,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+71519693,C=CC(=O)Nc1cccc(Nc2ncc(NC(=O)c3cc(NC(=O)c4cccc(C(F)(F)F)c4)ccc3C)cn2)c1,Q15303,IC50,0.0055,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+71556703,C=CC(=O)NCC(=O)Nc1cccc(Nc2ncc(NC(=O)c3cc(NC(=O)c4cccc(C(F)(F)F)c4)ccc3C)cn2)c1,NP_001036064,,,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Literature-derived,Active,1
+44279376,c1ccc(Cc2nc3ccc(Nc4ncnc5ccccc45)cc3[nH]2)cc1,P06494,IC50,0.56,Erbb2 - erb-b2 receptor tyrosine kinase 2 (Norway rat),Confirmatory,Active,1
+44279364,COc1cc2ncnc(Nc3ccc4nc(Cc5ccccc5)[nH]c4c3)c2cc1OC,P06494,IC50,0.01,Erbb2 - erb-b2 receptor tyrosine kinase 2 (Norway rat),Confirmatory,Active,1
+12872323,Clc1ccc2ncc(Br)n2n1,Q15303,,,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Literature-derived,Active,1
+134156845,CN(C)C/C=C/C(=O)Nc1cc2c(Nc3ccc(OCc4cccc(F)c4)c(Cl)c3)ncnc2cn1,Q15303,IC50,0.003,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+155884467,CC[C@@H](Nc1c(C#N)c(-c2ccc(-c3cccc(C)c3F)cc2)nc2cnccc12)C(=O)O,Q15303,,,Receptor tyrosine-protein kinase erbB-4 (human),Other,Inactive,0
+11632391,CCCC#CC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cn1,Q15303,IC50,0.0024,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+11634425,CCCCN(CC#CC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cn1)CCCC,Q15303,IC50,0.073,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+11524106,CCCCC#CC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cn1,Q15303,IC50,0.0071,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+18176200,C#CC(=O)Nc1cc2c(Nc3cccc(Br)c3)ncnc2cn1,Q15303,IC50,0.013,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+11711590,CCN(CC)CC#CC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cn1,Q15303,IC50,0.644,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+11496207,CC(C)N(CC#CC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cn1)C(C)C,Q15303,IC50,0.538,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+134150417,CN(C)C/C=C/C(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cn1,Q15303,IC50,0.028,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+165430656,COc1cc2ncnc3c2cc1OCCOCCOCCOc1cc(F)c(Cl)cc1N3,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Literature-derived,Active,1
+165430654,COc1cc2ncnc3c2cc1OCCOCCOCCOc1ccc(Cl)cc1N3,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Literature-derived,Active,1
+134153313,CCC(=O)Nc1cc2c(Nc3ccc(NS(=O)(=O)c4ccccc4)cc3)ncnc2cc1OC,Q15303,IC50,0.408,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+134145988,CCC(=O)Nc1cc2c(Nc3ccc(NS(=O)(=O)c4ccccc4)c(F)c3)ncnc2cc1OC,Q15303,IC50,0.583,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+25118036,Cc1ccc(C(=O)Nc2ccc(CN3CCN(C)CC3)c(C(F)(F)F)c2)cc1NC(=O)c1cnc2[nH]ccc2c1,Q15303,,,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Literature-derived,Active,1
+132020316,O=C(Nc1nccs1)C(c1cc(F)ccc1O)N1Cc2ccc(-c3ccc(N4CCNCC4)cc3)cc2C1=O,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Literature-derived,Active,1
+145970573,CN1CCN(c2ccc(Nc3ncc4nc(Sc5ccccc5)n(C5CCCC5)c4n3)cc2)CC1,P21860,IC50,0.0042,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+5329111,CC(C)(C)NC(=O)Nc1nc2nc(N)ncc2cc1-c1ccccc1,P20786,IC50,4.67,Pdgfra - platelet derived growth factor receptor alpha (Norway rat),Confirmatory,Active,1
+5328117,Cc1cccc(C)c1-c1cc2cnc(N)nc2nc1NC(=O)NC(C)(C)C,P20786,IC50,0.34,Pdgfra - platelet derived growth factor receptor alpha (Norway rat),Confirmatory,Active,1
+5328115,CCN(CC)CCCNc1ncc2cc(-c3c(Cl)cccc3Cl)c(NC(=O)NC(C)(C)C)nc2n1,P20786,IC50,1.8,Pdgfra - platelet derived growth factor receptor alpha (Norway rat),Confirmatory,Active,1
+5328134,CCNC(=O)Nc1nc2nc(NCCCCN(CC)CC)ncc2cc1-c1c(Cl)cccc1Cl,P20786,IC50,0.25,Pdgfra - platelet derived growth factor receptor alpha (Norway rat),Confirmatory,Active,1
+5328135,CCN(CC)CCCCNc1ncc2cc(-c3c(Cl)cccc3Cl)c(NC(=O)NC(C)(C)C)nc2n1,P20786,IC50,0.45,Pdgfra - platelet derived growth factor receptor alpha (Norway rat),Confirmatory,Active,1
+10738332,CCNC(=O)Nc1nc2nc(N)ncc2cc1-c1c(Cl)cccc1Cl,P20786,IC50,3.73,Pdgfra - platelet derived growth factor receptor alpha (Norway rat),Confirmatory,Active,1
+5328112,CC(C)(C)NC(=O)Nc1nc2nc(N)ncc2cc1-c1c(Cl)cccc1Cl,P20786,IC50,0.63,Pdgfra - platelet derived growth factor receptor alpha (Norway rat),Confirmatory,Active,1
+11524200,Cc1c[nH]c2nccc(Oc3c(F)cc(Nc4cc(Cl)nc(N)n4)cc3F)c12,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+155552454,Cn1cc(Cl)c2c(Oc3c(F)cc(Nc4cc(Cl)nc(N)n4)cc3F)ccnc21,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+134152887,CN(C)C/C=C/C(=O)Nc1cc2c(Nc3ccc(Oc4ccccc4)cc3)ncnc2cn1,Q15303,IC50,0.003,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+135157151,Cc1ncsc1-c1ccc(CNC(=O)[C@@H]2C[C@@H](O)CN2C(=O)[C@@H](NC(=O)COCCOCCOc2ccc(-c3ccc4ncnc(Nc5ccc(OCc6cccc(F)c6)c(Cl)c5)c4c3)cc2)C(C)(C)C)cc1,P21860,IC50,29.0,Receptor tyrosine-protein kinase erbB-3 (human),Confirmatory,Inactive,0
+11260603,Nc1cnc(C#Cc2cc3c(Nc4ccc(OCc5cccc(F)c5)c(Cl)c4)ncnc3s2)cn1,Q15303,IC50,1.349,Receptor tyrosine-protein kinase erbB-4 (human),Confirmatory,Active,1
+155560522,CS(=O)(=O)N1CCCC(NC(=O)[C@H](CCC2CCCCC2)NC(=O)c2ccc(CNc3ncnc4c3nnn4-c3ccccc3)cc2)C1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+11952856,COc1cc2ncnc3c2cc1OCCCCCN(C)Cc1ccc(Br)cc1N3,Q15303,IC50,0.011,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+78319901,C[C@@H]1CN(c2cc(-c3n[nH]c4ccc(OC5(C)CC5)cc34)ncn2)C[C@H](C)O1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+155558331,C[C@@H]1CN(c2cc(-c3nn(C)c4ccc(OC5(C)CC5)cc34)ncn2)C[C@H](C)O1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+155543618,CC1=C(C#N)[C@@H](c2ccc3n[nH]c(C)c3c2)C(C#N)=C(c2ccc(Cl)cc2)N1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+122179556,FC(F)(F)c1ccc2c(c1)nc(-c1cccnc1)n2C1CC1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+56645363,CC(C)(O)c1cncc(-c2nc3ccc(F)cc3n2C2CC2)c1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+141510934,CN(C)CCOc1ccc(Nc2ncc3nc(S(=O)c4ccccc4)n(C4CCOCC4)c3n2)cc1,P21860,IC50,0.0026,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+86302281,C=CC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2s1,Q15303,IC50,0.004,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+72737208,O=C(NCCN1CCCC1)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1O[C@H]1CCOC1,Q15303,IC50,0.012,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+135177281,CC#CC(=O)NCCCC(=O)c1nc(-c2ccc(C(=O)Nc3ccccn3)cc2)c2c(N)nccn12,Q15303,IC50,0.343,Receptor tyrosine-protein kinase erbB-4 (human),Confirmatory,Active,1
+56666048,CCOC1CC2(C[C@H]3O[C@@H](n4cnc5c(NC(=O)OCc6ccccc6)ncnc54)[C@H](O)[C@@H]3O)OC1(C(=O)OC)C(=O)N2C.CCOC1C[C@@]2(C[C@H]3O[C@@H](n4cnc5c(NC(=O)OCc6ccccc6)ncnc54)[C@H](O)[C@@H]3O)OC1(C(=O)OC)C(=O)N2C,Q15303,,,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Literature-derived,Inactive,0
+56849304,CN(C)C(=O)Cn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)cc4)CC3)no2)cn1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+56672966,CCOC1CC2(C)OC1(C(=O)NC[C@H]1O[C@@H](n3cnc4c(N)ncnc43)[C@H](O)[C@@H]1O)C(=O)N2C.CCOC1CC2(C)OC1(C(=O)NC[C@H]1O[C@@H](n3cnc4c(N)ncnc43)[C@H](O)[C@@H]1O)C(=O)N2C,Q15303,,,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Literature-derived,Inactive,0
+11420204,Fc1cccc(COc2ccc(Nc3ncnc4cc(C#C[C@H]5CCCN5)sc34)cc2Cl)c1,Q15303,IC50,0.066,Receptor tyrosine-protein kinase erbB-4 (human),Confirmatory,Active,1
+10437018,Cc1c(NC(=O)OC[C@@H]2COCCN2)cn2ncnc(Nc3ccc4c(cnn4Cc4cccc(F)c4)c3)c12,NP_001036064,,,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Literature-derived,Active,1
+72375558,CN1CCC(Nc2ccc3ncc(-c4cnn(-c5ccc(C#N)cc5)c4)n3n2)CC1,Q15303,,,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Literature-derived,Active,1
+73353994,c1ccc(-n2cc(-c3cnc4ccc(NC5CCNCC5)nn34)cn2)cc1,Q15303,,,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Literature-derived,Active,1
+127051561,CCc1ccc2nc(-c3ccc(-n4nnc5ccccc54)c(C)c3)sc2c1,P21860,,,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Literature-derived,Active,1
+127051829,Cc1cc(-c2nc3ccccc3s2)ccc1-n1nnc2ccccc21,P21860,,,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Literature-derived,Active,1
+127051255,COc1ccc2nc(-c3ccc(-n4nnc5ccccc54)cc3)sc2c1,P21860,,,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Literature-derived,Active,1
+145993006,O=C(O)CCCC(=O)Nc1cc(N2CCOCC2)ncn1,P21860,IC50,0.027,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+5330134,COc1cc(OC)cc(-c2cc3cnc(NCCCCCN4CCOCC4)cc3nc2NC(=O)NC(C)(C)C)c1,P20786,IC50,2.9,Pdgfra - platelet derived growth factor receptor alpha (Norway rat),Confirmatory,Active,1
+121301295,COc1ccc2c(c1)O[C@@H](c1ccc(OC)c(OC)c1)C[C@H]2NC(=O)C1(c2ccc3c(c2)OC(F)(F)O3)CC1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+121301422,COc1ccc2c(c1)O[C@H](c1ccc(OC)c(OC)c1)C[C@@H]2NC(=O)C1(c2ccc3c(c2)OC(F)(F)O3)CC1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+135236611,N#Cc1cnc2cc(OC[C@H](O)CO)c(NC(=O)CC3CSSC3)cc2c1Nc1ccc(OCc2cccc(F)c2)c(Cl)c1,Q15303,IC50,0.05,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+135236945,N#Cc1cnc2cc(OC[C@@H](O)CO)c(NC(=O)CC3CSSC3)cc2c1Nc1ccc(OCc2cccc(F)c2)c(Cl)c1,P21860,Kd,0.38,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+156905959,COC1CCN(c2nccc(Nc3cc4c(cn3)nc(COCCON3CCN(c5ccc6c(c5)C(=O)N(C5CCC(=O)NC5=O)C6=O)CC3)n4C(C)C)n2)CC1,P21860,IC50,30.0,Receptor tyrosine-protein kinase erbB-3 (human),Confirmatory,Inactive,0
+51003603,CN(C(=O)CNC(=O)/C=C/c1cccc(Cl)c1)C1CCS(=O)(=O)CC1,NP_001036064,,,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Other,Inactive,0
+45268455,CN([C@@H]1CCc2c(CC(=O)O)c3ccccc3n2C1)S(=O)(=O)c1ccc(F)cc1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+53326879,CN([C@@H]1CCc2c(CC(=O)O)c3cc(S(C)(=O)=O)ccc3n2C1)S(=O)(=O)c1ccc(F)cc1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+156009444,CC1=C(C#N)C(c2ccc3c(c2)c(NC(=O)c2ccccc2C)nn3C)C(C#N)=C(C)N1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+134817183,CCc1ccccc1C(=O)Nc1n[nH]c2c(C)c(F)c(C3C(C#N)=C(C)N(C)C(C)=C3C#N)cc12,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+171354640,C=CC(=O)Nc1cc(-c2nn(C3CCN(CCNC(=O)[C@H](C)CCC45CC6CC(CC(C6)C4)C5)CC3)c3ncnc(N)c23)ccc1OCc1ccccc1,P21860,IC50,0.049,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+56678756,CCC(=O)N[C@@H]1CC[C@H](C(=O)N(C)c2ccc(-c3nc4ccccc4o3)cc2)C1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+51346964,CCC(=O)N[C@H]1CC[C@@H](C(=O)N(C)c2ccc(-c3nc4ccccc4o3)cc2)C1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+122419211,Cc1ccc(NC(=O)c2ccc(C)c(C(F)(F)F)c2)cc1C#Cc1nn(C2CCC(O)CC2)c2ncnc(N)c12,Q15303,IC50,0.122,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+155531721,C=CC(=O)N1CCC[C@@H](n2nc(-c3ccc(Oc4ccccc4)cc3)c3ccccc32)C1,Q15303,,,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Literature-derived,Active,1
+163196331,C=CC(=O)Nc1cccc(-n2c(=O)c(C3CCCCC3)nc3cnc(Nc4cccc(OCCOC)c4)nc32)c1,Q15303,,,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Literature-derived,Active,1
+134157315,CCC(=O)Nc1cc2c(Nc3ccc(Cc4ccccn4)cc3)ncnc2cc1OC,Q15303,IC50,0.676,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+156413,C=CC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OCCCN1CCOCC1.Cl.Cl,Q15303,IC50,0.027,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+156414,C=CC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OCCCN1CCOCC1,P21860,Kd,0.21,Receptor tyrosine-protein kinase erbB-3 (human),Confirmatory,Active,1
+53251189,Cc1cc(Nc2nccc(C)n2)cc(-c2cnc([C@@]3(O)CC[C@H](C(=O)O)C(C)(C)C3)s2)c1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+56849555,Clc1cc(Nc2ncnc3cc[nH]c23)ccc1OCc1ccccn1,P21860,IC50,0.018,ERBB3 - erb-b2 receptor tyrosine kinase 3 (human),Confirmatory,Active,1
+145988956,N#CN[C@H]1CCc2ccc(-c3ncnc4[nH]cc(-c5cccc(CO)c5)c34)cc21,Q15303,IC50,3.54,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+155554839,Cc1nccc(COC(=O)N2C[C@@H]3C(CNC(=O)c4ccc5n[nH]nc5c4)[C@@H]3C2)n1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+5330127,COc1cc(OC)cc(-c2cc3cnc(NCCCN4CCN(C)CC4)cc3nc2NC(=O)NC(C)(C)C)c1,P20786,IC50,1.8,Pdgfra - platelet derived growth factor receptor alpha (Norway rat),Confirmatory,Active,1
+5330126,CCNC(=O)Nc1nc2cc(NCCCN3CCN(C)CC3)ncc2cc1-c1cc(OC)cc(OC)c1,P20786,IC50,7.5,Pdgfra - platelet derived growth factor receptor alpha (Norway rat),Confirmatory,Active,1
+5330125,COc1cc(OC)cc(-c2cc3cnc(NCCCN4CCN(C)CC4)cc3nc2N)c1,P20786,IC50,9.1,Pdgfra - platelet derived growth factor receptor alpha (Norway rat),Confirmatory,Active,1
+73345250,CCOC1CC2(C)OC1(C(=O)OC)C(=O)N2C[C@H]1O[C@@H](n2cnc3c(NC(=O)OCc4ccccc4)ncnc32)[C@H](O)[C@@H]1O.CCOC1C[C@@]2(C)OC1(C(=O)OC)C(=O)N2C[C@H]1O[C@@H](n2cnc3c(NC(=O)OCc4ccccc4)ncnc32)[C@H](O)[C@@H]1O,Q15303,,,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Literature-derived,Inactive,0
+134140285,CCC(=O)Nc1cc2c(Nc3ccc4c(ccn4Cc4ccncc4)c3)ncnc2cc1OC,Q15303,IC50,0.213,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+134150331,CN(C)C/C=C/C(=O)Nc1cc2c(Nc3ccc(Cc4ccccn4)cc3)ncnc2cn1,Q15303,IC50,0.004,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
+156905964,COC1CCN(c2nccc(Nc3cc4c(cn3)nc(COCCOCCOCCOCC(=O)N[C@H](C(=O)N3C[C@@H](O)C[C@@H]3C(=O)N[C@@H](C)c3ccc(-c5scnc5C)cc3)C(C)(C)C)n4C(C)C)n2)CC1,P21860,IC50,30.0,Receptor tyrosine-protein kinase erbB-3 (human),Confirmatory,Inactive,0
+60195662,C[C@H](c1ccc(F)cc1)N(Cc1cccc(C(=O)O)c1)C(=O)c1cnc2ccccc2c1,P21860,,,Receptor tyrosine-protein kinase erbB-3 (human),Other,Inactive,0
+134137974,O=C(/C=C/CN1CCCCC1)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cn1,Q15303,IC50,0.007,ERBB4 - erb-b2 receptor tyrosine kinase 4 (human),Confirmatory,Active,1
