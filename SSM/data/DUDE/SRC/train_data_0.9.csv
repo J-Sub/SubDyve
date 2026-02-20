@@ -1,0 +1,736 @@
+cid,SMILES,protacxn,acname,acvalue,targetname,aidtypeid,activityid,label
+5311022,NC(=O)NCc1ccc(CNC(=O)[C@@H](CCCN=C(N)N)NC(=O)C(c2ccccc2)c2ccccc2)cc1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+24856041,Cc1csc(-c2nnc(Nc3ccc(Oc4ncccc4-c4ccnc(N)n4)cc3)c3ccccc23)c1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+16666708,Cc1cc(C(=O)NOCCO)c(Nc2ccc(I)cc2F)n(C)c1=O,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+126672760,COc1ccccc1C(=O)N1Cc2cnc(Nc3cccc(N(C)C)c3)nc2C1,P06241,IC50,10.084,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+49806720,CCc1cc2c(cc1N1CCC(N3CCOCC3)CC1)C(C)(C)c1[nH]c3cc(C#N)ccc3c1C2=O,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+6918,O=C(O)c1ccsc1,P06241,Kd,0.7,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+155544007,Cc1cc(NC(=O)c2cccc(S(F)(F)(F)(F)F)c2)cc(-n2ccn3nc(-c4cccnc4)cc23)c1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+71623052,Cc1cc(C)c(-n2ccn3nc(-c4cccnc4)cc23)cc1NC(=O)c1cc(C#N)cc(S(F)(F)(F)(F)F)c1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+25254071,Cc1c(CN2CCN(C(=O)[C@H](C)O)CC2)sc2c(N3CCOCC3)nc(-c3cnc(N)nc3)nc12,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+73258496,COc1ccc(OC)c(N2C(c3ccc(F)cc3)=CN3C2=NC2C3C(=O)NC(=O)N2C)c1,P06241,IC50,18.444,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+60195662,C[C@H](c1ccc(F)cc1)N(Cc1cccc(C(=O)O)c1)C(=O)c1cnc2ccccc2c1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+11978790,COc1ccc(-c2ccc3ncc4c(c3c2)n(-c2ccc(N3CCNCC3)c(C(F)(F)F)c2)c(=O)n4C)cn1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+5328896,COc1ccc2c(Nc3ccc(Cl)cc3Cl)c(C#N)cnc2c1,P06241,ID50,2.0,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+50877865,COc1cc(Nc2ccnc3cc(Br)ccc23)cc(OC)c1OC,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Active,1
+162644992,COc1cc(Nc2ccnc3cc(I)ccc23)cc(OC)c1OC,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Active,1
+134141380,COc1cc(Nc2ccnc3cc(Cl)ccc23)cc(OC)c1OC,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Active,1
+155563824,COc1cc(Nc2ccnc3cc(C#N)ccc23)cc(OC)c1OC,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Active,1
+162534353,COc1cc(Nc2ccnc3cc(C(F)(F)F)ccc23)cc(OC)c1OC,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Active,1
+6445562,CCOc1cc2ncc(C#N)c(Nc3ccc(F)c(Cl)c3)c2cc1NC(=O)/C=C/CN(C)C,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+126672950,CC(=O)c1ccc(-c2cnc(N)c(-c3cccc(N(C)C)c3)c2)s1,P06241,IC50,3.415,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+16222096,O=C(c1ccc(F)c(F)c1Nc1ccc(I)cc1F)N1CC(O)([C@@H]2CCCCN2)C1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+135398499,CC(=O)c1cnc2ccc(-c3cc(Cl)c(O)c(Cl)c3)nc2c1NC1CCC(CN(C)C)CC1,P06241,Kd,0.125,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672936,Oc1cccc(-c2cnc3cnc(-c4ccco4)cn23)c1,P06241,IC50,6.112,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+25161177,C[C@@H](NC(=O)c1ncnc(N)c1Cl)c1ncc(C(=O)Nc2cc(C(F)(F)F)c(Cl)cn2)s1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+126672935,c1csc(CNc2nn3c(-c4ccc(N5CCOCC5)cc4)cnc3s2)c1,P06241,IC50,3.823,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+6419816,CCC(CO)Nc1ccc2ncc(-c3ccc(OC)nc3)n2n1,P06241,IC50,2.366,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673017,CNc1ccc2ncc(-c3ccc(OC)nc3)n2n1,P06241,IC50,4.462,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58857759,c1ccc2oc(-c3cnc4ccc(NCc5ccncc5)nn34)cc2c1,P06241,IC50,6.45,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+91885570,Cn1nc(C(F)(F)F)cc1-c1cnc(N2CCc3cc(S(=O)(=O)Nc4c(F)cc(Cl)cc4F)cc(N4CCCC4=O)c32)nc1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+3064778,O=c1[nH]ccc2c(S(=O)(=O)N3CCCNCC3)cccc12,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+137120103,Oc1ccc(-c2cnc3cnc(-c4cnn(Cc5ccccc5)c4)cn23)cc1,P06241,IC50,6.619,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+118725883,Clc1cccc(Nc2nc(SC3CCCC3)nc3c2cnn3CC(Cl)c2ccccc2)c1,P06241,Ki,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Inactive,0
+118725882,Fc1cccc(Nc2nc(SC3CCCC3)nc3c2cnn3CC(Cl)c2ccccc2)c1,P06241,Ki,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Inactive,0
+137479135,CN(C)c1ncnc(-c2ccc3nc(Nc4cc(CN5CCN(C(=O)CC(F)(F)F)CC5)ccn4)[nH]c3c2)c1Cl,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+145925685,C[C@H](c1ccnc(Nc2nc3ccc(-c4cc(N(C)C)ncn4)cc3[nH]2)c1)N1CCN(C(=O)CC(F)(F)F)CC1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+24748204,O=C(O)C1(Cc2cccc(Nc3nccs3)n2)CCC(Oc2cccc(Cl)c2F)CC1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+11349170,COc1cccc(Nc2ncnn3ccc(CN4CC[C@@H](N)[C@H](O)C4)c23)c1,P06241,Kd,0.583,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+155560620,CO[C@@H](C)c1c(Nc2ccc([C@H](N(C)C(=O)C3CCS(=O)(=O)CC3)C(F)(F)F)cc2)cnc2cc(Cl)nn12,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+155561913,CO[C@@H](C)c1c(Nc2ccc([C@@H](N(C)C(=O)C3CCS(=O)(=O)CC3)C(F)(F)F)cc2)cnc2cc(Cl)nn12,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+12294704,CC1=CC(=O)C(=O)C=C1C,P06241,IC50,1.0,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+162662928,O=C(Nc1cccnn1)N1CC(C/C=C/c2cncc(Oc3ccc(C(F)(F)F)cn3)n2)C1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+24794418,CCOc1ccn(-c2ccc(F)cc2)c(=O)c1C(=O)Nc1ccc(Oc2ccnc(N)c2Cl)c(F)c1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+121301295,COc1ccc2c(c1)O[C@@H](c1ccc(OC)c(OC)c1)C[C@H]2NC(=O)C1(c2ccc3c(c2)OC(F)(F)O3)CC1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+121301422,COc1ccc2c(c1)O[C@H](c1ccc(OC)c(OC)c1)C[C@@H]2NC(=O)C1(c2ccc3c(c2)OC(F)(F)O3)CC1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+24748573,O=C(O)c1ccc2c(c1)nc(Nc1cccc(Cl)c1)c1ccncc12,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+126672772,COc1ccc(-c2cncc(-c3cccc(C(=O)NCCCN(C)C)c3)n2)cc1,P06241,IC50,9.059,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126475313,COc1ccc(-c2cncc(-c3cccc(NC(C)=O)c3)n2)cc1,P06241,IC50,3.501,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126473635,CC(=O)Nc1cccc(-c2cncc(-c3cccc(O)c3)n2)c1,P06241,IC50,3.878,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+137120099,COc1ccc(-c2cncc(-c3ccc(O)c(OC)c3)n2)cc1,P06241,IC50,5.179,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+9933645,Cc1cccc(Cl)c1NC(=O)c1ccc2nc(Nc3cccc(NCCO)n3)sc2c1,P06241,Ki,0.0024,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+126673276,c1cc(-c2cnc3ccc(-c4ccoc4)nn23)ccn1,P06241,IC50,1.02,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+155550034,CC(=O)N1CCC(c2ccc(C(=O)NC3=NCCN3)cc2C(F)(F)F)CC1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+24795070,CN1CCC(CNc2ccc3ncc(-c4cccc(OC(F)(F)F)c4)n3n2)CC1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+44299321,CNS(=O)(=O)c1ccc2c(c1)/C(=C/c1[nH]c3c(c1CCCN1CCC(O)CC1)CCCC3)C(=O)N2,P06241,IC50,0.2,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+44299304,CCS(=O)(=O)c1ccc2c(c1)/C(=C/c1[nH]c3c(c1CCCN1CCC(O)CC1)CCCC3)C(=O)N2,P06241,IC50,0.6,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+24963252,Cn1c(=O)c(F)c(Nc2ccc(I)cc2F)c2c(=O)n(C[C@@H](O)CO)cnc21,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+155558842,O=C1NC(c2ccccn2)Sc2ccccc21,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+11667893,CC1(C)CNc2cc(NC(=O)c3cccnc3NCc3ccncc3)ccc21,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+11327430,O=c1cc(N2CCOCC2)oc2c(-c3cccc4c3sc3ccccc34)cccc12,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+126672947,COc1ccccc1-c1[nH]nc2nccc(/C=C/c3ccccc3)c12,P06241,IC50,1.128,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+162652871,COc1cc(-c2cn([C@H]3CCc4ccccc4N(CC(F)(F)F)C3=O)nn2)ccc1-n1ccc(C)n1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+126672917,CCOc1cccc(-c2cn3c(-c4cccc(O)c4)cnc3cn2)c1,P06241,IC50,6.686,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672801,COc1cc(OC)cc(-c2cnc3cnc(-c4ccc(C(=O)NCCCN(C)C)cc4)cn23)c1,P06241,IC50,6.691,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673013,COc1cc(-c2cnc3cnc(-c4cccc(NS(C)(=O)=O)c4)cn23)cc(OC)c1OC,P06241,IC50,2.796,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673048,CN(C)CCNC(=O)c1ccc(-c2cn3c(-c4ccc(Cl)cc4)cnc3cn2)cc1,P06241,IC50,4.159,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+117769534,CC(=O)c1cccc(-c2cnc3cnc(-c4ccc(C(=O)NCCN(C)C)cc4)cn23)c1,P06241,IC50,4.07,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+137120121,COc1cc(-c2cnc3cnc(-c4cccc(C(=O)NCCO)c4)cn23)ccc1O,P06241,IC50,1.276,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+137120125,COc1cc(-c2cnc3cnc(-c4ccccc4Cl)cn23)ccc1O,P06241,IC50,2.539,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672945,OCc1ccc(-c2cn3c(-c4cccc(O)c4)cnc3cn2)cc1,P06241,IC50,3.357,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+137001344,CCOc1cccc(-c2cn3c(-c4ccc(O)c(OC)c4)cnc3cn2)c1,P06241,IC50,1.363,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673149,NC(=O)c1cccc(-c2cn3c(-c4cccc(O)c4)cnc3cn2)c1,P06241,IC50,1.58,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672927,CN(C)CCCNC(=O)c1ccc(-c2cn3c(-c4cccc(O)c4)cnc3cn2)cc1,P06241,IC50,1.611,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+137001346,Oc1ccc(-c2cnc3cnc(-c4ccc(Cl)cc4)cn23)cc1,P06241,IC50,6.378,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+137120106,COc1cc(-c2cnc3cnc(-c4ccccc4N(C)C)cn23)ccc1O,P06241,IC50,1.754,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673071,CN(C)CCCNC(=O)c1ccc(-c2cn3c(-c4cccc(Cl)c4)cnc3cn2)cc1,P06241,IC50,8.432,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+137120130,CN(C)C(=O)c1cccc(-c2cn3c(-c4ccc(O)cc4)cnc3cn2)c1,P06241,IC50,0.871,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+137120109,O=C(NCCO)c1ccc(-c2cn3c(-c4ccc(O)cc4)cnc3cn2)cc1,P06241,IC50,0.74,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+135316032,CN(C)CCNC(=O)c1ccc(-c2cn3c(-c4cccc(O)c4)cnc3cn2)cc1,P06241,IC50,0.812,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+137120120,COc1cc(-c2cnc3cnc(-c4ccc(C(=O)NCCN(C)C)cc4)cn23)ccc1O,P06241,IC50,0.337,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+137120115,COc1cc(-c2cnc3cnc(-c4ccc(C(=O)NCCCN(C)C)cc4)cn23)ccc1O,P06241,IC50,0.647,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+137120116,CN(C)CCNC(=O)c1ccc(-c2cn3c(-c4ccc(O)cc4)cnc3cn2)cc1,P06241,IC50,0.486,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+137120117,O=C(NCCO)c1cccc(-c2cn3c(-c4ccc(O)cc4)cnc3cn2)c1,P06241,IC50,1.031,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672889,CN(C)CCCNC(=O)c1ccc(-c2cn3c(-c4ccc(Cl)cc4)cnc3cn2)cc1,P06241,IC50,4.903,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673010,O=C(NCCO)c1ccc(-c2cn3c(-c4cccc(O)c4)cnc3cn2)cc1,P06241,IC50,1.723,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673041,Oc1cccc(-c2cnc3cnc(-c4ccccc4)cn23)c1,P06241,IC50,6.546,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+137293670,CN(C)CCCNC(=O)c1ccc(-c2cn3c(-c4ccc(O)cc4)cnc3cn2)cc1,P06241,IC50,0.705,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673296,COc1ccc(-c2cnc3cnc(-c4ccc(O)cc4)cn23)cc1,P06241,IC50,10.458,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+126471579,OCCCNc1ccc2ncc(-c3ccc(Oc4ccccc4)cc3)n2n1,P06241,IC50,5.543,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673157,CC(=O)c1cccc(-c2ccnc3n[nH]c(C4CCNCC4)c23)c1,P06241,IC50,19.658,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+135316086,COc1cccc(-c2ccnc3n[nH]c(C4CCNCC4)c23)c1,P06241,IC50,17.596,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+137293678,COc1cc(-c2ccnc3n[nH]c(C4CCNCC4)c23)ccc1O,P06241,IC50,11.885,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+132456816,COc1ccc(F)cc1-c1ccnc2n[nH]c(C3CCNCC3)c12,P06241,IC50,11.693,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+59176054,COc1cc2ncnc3c2cc1OCCCCCN(C(=O)OCc1ccccc1)Cc1ccc2c(c1N3)OCO2,P06241,IC50,0.00669,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672956,Cn1cc(-c2cn3c(-c4ccsc4)cnc3cn2)cn1,P06241,IC50,6.376,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+121316061,COC(Cn1nc(-c2ccccc2)c2c(N)nc(SC)nc21)c1ccccc1,P06241,Ki,10.0,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+121316014,Nc1ncnc2c1c(-c1ccccc1)nn2CC(Cl)c1ccccc1,P06241,Ki,0.9,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+121316037,CC(=O)c1ccc(-c2nn(CC(C)c3ccccc3)c3ncnc(N)c23)cc1,P06241,Ki,10.0,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+121316084,Nc1ncnc2c1c(-c1ccc(F)cc1)nn2CC(Cl)c1ccccc1,P06241,Ki,0.36,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+121316093,COc1ccc(-c2nn(CC(Cl)c3ccccc3)c3ncnc(N)c23)cc1,P06241,Ki,1.485,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+121316042,CC(Cn1nc(-c2ccccc2)c2c(N)ncnc21)c1ccccc1,P06241,Ki,3.35,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+121316056,CNc1nc(SC)nc2c1c(-c1ccccc1)nn2CCc1ccccc1,P06241,Ki,10.0,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+121316045,Cc1ccc(-c2nn(CC(C)c3ccccc3)c3ncnc(N)c23)cc1,P06241,Ki,0.995,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+121316090,CC(Cn1nc(-c2ccc(Cl)cc2)c2c(N)ncnc21)c1ccccc1,P06241,Ki,0.87,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+155522337,Nc1ncnc2c1c(-c1ccc(CO)cc1)nn2CC(Cl)c1ccccc1,P06241,Ki,0.12,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+135316156,COc1cc(-c2cc(-c3ccoc3)cnc2N)cc(OC)c1OC,P06241,IC50,12.096,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+90480124,Cn1cc(-c2ccc3ncc(-c4cccs4)n3n2)cn1,P06241,IC50,1.314,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+44321260,CNc1cc(Nc2nc3ccc(C(=O)Nc4c(C)cccc4Cl)cc3s2)ncn1,P06241,Ki,0.0088,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+44320732,Cc1cc(Nc2nc3ccc(C(=O)Nc4c(C)cccc4Cl)cc3s2)nc(NCCO)n1,P06241,IC50,0.004,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+5821855,O=C1Nc2ccc(Cl)cc2/C1=C\c1ccccc1F,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+2688431,O=C1Nc2ccc(Cl)cc2/C1=C\c1ccccc1[N+](=O)[O-],P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+672250,COc1ccccc1/C=C1/C(=O)Nc2ccccc21,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+46889128,O=C1Nc2ccc(Cl)cc2/C1=C\c1cc(F)cc(F)c1,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+2338587,COc1cc(/C=C2/C(=O)Nc3ccc(Cl)cc32)cc(OC)c1OC,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+46889099,O=C1Nc2ccc(Cl)cc2/C1=C\c1ccccc1S(=O)(=O)O,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+46889129,NC(=O)Cc1ccc(/C=C2/C(=O)Nc3ccc(Cl)cc32)cc1,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+3674,COc1cc(OC)c(C=C2C(=O)Nc3ccccc32)c(OC)c1,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+8856659,COc1ccc(/C=C2/C(=O)Nc3ccc(Cl)cc32)c(OC)c1OC,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+58285516,COc1ccc(-c2cnc3sc(NCc4cccnc4)nn23)cn1,P06241,IC50,2.938,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+72193935,CC1(C)OC(=O)N(c2ccc(-c3cnc(N)c(-c4ncccn4)c3)cc2)[C@H]1c1ccccc1,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+25229646,N#CC1(c2ccccn2)CCN(Cc2cc(C(=O)O)c(=O)n3ccccc23)CC1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+135316175,CN1CCN(C(=O)c2cccc(-c3cnc(N)c(-c4cccc(N(C)C)c4)c3)c2)CC1,P06241,IC50,4.439,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+9849735,C=CCN(/C=C1/C(=O)O[C@H](COC)[C@@]2(C)C1=C(O)C(=O)C1=C2[C@H](OC(C)=O)C[C@]2(C)C(=O)CC[C@@H]12)CC=C,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+45376872,CCOC(=O)c1cc2cc(-c3cc(C(=O)NCc4ccc(C(=O)O)cc4)nn3C)ccc2[nH]1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+56850410,Cn1nc(C(=O)NCc2ccc(C(=O)O)cc2)cc1-c1ccc2[nH]ccc2c1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+11152667,NC(=O)Nc1cc(-c2cccc(F)c2)sc1C(=O)N[C@H]1CCCNC1,P06241,Kd,0.284,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+71226367,C[C@H]1CC[C@@H](c2nc(-c3ccc(C(=O)Nc4cc(C(F)(F)F)ccn4)cc3F)c3c(N)nccn23)CN1C(=O)C1CC1,P06241,IC50,0.198,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+137001349,COc1cc(-c2cnc3cnc(-c4ccc(NCCN5CCOCC5)nc4)cn23)ccc1O,P06241,IC50,1.354,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673164,Oc1cccc(-c2cnc3cnc(-c4ccc(NCCN5CCOCC5)nc4)cn23)c1,P06241,IC50,2.939,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+137120128,Oc1ccc(-c2cnc3cnc(-c4ccc(NCCN5CCOCC5)nc4)cn23)cc1,P06241,IC50,1.314,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+43860,CN1N=C(N)c2cn([C@@H]3O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]3O)c3ncnc1c23,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+54755437,CN(C)C/C=C/C(=O)N1CC[C@@H](n2c(=O)n(-c3ccc(Oc4ccccc4)cc3)c3c(N)ncnc32)C1,P06241,IC50,236.0,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Inactive,0
+54755438,CC#CC(=O)N1CC[C@@H](n2c(=O)n(-c3ccc(Oc4ccccc4)cc3)c3c(N)ncnc32)C1,P06241,IC50,762.0,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Inactive,0
+155307710,C=CC(=O)N1CCCC[C@H]1c1nc(-c2ccc(C(=O)Nc3cc(C(F)(F)F)ccn3)cc2)c(C(N)=O)n1N,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+121316145,CCCCSc1nc(NCCc2ccccc2)c2cnn(CC(Cl)c3ccccc3)c2n1,P06241,Ki,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Inactive,0
+121316001,CCC(C)Sc1nc(NCCc2ccccc2)c2cnn(CC(Cl)c3ccccc3)c2n1,P06241,Ki,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Inactive,0
+176,CC(=O)O,P06241,Kd,0.9,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+10401956,C=CC(=O)Nc1ccc2ncnc(Nc3ccccc3)c2c1,P06241,IC50,0.006,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+3794,COc1cc2ncnc(Nc3ccc(O)cc3)c2cc1OC,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+24756910,C#Cc1cccc(Nc2ncnc3cc(OC)c(OCCCCCCC(=O)NO)cc23)c1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+71494905,C=CC(=O)N1CCCC[C@H]1n1nc(-c2ccc(Oc3ccccc3)cc2)c2c(N)ncnc21,P06241,IC50,0.0956,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+25227436,NC1(C(=O)N[C@@H](CCO)c2ccc(Cl)cc2)CCN(c2ncnc3[nH]ccc23)CC1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+11497983,CCN(CCCOc1ccc2c(Nc3cc(CC(=O)Nc4cccc(F)c4)[nH]n3)ncnc2c1)CCOP(=O)(O)O,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+5330453,COc1cc(Nc2c(C#N)cnc3cc(-c4ccc(CN5CCOCC5)cc4)ccc23)c(Cl)cc1Cl,P06241,IC50,1.17,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+56669626,CCN1CCN(c2ccc(Nc3cc(N(C)C(=O)Nc4c(Cl)c(OC)cc(OC)c4Cl)ncn3)cc2)CC1.O=P(O)(O)O,P06241,IC50,1.9,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+53235510,CCN1CCN(c2ccc(Nc3cc(N(C)C(=O)Nc4c(Cl)c(OC)cc(OC)c4Cl)ncn3)cc2)CC1,P06241,IC50,1.9,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+156009444,CC1=C(C#N)C(c2ccc3c(c2)c(NC(=O)c2ccccc2C)nn3C)C(C#N)=C(C)N1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+134817183,CCc1ccccc1C(=O)Nc1n[nH]c2c(C)c(F)c(C3C(C#N)=C(C)N(C)C(C)=C3C#N)cc12,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+155549686,O=C(O)[C@@H]1[C@@H](Cn2nnc3ccccc3c2=O)CC[C@H]1C(=O)c1ccc(OCCC2CCOCC2)cc1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+118425786,O=C(O)[C@H]1[C@H](Cn2nnc3ccccc3c2=O)CC[C@@H]1C(=O)c1ccc(OCCC2CCOCC2)cc1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+451705,CN[C@H]1C[C@@H]2O[C@](C)([C@H]1OC)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(=O)NC4,NP_694592,,0.033,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Other,Active,1
+3078519,CN[C@@H]1C[C@H]2O[C@@](C)([C@@H]1OC)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(=O)N[C@H]4O,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+162669526,COC[C@H]1O[C@@H](c2c(O)ccc3ccccc23)[C@H](OC)[C@@H](OC)[C@@H]1OC,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+162647217,OC[C@H]1O[C@@H](c2c(O)ccc3ccccc23)[C@H](O)[C@@H](O)[C@@H]1O,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+24864821,COc1ccc2c(OCc3nnc4ccc(-c5ccccc5)nn34)ccnc2c1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+10430360,c1cc(OCCN2CCCCC2)cc(-c2n[nH]c3ccc(-c4ncn[nH]4)cc23)c1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+127046693,C[C@@H](c1cccc(C#N)c1)n1cc(Cl)cc(C(N)=O)c1=N,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+16123056,CCn1c(=O)c(-c2ccn[nH]2)cc2c(C)nc(N)nc21,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+139030333,Nc1c(C(=O)NCc2ccc(C(=O)NCCCC3CCCCC3)cc2)cnn1-c1ccccc1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+155546287,O=C(NCCCC1CCCCC1)c1ccc(CNC(=O)c2cnn(-c3ccccc3)c2C(F)(F)F)cc1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+126673351,COc1ccccc1-c1[nH]nc2nccc(-c3ccc(N4CCOCC4)cc3)c12,P06241,IC50,1.387,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+44299203,CCS(=O)(=O)c1ccc2c(c1)/C(=C/c1[nH]c3c(c1CN1CCOCC1)CCCC3)C(=O)N2,P06241,IC50,1.4,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+44299176,CNS(=O)(=O)c1ccc2c(c1)/C(=C/c1[nH]c3c(c1CN1CCOCC1)CCCC3)C(=O)N2,P06241,IC50,0.4,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+44543970,CCS(=O)(=O)c1cc2cc(C[C@](O)(CC(C)(C)c3ccc(F)cc3C(N)=O)C(F)(F)F)[nH]c2cn1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+58026161,CCS(=O)(=O)c1cc2cc(C[C@@](O)(CC(C)(C)c3ccc(F)cc3C(N)=O)C(F)(F)F)[nH]c2cn1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+58285693,c1cncc(-c2cnc3sc(NCc4ccco4)nn23)c1,P06241,IC50,3.164,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+16038120,COc1cc(N2CCC(N3CCN(C)CC3)CC2)ccc1Nc1ncc(Cl)c(Nc2ccccc2S(=O)(=O)C(C)C)n1,P06241,Kd,1.4,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672931,CC(=O)Nc1ccc(-c2ccnc3n[nH]c(C4CC4)c23)cc1,P06241,IC50,8.89,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+135316031,Clc1cccc(-c2ccnc3n[nH]c(C4CC4)c23)c1,P06241,IC50,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+11719421,Cc1cccc(C)c1-c1cc(C)c2nc(Nc3ccc(OCCN4CCCC4)cc3)nnc2c1,P06241,IC50,0.023,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+11712625,Cc1cc(-c2cc(O)ccc2Cl)cc2nnc(Nc3ccc(OCCN4CCCC4)cc3)nc12,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+126672770,COc1cc(-c2cc(-c3ccccc3Oc3ccccc3)cnc2N)cc(OC)c1OC,P06241,IC50,9.006,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+68487234,c1ccc(CNc2ccc3ncc(-c4ccncc4)n3n2)nc1,P06241,IC50,0.17,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+155568985,O=C(Nc1ccc(Oc2ccc(F)cc2)cc1)N1CCc2ncccc2[C@H]1c1ccc(F)cc1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+58285444,CC(=O)c1cccc(-c2cnc3sc(NC4CCC(O)CC4)nn23)c1,P06241,IC50,0.487,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58285603,CN(C)c1cccc(-c2cnc3sc(NC4CCC(O)CC4)nn23)c1,P06241,IC50,5.794,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58285654,Oc1ccc(-c2cnc3sc(NC4CCC(O)CC4)nn23)cc1,P06241,IC50,3.804,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58285859,Fc1cccc(-c2cnc3sc(NC4CCCCC4)nn23)c1,P06241,IC50,4.078,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672989,CN(C)C(=O)c1cccc(-c2cnc3sc(NC4CCC(O)CC4)nn23)c1,P06241,IC50,0.288,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58285623,CS(=O)(=O)Nc1cccc(-c2cnc3sc(NC4CCCCC4)nn23)c1,P06241,IC50,4.333,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58285823,OC1CCC(Nc2nn3c(-c4cccc(F)c4)cnc3s2)CC1,P06241,IC50,2.921,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58285810,CN(C)C(=O)c1cccc(-c2cnc3sc(NC4CCCCC4)nn23)c1,P06241,IC50,0.718,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58285398,COc1ccc(-c2cnc3sc(NC4CCC(O)CC4)nn23)cc1OC,P06241,IC50,0.44,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58285505,OC1CCC(Nc2nn3c(-c4ccc(F)c(Cl)c4)cnc3s2)CC1,P06241,IC50,4.057,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+118958833,COc1cnccc1Nc1nc(-c2nn(Cc3c(F)cc(OCCO)cc3F)c3ccccc23)ncc1OC,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+126672766,CN1CCN(c2ccc(Nc3cc4c(cn3)cc(-c3cccc(C(F)(F)F)c3)n4C)cc2)CC1,P06241,IC50,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+71728586,CN1CCN(c2ccc(Nc3cc4c(cn3)cc(-c3cccc(F)c3)n4C)cc2)CC1,P06241,IC50,12.866,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+90480338,c1cncc(-c2cnc3ccc(-c4cccs4)nn23)c1,P06241,IC50,0.346,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+56846693,COc1cc2ncnc(Oc3cccc(NC(=O)Nc4cc(C(C)(C)C(F)(F)F)on4)c3)c2cc1OC,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+162668807,O=C(Oc1ccccc1O[C@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)c1ccccc1,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+131953432,O=C(NCC1[C@H]2CN(C(=O)OCc3cc(C(F)(F)F)cc(C(F)(F)F)c3)C[C@@H]12)c1ccc2n[nH]nc2c1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+10090485,Cc1cccc(-c2nn3c(c2-c2ccnc4ccc(C(N)=O)cc24)CCC3)n1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+59790029,CC(=O)Nc1cc(Oc2ccc3c(c2)nc(Nc2cccc(C(C)(C)C)c2)n3C)ccn1,P06241,IC50,0.002,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+22041319,CNC(=O)c1cc(Oc2ccc3c(c2)nc(Nc2cccc(C(C)(C)C)c2)n3C)ccn1,P06241,IC50,0.005,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+162760083,[2H]C([2H])([2H])C1(C([2H])([2H])[2H])Cn2nc(-c3ccc(F)cn3)c(-c3ccnc4[nH]ncc34)c2CO1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+66898770,c1ccc(CNc2ccc3ncc(-c4ccc5c(c4)OCO5)n3n2)nc1,P06241,IC50,0.355,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+6918736,COc1cc(OC)c(/C=C/S(=O)(=O)Cc2ccc(OC)c(NCC(=O)O)c2)c(OC)c1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+25104182,c1cc2cc(-c3cnc4ccc(NC5CCOCC5)nn34)ccc2[nH]1,P06241,IC50,1.166,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+168476119,Cc1cccc(F)c1NC(=O)c1cnc(Nc2ccc(N3CCN(C)CC3)c(F)c2)nc1NC1CCC1,P06241,,,Tyrosine-protein kinase Fyn (human),Literature-derived,Active,1
+117769597,c1ccc(Nc2cc3[nH]c(-c4cn[nH]c4)cc3cn2)nc1,P06241,IC50,7.566,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+137120108,Oc1ccc(-c2cnc3cnc(-c4cccnc4)cn23)cc1,P06241,IC50,2.726,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+137120127,CN(C)CCCOc1ccc(-c2cn3c(-c4ccc(O)cc4)cnc3cn2)cn1,P06241,IC50,1.322,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+137120131,COc1cc(-c2cnc3cnc(-c4cccnc4)cn23)ccc1O,P06241,IC50,3.066,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+137001373,COc1cc(-c2cnc3cnc(-c4ccc(N)nc4)cn23)ccc1O,P06241,IC50,1.412,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+137120122,COc1ccc(-c2cn3c(-c4ccc(O)cc4)cnc3cn2)cn1,P06241,IC50,1.979,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672939,Nc1ccc(-c2cn3c(-c4cccc(O)c4)cnc3cn2)cn1,P06241,IC50,2.889,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+137120126,Nc1ccc(-c2cn3c(-c4ccc(O)cc4)cnc3cn2)cn1,P06241,IC50,1.933,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+71576789,c1coc(-c2ccnc3n[nH]c(C4CC4)c23)c1,P06241,IC50,12.614,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+126672821,CN1CCN(c2ccc(Nc3cc4c(cn3)cc(-c3ccccc3)n4Cc3ccccc3)cc2)CC1,P06241,IC50,15.018,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+58285619,COc1ccc(-c2cnc3sc(NC4CCC(O)CC4)nn23)cn1,P06241,IC50,1.613,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673171,COc1cncc(-c2cnc3sc(NC4CCC(O)CC4)nn23)c1,P06241,IC50,0.301,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672767,CC(=O)Nc1cccc(-c2cncc(NCc3ccco3)n2)c1,P06241,IC50,11.185,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+118737057,CCn1nc(C#Cc2cc(C(=O)Nc3ccc(CN4CCN(C)CC4)c(C(F)(F)F)c3)ccc2C)c2c(N)ncnc21,P06241,IC50,0.005,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+10437018,Cc1c(NC(=O)OC[C@@H]2COCCN2)cn2ncnc(Nc3ccc4c(cnn4Cc4cccc(F)c4)c3)c12,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+11153014,Cc1cc(Nc2ncc(C(=O)Nc3c(C)cccc3Cl)s2)nc(C)n1,NP_002028,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Active,1
+24995524,O=C(Nc1cccc(Cl)c1)Nc1ncc(CCNc2ncnc3ccsc23)s1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+131801156,O=C1CCc2cc(Nc3cc(OC4CCOCC4)c([N+](=O)[O-])cc3Cl)ccc2N1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+58857853,COc1cc(-c2cnc3ccc(NCc4cccs4)nn23)cc(OC)c1OC,P06241,IC50,3.1,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58857752,Fc1ccc(-c2cnc3ccc(NCc4cccs4)nn23)cc1,P06241,IC50,3.284,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58857602,CC(=O)c1cccc(-c2cnc3ccc(NCc4cccs4)nn23)c1,P06241,IC50,0.451,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126472137,COc1ccc(-c2cnc3ccc(NCc4cccs4)nn23)cc1,P06241,IC50,5.388,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58857682,Oc1cccc(-c2cnc3ccc(NCc4cccs4)nn23)c1,P06241,IC50,1.704,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58857573,OCc1ccc(-c2cnc3ccc(NCc4cccs4)nn23)cc1,P06241,IC50,1.095,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58857621,COc1cccc(-c2cnc3ccc(NCc4cccs4)nn23)c1,P06241,IC50,2.946,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126471339,Nc1cccc(-c2cnc3ccc(NCc4cccs4)nn23)c1,P06241,IC50,1.794,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+66890564,Nc1ccc(-c2cnc3ccc(NCc4cccs4)nn23)cc1,P06241,IC50,5.422,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+135961526,COc1cc(-c2cnc3ccc(NCc4cccs4)nn23)ccc1O,P06241,IC50,0.166,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58857915,COc1ccc(-c2cnc3ccc(NCc4cccs4)nn23)cc1OC,P06241,IC50,0.721,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+44137946,CN(C[C@@H]1COCCO1)S(=O)(=O)Nc1ccc2ccc3ncc(-c4cnn(C)c4)cc3c(=O)c2c1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+9868037,O=C(Nc1ccc(OC(F)(F)F)cc1)c1sccc1NCc1ccnc2ccccc12,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+138973681,CNCc1ccccc1-c1csc([C@H](C)Nc2nc(C)nc3cc(OC)c(OC)cc23)c1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+137322663,CNCc1ccccc1-c1csc([C@@H](C)Nc2nc(C)nc3cc(OC)c(OC)cc23)c1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+76281130,COc1ccccc1-c1[nH]nc2nccc(-c3ccsc3)c12,P06241,IC50,2.668,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+25262792,CNC(=O)c1cccc(-c2ccc3c(N4CCOC[C@@H]4C)nc(N4CCOC[C@@H]4C)nc3n2)c1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+25262965,COc1ccc(-c2ccc3c(N4CCOC[C@@H]4C)nc(N4CCOC[C@@H]4C)nc3n2)cc1CO,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+23643975,CN1CC[C@@H](c2c(O)cc(O)c3c(=O)cc(-c4ccccc4Cl)oc23)[C@@H]1CO.Cl,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+154701640,O=C(N1CCS(=O)(=O)CC1)N1C[C@H](c2ccc(OC(F)(F)F)cc2)C[C@H](c2nc(C3CC3)no2)C1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+25167777,COc1ncc(-c2ccc3nccc(-c4ccnnc4)c3c2)cc1NS(=O)(=O)c1ccc(F)cc1F,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+5328914,COc1cc2c(Nc3ccc(Cl)cc3Cl)c(C#N)cnc2cc1OCCCN1CCN(C)CC1,P06241,IC50,2.9,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+5328940,COc1cc(Nc2c(C#N)cnc3cc(OCCCN4CCN(C)CC4)c(OC)cc23)c(Cl)cc1Cl,P06241,Kd,0.179,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+45270897,Nc1ncnc2c1c(-c1cccc(OCc3ccccc3)c1)cn2C1CC(N2CCC2)C1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+16118737,Cc1ccc(NC(=O)c2cccc(C(F)(F)F)c2)cc1C(=O)Nc1cnc(Nc2ccc(N3CCN(C)CC3)cc2)nc1,P06241,IC50,0.003,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+58857749,Nc1cccc(-c2cnc3ccc(NC4CCOCC4)nn23)c1,P06241,IC50,1.423,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+6419813,CC(=O)Nc1cccc(-c2cnc3ccc(NC4CCOCC4)nn23)c1,P06241,IC50,0.397,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+6419804,Nc1ccc(-c2cnc3ccc(NC4CCOCC4)nn23)cc1,P06241,IC50,3.126,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58857787,COc1cccc(-c2cnc3ccc(NC4CCOCC4)nn23)c1,P06241,IC50,0.829,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+45489167,COc1ccc(-c2cnc3ccc(NC4CCOCC4)nn23)cc1OC,P06241,IC50,0.48,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58857821,COc1cc(-c2cnc3ccc(NC4CCOCC4)nn23)cc(OC)c1OC,P06241,IC50,0.503,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+135923078,COc1cc(-c2cnc3ccc(NC4CCOCC4)nn23)ccc1O,P06241,IC50,0.113,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672961,CN(C)CCNC(=O)c1ccc(-c2cn3c(-c4ccncc4)cnc3cn2)cc1,P06241,IC50,6.909,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+89455219,C=CC(=O)N1CCC[C@H](n2c(=O)n(-c3ccc(Oc4ccccc4)cc3)c3c(N)ncnc32)C1,P06241,Kd,0.005,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+46885626,CCn1cc(-c2ccnc3[nH]c(-c4cccc(CN(C)C)c4)cc23)c(-c2ccc(NC(=O)N(C)C)cc2)n1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+52951545,CCCNc1nc(SCCN2CCOCC2)nc2c1cnn2CC(Cl)c1ccccc1,P06241,Ki,8.15,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+127049453,COc1cc(-c2nn(CCN3CCC(N4CCCC4)CC3)c3ncnc(N)c23)ccc1NC(=O)OC(C)(C)C,P06241,IC50,0.01,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+9811611,NC(=O)c1c(OCc2c(F)cc(Br)cc2F)nsc1NC(=O)NCCCCN1CCCC1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+126565,C[C@]12O[C@H](C[C@]1(O)CO)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)CNC4=O,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+5329102,CCN(CC)CCNC(=O)c1c(C)[nH]c(/C=C2\C(=O)Nc3ccc(F)cc32)c1C,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+5329099,Cc1[nH]c(/C=C2\C(=O)Nc3ccccc32)c(C)c1CCC(=O)O,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+153507270,O=CNc1cc(-c2ccc(C(=O)N3CCOCC3)cc2)nn2c(-c3ccc(F)cc3)cnc12,P06241,IC50,3.594,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+25102847,COc1cc2nccc(Oc3ccc(NC(=O)C4(C(=O)Nc5ccc(F)cc5)CC4)cc3)c2cc1OC,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+59757974,CC(C)c1cc(CNc2nc(Nc3cc(C4CC4)[nH]n3)cc(N3CCN(C)CC3)n2)on1,P06241,Kd,0.023,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+59662273,COc1cncc(-c2cnn3ccc(Nc4ccc(N5CCOCC5)cc4)nc23)c1,P06241,IC50,2.25,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+24995753,c1csc(CNc2ccc3ncc(-c4ccncc4)n3n2)c1,P06241,IC50,0.105,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+9888590,COc1ccc(S(=O)(=O)N(C(C)=O)c2ccccc2/C=C/c2cc[n+]([O-])cc2)cc1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+68951528,Oc1cccc(-c2cncc(NCc3ccoc3)c2)c1,P06241,IC50,10.896,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+24771824,O=C(Nc1cccnn1)N1CCC(=Cc2cccc(Oc3ccc(C(F)(F)F)cn3)c2)CC1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+5330437,COc1cc(Nc2c(C#N)cnc3cc4cc(OCCN5CCOCC5)c(OC)cc4cc23)c(Cl)cc1Cl,P06241,IC50,0.42,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+23635314,O=C(Cc1ccc(-c2ccc(OCCN3CCOCC3)cc2)cn1)NCc1ccccc1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+122705261,CCOC(Cn1nc(-c2cnc3[nH]ccc3c2)c2c(N)ncnc21)OCC,P06241,IC50,1.226,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+49790644,CC(=O)Nc1cc(-c2ccc(C(=O)N3CCOCC3)cc2)cn2c(-c3cccc(C(C)=O)c3)cnc12,P06241,IC50,2.028,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+46942885,CC(=O)c1cccc(-c2cnc3c(NC=O)cc(-c4ccc(C(=O)N5CCOCC5)cc4)cn23)c1,P06241,IC50,2.995,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+57430866,COc1cc(CCc2cc(NC(=O)c3ccc(N4CC(C)NC(C)C4)cc3)n[nH]2)cc(OC)c1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+11154925,Cc1cc2c(F)c(Oc3ncnn4cc(OC[C@@H](C)OC(=O)[C@H](C)N)c(C)c34)ccc2[nH]1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+135961519,Oc1ccc(-c2cnc3ccc(NCc4ccc5c(c4)OCO5)nn23)cc1,P06241,IC50,5.673,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126475229,CC(=O)c1cccc(-c2cnc3ccc(NCc4ccc5c(c4)OCO5)nn23)c1,P06241,IC50,3.19,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+135961525,COc1cc(-c2cnc3ccc(NCc4ccc5c(c4)OCO5)nn23)ccc1O,P06241,IC50,1.309,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126474365,COc1ccc(-c2cnc3ccc(NCc4ccc5c(c4)OCO5)nn23)cc1OC,P06241,IC50,6.216,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+155554081,C[C@@]1(Cc2ccc(C#N)cc2)C(=O)N(c2cc(Cl)cc(Cl)c2)c2ncc(C(=O)NC3(c4nc(C5CCC5)no4)CC3)n21,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+52916803,CS(=O)(=O)c1cc(C2(NC(=O)c3cncc4c3cnn4-c3ccc(F)cc3)CC2)ccn1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+58857802,OCCCNc1ccc2ncc(-c3ccc4[nH]ccc4c3)n2n1,P06241,IC50,2.717,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+9808844,CNC(=O)c1cc(COc2nnc(Nc3ccc(Cl)cc3)c3ccoc23)ccn1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+162649902,O=C(Oc1ccc(O)c([C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)c1)c1ccccc1,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+162665203,COC[C@H]1O[C@@H](c2cc(OC(=O)c3ccccc3)ccc2O)[C@H](OC)[C@@H](OC)[C@@H]1OC,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+51588297,Fc1ccc(-c2[nH]ncc2-c2ccncc2)cc1Cl,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+56649450,Cc1nc(NC(=O)N2CCC[C@H]2C(N)=O)sc1-c1ccnc(C(C)(C)C(F)(F)F)c1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+135316169,COc1ccc2c(c1)-c1nc(Nc3ccc(CCCN4CCCC4)c(OC)c3)ncc1CC2(C)C,P06241,IC50,0.008,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+10461508,CC[C@@H]1C(=O)N(C)c2cnc(Nc3ccc(C(=O)NC4CCC(N5CCN(CC6CC6)CC5)CC4)cc3OC)nc2N1C(C)C,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+162655720,C=CC(=O)N1CCC(Cn2cc(-c3ccc4c(c3)OCO4)c3c(N)ncnc32)CC1,P06241,IC50,1.0078,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+117770368,Nc1ccc(-c2cn3c(-c4cccs4)cnc3cn2)cn1,P06241,IC50,8.162,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58285662,COc1ccc(CNc2nn3c(-c4cncc(OC)c4)cnc3s2)cc1,P06241,IC50,9.653,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58285755,COc1cncc(-c2cnc3sc(NCc4ccccc4)nn23)c1,P06241,IC50,0.217,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58285576,Cc1ccccc1CNc1nn2c(-c3cccnc3)cnc2s1,P06241,IC50,1.077,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58285449,c1ccc(CNc2nn3c(-c4cccnc4)cnc3s2)cc1,P06241,IC50,0.634,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+16747683,Cc1ncc(-c2ccnc(Nc3ccc(S(C)(=O)=O)cc3)n2)n1C(C)C,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+77105257,Nc1nccn2c([C@@H]3CC[C@H]4CCC(=O)N4C3)nc(-c3ccc(C(=O)Nc4cc(C(F)(F)F)ccn4)cc3)c12,P06241,IC50,0.087,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+76902376,COc1cc(C(=O)Nc2cc(C(F)(F)F)ccn2)ccc1-c1nc([C@@H]2CC[C@H]3CCC(=O)N3C2)n2ccnc(N)c12,P06241,IC50,1.23,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+117769386,CNc1ccc2ncc(/C=C\CCCO)n2n1,P06241,IC50,31.48,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+1389797,Cc1ccc(-n2cnc3cc(Nc4nnc(C)c5ccccc45)ccc32)cc1,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+149409436,COC1CSSC1Cn1nc(-c2ccc(Oc3ccccc3)cc2)c2c(N)ncnc21,P06241,IC50,0.052,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+153307894,Nc1ncnc2c1c(-c1ccc(Oc3ccccc3F)cc1)nn2CC1SSCC1O,P06241,IC50,0.052,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+152040862,Nc1ncnc2c1c(-c1ccc(Oc3ccccc3)cc1)nn2C[C@@H]1SSC[C@@H]1O,P06241,IC50,0.052,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+152040861,Nc1ncnc2c1c(-c1ccc(Oc3ccccc3)cc1)nn2C[C@H]1SSC[C@H]1O,P06241,IC50,0.052,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+152040863,Nc1ncnc2c1c(-c1ccc(Oc3ccccc3)cc1)nn2C[C@@H]1SSC[C@H]1O,P06241,IC50,0.052,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+152040860,Nc1ncnc2c1c(-c1ccc(Oc3ccccc3)cc1)nn2C[C@H]1SSC[C@@H]1O,P06241,IC50,0.052,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+16041424,Cc1cc(Nc2cc(N3CCN(C)CC3)nc(/C=C/c3ccccc3)n2)n[nH]1,P06241,Kd,3.016,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+25145656,CNC(=O)c1ccc(-c2cnc3ncc(Cc4ccc5ncccc5c4)n3n2)cc1F,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+135900199,COc1cc(-c2cnc3ccc(NCc4cccc(Cl)c4)nn23)ccc1O,P06241,IC50,3.518,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+135900178,COc1ccc(CNc2ccc3ncc(-c4ccc(O)c(OC)c4)n3n2)cc1,P06241,IC50,4.013,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126470565,Nc1ccc(-c2cnc3ccc(NCc4cccc(Cl)c4)nn23)cc1,P06241,IC50,3.41,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58857808,OCc1ccc(-c2cnc3ccc(NCc4ccc(F)cc4)nn23)cc1,P06241,IC50,2.445,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+135900202,COc1cc(-c2cnc3ccc(NCc4ccc(C)cc4C)nn23)ccc1O,P06241,IC50,5.306,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126475816,OCc1cccc(-c2cnc3ccc(NCc4cccc(Cl)c4)nn23)c1,P06241,IC50,5.105,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58857699,O=C(O)c1ccc(-c2cnc3ccc(NCc4ccc(Cl)c(Cl)c4)nn23)cc1,P06241,IC50,1.006,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672875,COc1ccc(-c2cnc3ccc(NCc4cccc(Cl)c4)nn23)cc1,P06241,IC50,10.746,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+126673068,OCc1cccc(-c2cnc3ccc(Cc4ccc(F)cc4)nn23)c1,P06241,IC50,3.975,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+71729733,Cc1cccc(Cc2ccc3ncc(-c4cccc(C(N)=O)c4)n3n2)c1,P06241,IC50,2.166,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+90480122,NC(=O)c1ccc(-c2cnc3ccc(Cc4ccccc4)nn23)cc1,P06241,IC50,0.711,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+137120113,COc1cc(-c2cnc3ccc(Cc4ccc(F)cc4)nn23)ccc1O,P06241,IC50,2.09,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673154,OCc1ccc(-c2cnc3ccc(Cc4ccccc4)nn23)cc1,P06241,IC50,3.227,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+117769329,NC(=O)c1ccc(-c2cnc3ccc(Cc4ccc(F)c(F)c4)nn23)cc1,P06241,IC50,3.073,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672857,CC(=O)c1cccc(-c2cnc3ccc(Cc4ccccc4)nn23)c1,P06241,IC50,3.972,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+117769610,Cc1cccc(Cc2ccc3ncc(-c4ccc(C(N)=O)cc4)n3n2)c1,P06241,IC50,3.103,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673238,Oc1cccc(-c2ccc3ncc(-c4cccnc4)n3n2)c1,P06241,IC50,1.815,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672984,c1ccc(-c2ccc3ncc(-c4cccnc4)n3n2)cc1,P06241,IC50,1.941,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+90480158,OCc1ccc(-c2ccc3ncc(-c4cccnc4)n3n2)cc1,P06241,IC50,2.909,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673085,COc1ccccc1-c1ccc2ncc(-c3cccnc3)n2n1,P06241,IC50,2.35,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673303,Fc1ccc(-c2ccc3ncc(-c4cccnc4)n3n2)cc1,P06241,IC50,2.779,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673125,CS(=O)(=O)Nc1cccc(-c2ccc3ncc(-c4cccnc4)n3n2)c1,P06241,IC50,1.41,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673097,NC(=O)c1ccc(-c2ccc3ncc(-c4cccnc4)n3n2)cc1,P06241,IC50,11.243,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+46907798,C[C@@H]1CN([C@@H](C)CO)C(=O)c2cccc(NC(=O)Nc3cccc4ccccc34)c2O[C@H]1CN(C)S(=O)(=O)c1ccc2c(c1)OCCO2,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Other,Inactive,0
+126673142,c1cc(CNc2nn3c(-c4ccncc4)cnc3s2)ccn1,P06241,IC50,2.647,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+24785538,C[C@@]1(C(=O)Nc2ccc(F)nc2)CCCN1c1nc(Nc2cc(C3CC3)[nH]n2)c2cccn2n1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+10113978,Cc1ccc(Nc2nccc(N(C)c3ccc4c(C)n(C)nc4c3)n2)cc1S(N)(=O)=O,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+16739650,CN1C/C=C/CCOc2cccc(c2)-c2ccnc(n2)Nc2cccc(c2)C1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+71727581,Cn1nccc1Nc1nccc(-c2ccn([C@H](CO)c3ccc(Cl)c(F)c3)c(=O)c2)n1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+42611190,O=C(O)c1cc(-c2ccc(C3CCNCC3)cc2)c2ccc(-c3ccc(C(F)(F)F)cc3)cc2c1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+155561056,Cc1c(C(=O)O)cc(-c2ccc(C3CCNCC3)cc2)c2ccc(-c3ccc(C(F)(F)F)cc3)cc12,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+25141092,CN1CCN(c2ccc(C(=O)Nc3n[nH]c4ccc(Cc5cc(F)cc(F)c5)cc34)c(NC3CCOCC3)c2)CC1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+24822077,COc1cc(-c2cc(-c3cc(OC)c(OC)c(OC)c3)cnc2N)ccc1O,P06241,IC50,0.116,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+68305498,COc1cc(-c2cc(-c3ccc(C)cc3)cnc2N)ccc1O,P06241,IC50,4.344,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+118392595,COc1cc(-c2cc(-c3ccc(O)cc3)cnc2N)cc(OC)c1OC,P06241,IC50,1.726,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+46229843,COc1cc(-c2cnc(N)c(-c3ccc(O)cc3)c2)cc(OC)c1OC,P06241,IC50,0.288,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672937,CN(C)c1cccc(-c2cc(-c3cccc(C(=O)NCCO)c3)cnc2N)c1,P06241,IC50,3.572,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673165,COc1cc(-c2cc(-c3ccccc3)cnc2N)ccc1O,P06241,IC50,1.477,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+135316199,COc1cc(-c2cc(-c3ccc(C(N)=O)cc3)cnc2N)cc(OC)c1OC,P06241,IC50,0.458,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+46173038,COc1cc(-c2cc(-c3cccc(O)c3)cnc2N)cc(OC)c1OC,P06241,IC50,0.526,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672792,Cc1cc(-c2cnc(N)c(-c3ccc(CO)cc3)c2)cc(C)c1O,P06241,IC50,4.644,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+44525553,COc1cc(-c2cc(-c3ccc(S(C)(=O)=O)cc3)cnc2N)ccc1O,P06241,IC50,0.316,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673181,COc1cc(-c2cc(-c3cc(C)c(O)c(C)c3)cnc2N)ccc1O,P06241,IC50,0.526,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+24821076,CN(C)c1cccc(-c2cnc(N)c(-c3ccc(O)cc3)c2)c1,P06241,IC50,2.191,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672771,COCOc1ccc(-c2cc(-c3cc(OC)c(OC)c(OC)c3)cnc2N)cc1,P06241,IC50,1.905,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+135316292,Cc1cc(-c2cnc(N)c(-c3cccc(N(C)C)c3)c2)cc(C)c1O,P06241,IC50,4.201,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672824,COc1cc(-c2cnc(N)c(-c3cccc(O)c3)c2)cc(OC)c1OC,P06241,IC50,1.015,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672802,COCOc1ccc(-c2cc(-c3cccc(C(N)=O)c3)cnc2N)cc1,P06241,IC50,3.023,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+70688246,COc1ccc(-c2cnc(N)c(-c3ccc(O)c(OC)c3)c2)cc1,P06241,IC50,4.158,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672910,COc1cc(-c2cnc(N)c(-c3cccc(N(C)C)c3)c2)ccc1O,P06241,IC50,2.109,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672795,CC(=O)Nc1cccc(-c2cnc(N)c(-c3ccc(O)cc3)c2)c1,P06241,IC50,0.898,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672888,COc1cc(-c2cc(-c3ccccc3)cnc2N)cc(OC)c1OC,P06241,IC50,1.306,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672784,CN(C)c1cccc(-c2cc(-c3cccc(CO)c3)cnc2N)c1,P06241,IC50,2.698,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672783,COCOc1ccc(-c2cc(-c3cccc(NC(C)=O)c3)cnc2N)cc1,P06241,IC50,1.549,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+24821160,COc1cccc(-c2cnc(N)c(-c3ccc(O)cc3)c2)c1,P06241,IC50,3.491,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672855,COc1cc(-c2cc(-c3cccc(Cl)c3)cnc2N)ccc1O,P06241,IC50,3.511,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673186,COc1ccc(-c2cnc(N)c(-c3cccc(N(C)C)c3)c2)cc1OC,P06241,IC50,5.047,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672972,COc1cccc(-c2cnc(N)c(-c3ccc(O)c(OC)c3)c2)c1,P06241,IC50,1.199,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672822,COc1cc(-c2cc(-c3ccc(N)cc3)cnc2N)cc(OC)c1OC,P06241,IC50,0.971,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+118716164,COc1cc(-c2cc(-c3cccc(NS(C)(=O)=O)c3)cnc2N)cc(OC)c1OC,P06241,IC50,0.562,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672906,COc1cc(-c2cc(-c3cccc(C(=O)NCCO)c3)cnc2N)cc(OC)c1OC,P06241,IC50,1.001,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672872,COc1ccc(-c2cnc(N)c(-c3ccc(CO)cc3)c2)cc1OC,P06241,IC50,5.132,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+24821157,CS(=O)(=O)c1ccc(-c2cnc(N)c(-c3ccc(O)cc3)c2)cc1,P06241,IC50,1.551,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672820,CN(C)c1cccc(-c2cc(-c3cccc(C(N)=O)c3)cnc2N)c1,P06241,IC50,3.521,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673243,COc1cc(-c2cnc(N)c(-c3cccc(N)c3)c2)cc(OC)c1OC,P06241,IC50,2.968,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672813,COc1cccc(-c2cnc(N)c(-c3cc(OC)c(OC)c(OC)c3)c2)c1,P06241,IC50,9.503,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+135316326,COCOc1ccc(-c2cc(-c3cccc(CO)c3)cnc2N)cc1,P06241,IC50,4.62,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672994,COc1cc(-c2cnc(N)c(-c3cccc(N(C)C)c3)c2)cc(OC)c1OC,P06241,IC50,3.135,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672799,COc1cc(-c2cc(-c3cc(C)c(O)c(C)c3)cnc2N)cc(OC)c1OC,P06241,IC50,0.712,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672819,COc1cc(-c2cc(-c3cccc(F)c3)cnc2N)ccc1O,P06241,IC50,2.027,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672774,COc1cc(-c2cc(-c3cccc(N(C)C)c3)cnc2N)cc(OC)c1OC,P06241,IC50,0.595,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672832,COc1ccc(-c2cnc(N)c(-c3cccc(O)c3)c2)cc1OC,P06241,IC50,2.005,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673167,COc1cc(-c2cc(-c3ccc(F)cc3)cnc2N)cc(OC)c1OC,P06241,IC50,2.859,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672818,COc1cc(-c2cc(-c3ccc(F)cc3)cnc2N)ccc1O,P06241,IC50,3.24,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+135316124,COc1ccc(-c2cnc(N)c(-c3cc(OC)c(OC)c(OC)c3)c2)cc1,P06241,IC50,2.977,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672982,COCOc1ccc(-c2cc(-c3ccc(C(N)=O)cc3)cnc2N)cc1,P06241,IC50,3.423,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+24821316,COc1cc(-c2cc(-c3cccc(F)c3)cnc2N)cc(OC)c1OC,P06241,IC50,1.52,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672778,NC(=O)c1ccc(-c2cnc(N)c(-c3ccc(O)cc3)c2)cc1,P06241,IC50,1.086,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672836,COc1cc(-c2cc(-c3ccc(C(N)=O)cc3)cnc2N)ccc1O,P06241,IC50,0.214,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672800,COc1cc(-c2cnc(N)c(-c3cc(OC)c(OC)c(OC)c3)c2)cc(OC)c1OC,P06241,IC50,0.0854,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+135316136,COc1cc(-c2cc(-c3ccc(S(C)(=O)=O)cc3)cnc2N)cc(OC)c1OC,P06241,IC50,0.674,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672805,COc1cc(-c2cc(-c3cccc(C(N)=O)c3)cnc2N)cc(OC)c1OC,P06241,IC50,0.494,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672815,COc1cc(-c2cc(-c3ccc(F)c(Cl)c3)cnc2N)ccc1O,P06241,IC50,11.34,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+46926350,CCc1cnn2c(NCc3ccc[n+]([O-])c3)cc(N3CCCC[C@H]3CCO)nc12,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+59422203,CC[C@@](C)(Nc1ccnc(-c2c[nH]c3ncccc23)n1)C(=O)NCC(F)(F)F,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+22024915,C#Cc1cccc(Nc2ncnc3cc4c(cc23)OCCOCCOCCO4)c1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+58285540,COc1ccc(-c2cnc3sc(NCCc4ccc(S(N)(=O)=O)cc4)nn23)cc1OC,P06241,IC50,5.116,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58285784,CN(C)C(=O)c1cccc(-c2cnc3sc(NCCc4ccc(S(N)(=O)=O)cc4)nn23)c1,P06241,IC50,0.909,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+138105961,CN1C[C@H](Nc2nc3cc[nH]c3c(=O)n2C)C[C@H](c2ccc3c(c2)OCCO3)C1,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+447077,CSc1cccc(Nc2ncc3cc(-c4c(Cl)cccc4Cl)c(=O)n(C)c3n2)c1,P06241,Kd,0.0049,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672979,CC(=O)Nc1cccc(-c2cnc3ccc(-c4ccc5c(c4)OCO5)nn23)c1,P06241,IC50,1.168,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+137120112,COc1cc(-c2cnc3ccc(-c4ccc5c(c4)OCO5)nn23)ccc1O,P06241,IC50,0.2,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672840,CN(C)CCNC(=O)c1cccc(-c2cnc3ccc(-c4ccc5c(c4)OCO5)nn23)c1,P06241,IC50,2.019,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+59662573,COc1cc(-c2cnn3ccc(NCc4cccnc4)nc23)cc(OC)c1OC,P06241,IC50,2.353,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+59662319,COc1ccccc1-c1cnn2ccc(NCc3cccnc3)nc12,P06241,IC50,1.221,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+59662494,COc1ccc(-c2cnn3ccc(NCc4cccnc4)nc23)cc1OC,P06241,IC50,1.636,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+59662396,Nc1cccc(-c2cnn3ccc(NCc4cccnc4)nc23)c1,P06241,IC50,2.512,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+59662412,O=C(O)/C=C/c1cccc(-c2cnn3ccc(NCc4cccnc4)nc23)c1,P06241,IC50,2.274,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+78319901,C[C@@H]1CN(c2cc(-c3n[nH]c4ccc(OC5(C)CC5)cc34)ncn2)C[C@H](C)O1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+155558331,C[C@@H]1CN(c2cc(-c3nn(C)c4ccc(OC5(C)CC5)cc34)ncn2)C[C@H](C)O1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+44516953,CN(C)C1CCN(C(=O)c2ccc(NC(=O)Nc3ccc(-c4nc(N5CCOCC5)nc(N5CCOCC5)n4)cc3)cc2)CC1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+57335384,C=CC(=O)Nc1cccc(Nc2nc(Nc3ccc(N4CCN(C(C)=O)CC4)cc3OC)ncc2C(F)(F)F)c1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+11524200,Cc1c[nH]c2nccc(Oc3c(F)cc(Nc4cc(Cl)nc(N)n4)cc3F)c12,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+155552454,Cn1cc(Cl)c2c(Oc3c(F)cc(Nc4cc(Cl)nc(N)n4)cc3F)ccnc21,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+10074640,Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nc(-c2cccnc2)cs1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+164612545,CNc1nc(C)c(-c2nc(Nc3cccc(N4CCN5CCC4CC5)c3)ncc2C)s1,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Active,1
+16118392,CN1CCN(C2CCN(C(=O)Nc3cc(Oc4ccc(NC(=O)C5(C(=O)Nc6ccc(F)cc6)CC5)c(F)c4)ccn3)CC2)CC1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+148177,CCCCCCCCCCCCCCCCCCOP(=O)([O-])OC1CC[N+](C)(C)CC1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+156009445,Cc1noc([C@H]2C[C@@H](c3ccc(C(F)(F)F)cc3)CN(C(=O)N3CCS(=O)(=O)C3)C2)n1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+16124208,CCS(=O)(=O)c1cccc(-c2cc(C(=O)NC3CCN(C)CC3)c(C)c3[nH]c4ncc(C)cc4c23)c1,P06241,Kd,0.095,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672926,c1cc(-c2cnc3ccc(-c4ccc5c(c4)OCO5)nn23)ccn1,P06241,IC50,0.217,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+46843057,Cn1ncc(Cl)c1-c1cc(C(=O)N[C@H](CN)Cc2cccc(F)c2)sc1Cl,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+71455782,N#CC1(c2ccccn2)CCN(Cc2cc(C(=O)N3CCCC3)c(=O)n3ccccc23)CC1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+122705256,Cc1ccc(-c2nn(CCN3CCN(CCN(C)C)CC3)c3ncnc(N)c23)cc1,P06241,IC50,0.55,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673234,COc1cc(-c2cc(-c3ccc(N4CCN(C)CC4)cc3)cnc2N)cc(OC)c1OC,P06241,IC50,0.232,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673044,COc1cc(-c2cc(-c3ccc(N4CCN(C(C)C)CC4)cc3)cnc2N)ccc1O,P06241,IC50,0.0781,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672924,COc1cc(-c2cc(-c3ccc(N4CCNCC4)cc3)cnc2N)ccc1O,P06241,IC50,0.0609,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+135316109,COc1ccc(-c2cnc(N)c(-c3ccc(N4CCN(C)CC4)cc3)c2)cc1O,P06241,IC50,9.65,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673161,COc1cc(-c2cc(-c3ccc(N4CCN(C)CC4)cc3)cnc2N)ccc1O,P06241,IC50,0.121,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672861,CN1CCN(c2ccc(-c3cnc(N)c(-c4ccc(O)cc4)c3)cc2)CC1,P06241,IC50,0.521,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+23653175,COCc1c(-c2ccc(NC(=O)Nc3cc(C(F)(F)F)ccc3F)c(F)c2)c2c(N)ncnn2c1CN1CCOCC1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+49830590,CC(=O)NCC(=O)N1C2CCC1c1cc(Nc3ncc(C(F)(F)F)c(NC4CCC4)n3)ccc12,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+11285002,COCCN1CCN(Cc2ccc(-c3n[nH]c4c3C(=O)c3c(NC(=O)NN5CCOCC5)cccc3-4)cc2)CC1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+126672884,Nc1cccc(-c2ccnc3n[nH]c(-c4ccncc4)c23)c1,P06241,IC50,18.007,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+11467730,COc1cc(C)c(Sc2cnc(NC(=O)c3ccc(CNC(C)C(C)(C)C)cc3)s2)cc1C(=O)N1CCN(C(C)=O)CC1,P06241,IC50,1.1,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672955,COc1cccc(-c2ccc3c(-c4ccc(C(=O)NCCCN(C)C)cc4)[nH]nc3n2)c1F,P06241,IC50,7.335,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58857603,CC(C)[C@@H](CO)Nc1ccc2ncc(-c3ccc4c(c3)OCO4)n2n1,P06241,IC50,1.82,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+66890275,OCCCNc1ccc2ncc(-c3ccc4c(c3)OCO4)n2n1,P06241,IC50,0.708,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58857895,CCCNc1ccc2ncc(-c3ccc4c(c3)OCO4)n2n1,P06241,IC50,2.051,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+135493443,N=C1C(c2nc3ccccc3[nH]2)=C(O)CN1c1ccc2c(c1)OCO2,P06241,IC50,4.068,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+25181472,COCCNCc1ccc(-c2cc3nccc(Oc4ccc(NC(=S)NC(=O)Cc5ccc(F)cc5)cc4F)c3s2)nc1,P06241,Kd,1.239,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+118877194,O=C(NCc1ncc(C(F)(F)F)cc1Cl)c1ccc2c(c1)C1(CCS(=O)(=O)CC1)[C@@H](C1CC1)N2S(=O)(=O)c1ccc(F)cc1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+85469632,O=C(NCc1ncc(C(F)(F)F)cc1Cl)c1ccc2c(c1)C1(CCS(=O)(=O)CC1)[C@H](C1CC1)N2S(=O)(=O)c1ccc(F)cc1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+137001364,O=C(NC1CC1)c1ccc(-c2cn3c(-c4ccc(O)cc4)cnc3cn2)cc1,P06241,IC50,1.958,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+2858522,Br.Cc1cc2nc(NCCCO)n(CC(=O)c3cc(C(C)(C)C)c(O)c(C(C)(C)C)c3)c2cc1C,NP_694592,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Other,Inactive,0
+49786470,CN(C)CCNC(=O)c1ccc(-c2cn3c(-c4ccc(Oc5ccccc5)cc4)cnc3cn2)cc1,P06241,IC50,0.222,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672892,OCc1ccc(-c2cn3c(-c4ccc(Oc5ccccc5)cc4)cnc3cn2)cc1,P06241,IC50,4.722,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672790,O=C(NCCO)c1ccc(-c2cn3c(-c4ccc(Oc5ccccc5)cc4)cnc3cn2)cc1,P06241,IC50,0.464,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673163,O=C(NCCO)c1cccc(-c2cn3c(-c4ccc(Oc5ccccc5)cc4)cnc3cn2)c1,P06241,IC50,1.481,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672873,CN(C)CCCNC(=O)c1ccc(-c2cn3c(-c4ccc(Oc5ccccc5)cc4)cnc3cn2)cc1,P06241,IC50,0.247,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+9823820,COc1cc2nccc(Oc3ccc(NC(=O)NC4CC4)c(Cl)c3)c2cc1C(N)=O,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+126673162,Cn1cc(-c2cnc3sc(NCCc4ccc(S(N)(=O)=O)cc4)nn23)cn1,P06241,IC50,2.262,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+10138259,Cc1[nH]c(/C=C2\C(=O)Nc3ccc(F)cc32)c(C)c1C(=O)NC[C@H](O)CN1CCOCC1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+117769526,c1csc(-c2cn3c(-c4ccncc4)cnc3cn2)c1,P06241,IC50,5.688,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672810,Oc1cccc(-c2cnc3cnc(-c4ccsc4)cn23)c1,P06241,IC50,2.518,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+4878,CC(C)(C)n1nc(-c2ccc(Cl)cc2)c2c(N)ncnc21,P06241,IC50,0.006,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+1400,Cc1ccc(-c2nn(C(C)(C)C)c3ncnc(N)c23)cc1,P06241,IC50,0.027,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+90479881,O=C(O)c1ccc(-c2cnc3ccc(NCc4ccco4)nn23)cc1,P06241,IC50,3.879,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58857882,OCc1cccc(-c2cnc3ccc(NCc4ccco4)nn23)c1,P06241,IC50,3.856,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+25104644,OCc1ccc(-c2cnc3ccc(NCc4ccco4)nn23)cc1,P06241,IC50,2.205,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58857738,CC(=O)c1cccc(-c2cnc3ccc(NCc4ccco4)nn23)c1,P06241,IC50,0.997,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58857596,COc1ccc(-c2cnc3ccc(NCc4ccco4)nn23)cc1,P06241,IC50,3.676,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+6419825,c1ccc(-c2cnc3ccc(NCc4ccco4)nn23)cc1,P06241,IC50,6.375,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126475835,COc1cc(-c2cnc3ccc(NCc4ccco4)nn23)cc(OC)c1OC,P06241,IC50,4.896,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+11494412,O=C1NC(=O)[C@@H](c2cn3c4c(cccc24)CCC3)[C@@H]1c1c[nH]c2ccccc12,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+56649300,Cc1cc(-n2nc(Cc3cc(F)cc(C(F)(F)F)c3)nc2C)ccc1C(N)=O,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+126672933,c1cc(-c2[nH]nc3nccc(-c4ccoc4)c23)ccn1,P06241,IC50,20.243,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+72435,COc1cc([C@@H]2c3cc4c(cc3[C@H](O)[C@H]3COC(=O)[C@@H]23)OCO4)cc(OC)c1OC,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+126673348,c1ccc(-c2cnc3ccc(-c4cccs4)nn23)cc1,P06241,IC50,1.97,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673112,COc1ccc(-c2cnc3ccc(-c4cccs4)nn23)cc1OC,P06241,IC50,0.211,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+135316188,CC(=O)c1cccc(-c2cnc3ccc(-c4cccs4)nn23)c1,P06241,IC50,0.416,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673008,CC(=O)Nc1cccc(-c2cnc3ccc(-c4cccs4)nn23)c1,P06241,IC50,0.21,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+139600336,O=C(Nc1cnc(Oc2ccc(F)cc2)nc1)N1CCc2ncccc2[C@@H]1c1ccc(F)cc1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+50922691,CCn1c(C(=O)N(C2CC2)C2CC2)cc2c3c(ncn3C)c(Nc3cc(C)n(C)n3)nc21,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+162645688,O=C(Oc1ccc(O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)cc1)c1ccccc1,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+126473256,C[C@@H](c1ccccc1)n1c(=O)[nH]c2ncc(-c3cccc(C(=O)N(C)C)c3)nc21,P06241,IC50,1.777,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+11611539,COc1cccc(Cn2c(=O)[nH]c3ncc(-c4cc(OC)c(OC)c(OC)c4)nc32)c1,P06241,IC50,23.44,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+11996298,CN(c1ccnc(CNc2nc(Nc3ccc4c(c3)CC(=O)N4)ncc2C(F)(F)F)n1)S(C)(=O)=O,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+1893730,Cc1ccc(S(=O)(=O)Nc2nc3ccccc3nc2Nc2ccc3nsnc3c2)cc1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+11387605,Cc1ccc(NC(=O)c2ccc(CN3CC[C@H](N(C)C)C3)c(C(F)(F)F)c2)cc1Nc1nccc(-c2cncnc2)n1,P06241,Kd,1.444,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+124125214,NS(=O)(=O)c1cc(NC(=O)Cc2ccccc2)ccc1Oc1cccc(Cl)c1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+45375865,Cc1c(Nc2c(C#N)cncc2/C=C/c2cccc(S(=O)(=O)N3CCN(C)CC3)c2)ccc2[nH]ccc12,P06241,IC50,0.14,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+3062316,Cc1nc(Nc2ncc(C(=O)Nc3c(C)cccc3Cl)s2)cc(N2CCN(CCO)CC2)n1,P06241,IC50,0.01,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+15604510,O=c1[nH]ccc2cc(OC3CCNCC3)ccc12,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+11427553,O=C(c1ccc(/C=C/c2n[nH]c3ccccc23)cc1)N1CCNCC1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+59662554,COc1ccc(-c2cnn3ccc(Nc4ccc(C(C)C)cc4)nc23)cc1,P06241,IC50,4.18,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+59662357,Cc1ccc(Nc2ccn3ncc(-c4cccc(O)c4)c3n2)cc1NS(C)(=O)=O,P06241,IC50,3.171,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+11952856,COc1cc2ncnc3c2cc1OCCCCCN(C)Cc1ccc(Br)cc1N3,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+71721540,CNc1ncc2cc(-c3cc(NC(=O)NCCC(C)(C)C)c(F)cc3C)c(C)nc2n1,P06241,IC50,0.091,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+46880136,CN1C[C@@H]2C[C@H]1CN2c1ccc(-c2ccnc3c(-c4cccc(O)c4)c(-c4ccncc4)nn23)cc1,P06241,IC50,1.94,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+58857847,c1ccc(-c2cnc3ccc(NCc4ccncc4)nn23)cc1,P06241,IC50,4.056,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+121316059,CC(Cn1nc(-c2ccc3[nH]ccc3c2)c2c(N)ncnc21)c1ccccc1,P06241,Ki,1.625,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+153351350,CCOc1cc(OC2CCN(C)CC2(F)F)c2c(Nc3c(F)ccc4c3OCO4)ncnc2c1,P06241,IC50,0.1,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+146181459,COc1cc(O[C@@H]2CCN(C(C)C)CC2(F)F)c2c(Nc3c(F)ccc4c3OCO4)ncnc2c1,P06241,IC50,0.1,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+146180578,COc1cc(OC2CCN(C(C)C)CC2(F)F)c2c(Nc3c(F)ccc4c3OCO4)ncnc2c1,P06241,IC50,0.1,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+146174208,CCOc1cc(O[C@H]2CCN(C)CC2(F)F)c2c(Nc3c(Cl)ccc4c3OCO4)ncnc2c1,P06241,IC50,0.1,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+146181454,CCN1CC[C@@H](Oc2cc(OC)cc3ncnc(Nc4c(F)ccc5c4OCO5)c23)C(F)(F)C1,P06241,IC50,0.1,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+146180566,COc1cc(OC2CCN(C)CC2(F)F)c2c(Nc3c(Cl)ccc4c3OCO4)ncnc2c1,P06241,IC50,0.1,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+146181458,COc1cc(O[C@@H]2CCN(C)CC2(F)F)c2c(Nc3c(F)ccc4c3OCO4)ncnc2c1,P06241,IC50,0.1,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+151901123,CCOc1cc(O[C@@H]2CCN(C)CC2(F)F)c2c(Nc3c(F)ccc4c3OCO4)ncnc2c1,P06241,IC50,0.1,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+146180556,COc1cc(O[C@@H]2CCN(C)CC2(F)F)c2c(Nc3c(Cl)ccc4c3OCO4)ncnc2c1,P06241,IC50,0.1,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+146180558,COc1cc(O[C@H]2CCN(C)CC2(F)F)c2c(Nc3c(Cl)ccc4c3OCO4)ncnc2c1,P06241,IC50,0.1,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+146171750,CCOc1cc(O[C@@H]2CCN(C)CC2(F)F)c2c(Nc3c(Cl)ccc4c3OCO4)ncnc2c1,P06241,IC50,0.1,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+151901124,CCOc1cc(O[C@H]2CCN(C)CC2(F)F)c2c(Nc3c(F)ccc4c3OCO4)ncnc2c1,P06241,IC50,0.1,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+146180579,CCN1CCC(Oc2cc(OC)cc3ncnc(Nc4c(F)ccc5c4OCO5)c23)C(F)(F)C1,P06241,IC50,0.1,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+146171751,CCOc1cc(OC2CCN(C)CC2(F)F)c2c(Nc3c(Cl)ccc4c3OCO4)ncnc2c1,P06241,IC50,0.1,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+146180580,COc1cc(OC2CCN(C)CC2(F)F)c2c(Nc3c(F)ccc4c3OCO4)ncnc2c1,P06241,IC50,0.1,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+146180559,COc1cc(O[C@H]2CCN(C(C)C)CC2(F)F)c2c(Nc3c(F)ccc4c3OCO4)ncnc2c1,P06241,IC50,0.1,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+146180568,COc1cc(O[C@H]2CCN(C)CC2(F)F)c2c(Nc3c(F)ccc4c3OCO4)ncnc2c1,P06241,IC50,0.1,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+146180560,CCN1CC[C@H](Oc2cc(OC)cc3ncnc(Nc4c(F)ccc5c4OCO5)c23)C(F)(F)C1,P06241,IC50,0.1,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+137652514,CC(C)C(=O)N1CCO[C@@H](c2nc(-c3ccc(C(=O)Nc4cc(C(F)(F)F)ccn4)cc3F)c3c(N)nccn23)C1,P06241,IC50,1.904,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+71235465,COCC(=O)N1CCO[C@@H](c2nc(-c3ccc(C(=O)Nc4cc(C(F)(F)F)ccn4)cc3F)c3c(N)nccn23)C1,P06241,IC50,0.571,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+90479886,COc1cncc(-c2cnc3ccc(Cc4ccc(F)cc4)nn23)c1,P06241,IC50,4.416,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673020,COc1cncc(-c2cnc3ccc(Cc4ccccc4)nn23)c1,P06241,IC50,2.673,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+117769730,Nc1ccc(-c2cnc3ccc(Cc4ccccc4)nn23)cn1,P06241,IC50,3.636,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673321,CN(C)CCCNC(=O)c1ccc(-c2cn3c(-c4ccc5c(c4)OCO5)cnc3cn2)cc1,P06241,IC50,6.032,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+135316325,CN(C)CCNC(=O)c1ccc(-c2cn3c(-c4ccc5c(c4)OCO5)cnc3cn2)cc1,P06241,IC50,3.799,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+819077,COc1ccc(C(=O)Nc2cc(-c3ccccc3)[nH]n2)cc1,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+846018,Cc1cccc(C(=O)Nc2cc(-c3ccc(F)cc3)[nH]n2)c1,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+846007,Cc1ccc(-c2cc(NC(=O)c3ccc(F)cc3)n[nH]2)cc1,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+126672775,COc1cc(-c2cc(-c3ccc(C(=O)NC4CC4)cc3)cnc2N)cc(OC)c1OC,P06241,IC50,0.377,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+44303555,COc1cc(Nc2c(C#N)cnc3cc(-c4cc(CN5CCN(C)CC5)cs4)ccc23)c(Cl)cc1Cl,P06241,IC50,0.63,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+9823787,CC(C)Oc1ccc2c(c1)CCc1c-2c2c(c3c4ccccc4n(CCO)c13)CNC2=O,P06241,IC50,1.19,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+23378546,COc1ccc2c(c1)CCc1c-2c2c(c3c4ccccc4n(CCO)c13)CNC2=O,P06241,IC50,3.4,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+44270641,NC1Cc2cc(O)c(O)cc2C1,P06241,IC50,10.0,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+10467257,CCCN(CCC)C1Cc2cc(O)c(O)cc2C1,P06241,IC50,10.0,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+10241671,CCCC1Cc2cc(O)c(O)cc2C1,P06241,IC50,1.0,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+117769936,CS(=O)(=O)c1ccc(Nc2cc3[nH]c(-c4cn[nH]c4)cc3cn2)cc1,P06241,IC50,4.776,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+68291131,COc1ccc(Nc2cc3[nH]c(-c4cn[nH]c4)cc3cn2)cc1OC,P06241,IC50,12.711,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+90468265,COc1cccc(Nc2cc3[nH]c(-c4cn[nH]c4)cc3cn2)c1,P06241,IC50,16.582,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+126673067,Cc1cc(-c2cnc(N)c(-c3ccncc3)c2)cc(C)c1O,P06241,IC50,1.705,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58285829,c1cc(CCNc2nn3c(-c4ccncc4)cnc3s2)ccn1,P06241,IC50,2.427,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+44603533,Cc1ccc(C(=O)Nc2ccc(Oc3cc4cnn(C)c4cc3-c3cn[nH]c3)c(F)c2)c(=O)n1-c1ccc(F)cc1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+42642645,COc1cc2c(Oc3ccc(NC(=O)C4(C(=O)Nc5ccc(F)cc5)CC4)cc3F)ccnc2cc1OCCCN1CCOCC1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+155541355,CC(C)CC(=O)N1CCc2nc(-c3ccc(Br)cc3)nc(N(C)Cc3ccccc3)c2C1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+49791349,CS(=O)(=O)Nc1cccc(-c2cc(NC=O)c3ncc(-c4ccc(F)c(Cl)c4)n3c2)c1,P06241,IC50,2.859,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+46943055,COc1cccc(-c2cc(NC(C)=O)c3ncc(-c4cccc(C(C)=O)c4)n3c2)c1,P06241,IC50,3.051,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672806,COc1ccc(-c2cc(NC(C)=O)c3ncc(-c4cccc(C(C)=O)c4)n3c2)c(OC)c1,P06241,IC50,2.502,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+49789743,COc1ccccc1-c1cc(NC(C)=O)c2ncc(-c3cccc(C(C)=O)c3)n2c1,P06241,IC50,1.584,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+71448837,COc1ccc(-c2cnc3c(NC(C)=O)cc(-c4cccc(NC(C)=O)c4)cn23)cc1OC,P06241,IC50,1.598,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672761,CC(=O)Nc1cc(-c2ccc(N)cc2)cn2c(-c3ccc(F)cc3)cnc12,P06241,IC50,5.25,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+154701643,Cc1nc(C2CCN(C(=O)c3ccc(OC(F)(F)F)cc3N)CC2)c2ncc(N3CCN(C)CC3)cc2n1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+134128280,CN1CCN(c2cnc3c(C4CCN(C(=O)c5ccc(OC(F)(F)F)cc5N)CC4)ncnc3c2)CC1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+71226207,CC1(C(=O)N2CCC[C@@H](c3nc(-c4ccc(C(=O)Nc5cc(C(F)(F)F)ccn5)cc4F)c4c(N)nccn34)C2)COC1,P06241,IC50,0.322,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+11409972,CCN1CCN(Cc2ccc(NC(=O)Nc3ccc(Oc4cc(NC)ncn4)cc3)cc2C(F)(F)F)CC1,P06241,Kd,0.05,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673129,COc1cc(-c2cc(-c3cc4ccccc4s3)cnc2N)cc(OC)c1OC,P06241,IC50,2.69,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+49803313,CCc1nc(C(N)=O)c(Nc2ccc(N3CCC(N4CCN(C)CC4)CC3)c(OC)c2)nc1NC1CCOCC1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+96074,Clc1cccc(CSc2ncnc3nc[nH]c23)c1,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+60754550,Brc1ccccc1CSc1ncnc2nc[nH]c12,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+93558,c1ccc(CSc2ncnc3nc[nH]c23)cc1,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+44631912,CN(C)C(=O)c1cc2cnc(Nc3ccc(N4CCNCC4)cn3)nc2n1C1CCCC1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+126673168,CN1CCN(c2ccc(-c3cn4c(-c5ccsc5)cnc4cn3)cn2)CC1,P06241,IC50,7.046,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+25171648,CN1CCC(COc2cnc(-c3cccc(Cn4nc(-c5cccc(C#N)c5)ccc4=O)c3)nc2)CC1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+66764813,CN(C)C(=O)Cn1cc(-c2nc([C@@](C)(c3ccc(-c4cnc(N)nc4)cc3)C3CC3)no2)cn1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+46179972,CC1(C)CC(NC(=O)c2cccc(-c3cc4nccc(Nc5cccc(O)c5)n4n3)c2)CC(C)(C)N1[O],P06241,IC50,0.005,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+137635074,N#Cc1ccc(Nc2ccc3[nH]c(=O)[nH]c3c2)c(Cl)c1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+23652660,CCC(F)(F)c1cc(N2CCC(S(C)(=O)=O)CC2)nc2sc(C(N)=O)c(N)c12,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+126673158,c1ccc(-c2cnc3ccc(-c4ccncc4)nn23)cc1,P06241,IC50,6.925,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672837,CC(=O)c1cccc(-c2cnc3ccc(-c4ccncc4)nn23)c1,P06241,IC50,0.371,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672883,Oc1cccc(-c2cnc3ccc(-c4ccncc4)nn23)c1,P06241,IC50,0.342,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672938,OCc1cccc(-c2cnc3ccc(-c4ccncc4)nn23)c1,P06241,IC50,0.973,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673006,CC(=O)Nc1cccc(-c2cnc3ccc(-c4ccncc4)nn23)c1,P06241,IC50,0.741,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673090,COc1ccc(-c2cnc3ccc(-c4ccncc4)nn23)cc1OC,P06241,IC50,0.404,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+137120124,COc1cc(-c2cnc3ccc(-c4ccncc4)nn23)ccc1O,P06241,IC50,0.0794,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+9871074,C[C@@H]1CN(Cc2ccc(F)cc2)[C@@H](C)CN1C(=O)c1cc2c(C(=O)C(=O)N(C)C)cn(C)c2cc1Cl,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+146171736,COc1cc(O[C@H]2CCN(C3COC3)CC2(F)F)c2c(Nc3c(F)ccc4c3OCO4)ncnc2c1,P06241,IC50,0.1,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+146171754,COc1cc(O[C@@H]2CCN(C3COC3)CC2(F)F)c2c(Nc3c(Cl)ccc4c3OCO4)ncnc2c1,P06241,IC50,0.1,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+146171734,COc1cc(O[C@H]2CCN(C3COC3)CC2(F)F)c2c(Nc3c(Cl)ccc4c3OCO4)ncnc2c1,P06241,IC50,0.1,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+146171737,COc1cc(OC2CCN(C3COC3)CC2(F)F)c2c(Nc3c(F)ccc4c3OCO4)ncnc2c1,P06241,IC50,0.1,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+146171746,COc1cc(O[C@@H]2CCN(C3COC3)CC2(F)F)c2c(Nc3c(F)ccc4c3OCO4)ncnc2c1,P06241,IC50,0.1,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+146171735,COc1cc(OC2CCN(C3COC3)CC2(F)F)c2c(Nc3c(Cl)ccc4c3OCO4)ncnc2c1,P06241,IC50,0.1,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672758,CCC(CO)Nc1cncc(-c2ccc(N)cc2)n1,P06241,IC50,21.057,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+126672862,CCC(CO)Nc1cncc(-c2cc(C(C)C)ccc2OC)n1,P06241,IC50,11.79,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+136509633,CCC(CO)Nc1cncc(-c2ccc(O)cc2)n1,P06241,IC50,15.346,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+10296883,CN1CCN(c2nc(C3=C(c4c[nH]c5ccccc45)C(=O)NC3=O)c3ccccc3n2)CC1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+154946302,CN(C)Oc1cccc(-c2cnc3sc(NCc4ccc5c(c4)OCO5)nn23)c1,P06241,IC50,1.926,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+25118925,Cn1cc(-c2ccc(F)c(C(F)(F)F)c2)nc1C1CCN(c2ncnc3[nH]ncc23)CC1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+135316203,Cn1cc(-c2cnc3ccc(Cc4ccc(F)cc4)nn23)cn1,P06241,IC50,2.239,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+117769546,Cc1cccc(Cc2ccc3ncc(-c4cnn(C)c4)n3n2)c1,P06241,IC50,1.795,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+80714,O=C(O)c1cc(C(=O)O)cc(S(=O)(=O)O)c1,P06241,Kd,0.06,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+222963,COc1cc(Br)c(C(=O)O)cc1OC,P06241,Kd,0.5,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+17549,O=C(O)CNC(=O)c1ccc([N+](=O)[O-])cc1,P06241,Kd,0.24,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+42628614,CC[C@H](C)[C@H](NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](Cc1ccc(OP(=O)(O)O)cc1)NC(C)=O)C(=O)N[C@@H](CCC(=O)O)C(=O)O,P06241,IC50,1.1,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+125,OCc1ccc(O)cc1,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+42645057,CCOCc1cc(O)c(O)c(Br)c1Br,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+9906875,CC(=O)C(C#N)C(=O)Nc1cc(Br)ccc1Br,P06241,IC50,240.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+87522699,CCC(=N\O)/C(C)=C/c1ccc(F)c(C)c1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+42641861,CCC(=N\O)/C(C)=C/c1ccc(F)cc1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+25117126,CNC(=O)c1ccc(Nc2ncc(C(F)(F)F)c(NCc3nccnc3N(C)S(C)(=O)=O)n2)cc1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+90282962,Nc1nccn2c([C@@H]3CC[C@H]4COC(=O)N4C3)nc(-c3ccc(C(=O)Nc4cc(C(F)(F)F)ccn4)cc3)c12,P06241,IC50,0.018,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+77106459,CC1(C)OC(=O)N2C[C@H](c3nc(-c4ccc(C(=O)Nc5cc(C(F)(F)F)ccn5)cc4)c4c(N)nccn34)CC[C@H]21,P06241,IC50,0.212,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+3081361,COc1cc2c(Nc3ccc(Br)cc3F)ncnc2cc1OCC1CCN(C)CC1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+6444692,FC(F)(F)c1ccc(/C=C/c2nc(COc3ccc(CCCCn4ccnn4)cc3)co2)cc1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+46911725,Cc1cc(Nc2cc(C)c(C#N)c(NC(C)CCCC(C)(C)O)n2)n[nH]1.Cl,P06241,Ki,0.028,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+135421442,CCS(=O)(=O)Nc1ccc2[nH]c(O)c(C(=Nc3ccc(CN4CCCCC4)cc3)c3ccccc3)c2c1,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Active,1
+803978,COc1ccc(-c2cc(=O)c3cc(O)ccc3o2)cc1OC,P06241,IC50,8.952,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+46840469,CCCNc1ccc2ncc(-c3ccsc3)n2n1,P06241,IC50,4.04,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126475533,COCCNc1ccc2ncc(-c3ccsc3)n2n1,P06241,IC50,5.231,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+78426826,CNc1ccc2ncc(-c3ccsc3)n2n1,P06241,IC50,4.232,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+44299360,CNS(=O)(=O)c1ccc2c(c1)/C(=C/c1[nH]c3c(c1CCCN1CCOCC1)CCCC3)C(=O)N2,P06241,IC50,0.7,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+51352628,COCCc1ccc(-c2c(C)nc3c(N4CCOCC4)ccnn23)cn1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+126673086,CC(=O)c1ccc(-c2cnc3sc(NCCN4CCOCC4)nn23)s1,P06241,IC50,3.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+117606729,Cc1nc2cc(-c3nn(C(C)C)c4ncnc(N)c34)ccc2o1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+16659841,Cc1cc(Nc2nc(N[C@@H](C)c3ncc(F)cn3)ncc2Cl)n[nH]1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+24821094,C=CC(=O)N1CCC[C@@H](n2nc(-c3ccc(Oc4ccccc4)cc3)c3c(N)ncnc32)C1,P06241,Kd,0.305,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+16654980,Nc1cc(C(F)(F)F)c(-c2cc(N3CCOCC3)nc(N3CCOCC3)n2)cn1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+9933475,COc1cc2c(Oc3ccc4[nH]c(C)cc4c3F)ncnc2cc1OCCCN1CCCC1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+52913813,C[C@@H](Nc1cc(F)cc(F)c1)c1cc(C(=O)N(C)C)cc2c(=O)cc(N3CCOCC3)oc12,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+117769481,c1csc(-c2cn3c(-c4cccs4)cnc3cn2)c1,P06241,IC50,5.028,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+50913410,OCCNc1nc(NCc2ccccc2)c2cnn(/C=C/c3ccccc3)c2n1,P06241,Ki,1.15,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+11313622,O=c1sn(-c2cccc3ccccc23)c(=O)n1Cc1ccccc1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+135316093,COc1ccc2c(c1)-c1nc(Nc3cc(C)c(OCCN(C)C)c(C)c3)ncc1CC2,P06241,IC50,0.008,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+49846946,COC1CCC(CNc2ccc(S(=O)(=O)NC(=O)c3ccc(N4CCN(CC5=C(c6ccc(Cl)cc6)CC(C)(C)CC5)CC4)cc3Oc3cnc4[nH]ccc4c3)cc2[N+](=O)[O-])CC1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+46220502,CCN1CCN(Cc2ccc(Nc3ncc(F)c(-c4cc(F)c5nc(C)n(C(C)C)c5c4)n3)nc2)CC1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+52951665,ClC(Cn1ncc2c(Nc3ccccc3)nc(SCCN3CCOCC3)nc21)c1ccccc1,P06241,Ki,7.5,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+44324647,CC[C@H](C)[C@H](NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](Cc1ccc(OP(=O)(O)O)cc1)NOC(=O)Cc1cc(=O)oc2cc(O)ccc12)C(=O)N[C@@H](CCC(=O)O)C(=O)O,P06241,IC50,0.1,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+126672785,Nc1cccc(-c2cncc(NCc3ccccc3)n2)c1,P06241,IC50,6.677,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+11396738,COc1ccc(N2Cc3cnc(Nc4ccc(F)cc4)nc3N([C@@H]3CC[C@@H](O)C3)C2=O)cc1,P06241,IC50,0.466,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+9910609,COc1ccc(N2Cc3cnc(Nc4ccccc4)nc3N([C@@H]3CC[C@@H](O)C3)C2=O)cc1,P06241,IC50,0.322,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+71496458,C=CC(=O)Nc1cc(Nc2nccc(-c3cn(C)c4ccccc34)n2)c(OC)cc1N(C)CCN(C)C,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+11213558,COc1cc(Nc2ncc(F)c(Nc3ccc4c(n3)NC(=O)C(C)(C)O4)n2)cc(OC)c1OC,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+11671467,COc1cc(Nc2ncc(F)c(Nc3ccc4c(n3)N(COP(=O)(O)O)C(=O)C(C)(C)O4)n2)cc(OC)c1OC,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+126673228,COc1ccc(-c2cnc3ccc(-c4ccoc4)nn23)cc1OC,P06241,IC50,0.983,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672948,Oc1cccc(-c2cnc3ccc(-c4ccoc4)nn23)c1,P06241,IC50,1.057,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672856,CC(=O)Nc1cccc(-c2cnc3ccc(-c4ccoc4)nn23)c1,P06241,IC50,1.257,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673046,CC(=O)c1cccc(-c2cnc3ccc(-c4ccoc4)nn23)c1,P06241,IC50,3.44,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672865,OCc1cccc(-c2cnc3ccc(-c4ccoc4)nn23)c1,P06241,IC50,3.994,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673317,CN(C)CCNC(=O)c1cccc(-c2cnc3ccc(-c4ccoc4)nn23)c1,P06241,IC50,3.884,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58285485,COc1cncc(-c2cnc3sc(NCc4ccc5c(c4)OCO5)nn23)c1,P06241,IC50,0.289,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+44551653,CN(C)CC(=O)N1CCC(c2ccc(NC(=O)c3ncc(C#N)[nH]3)c(C3=CCCCC3)c2)CC1.Cl,P06241,Kd,0.34,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+3133405,Cc1ccc(-c2cc(-c3ccccc3)c3c(N)c(C(=O)Nc4ccc(F)cc4)sc3n2)cc1,P06241,Ki,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Inactive,0
+25227462,Cc1nc(Nc2n[nH]c3c2CN(C(=O)N[C@H](CN(C)C)c2ccccc2)C3(C)C)c2sccc2n1,P06241,Kd,1.233,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58857812,COc1ccc(-c2cnc3ccc(NCc4ccccn4)nn23)cc1OC,P06241,IC50,0.494,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+137120118,COc1cc(-c2cnc3ccc(NCc4ccccn4)nn23)ccc1O,P06241,IC50,0.233,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+46191454,CC(C)CC(=O)Nc1n[nH]c2c1CN(C(=O)C1CCN(C)CC1)C2(C)C,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+11511120,COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1NC(=O)/C=C/CN1CCCCC1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+155568238,CS(=O)(=O)N1CCCC(NC(=O)[C@H](CCC2CCCCC2)NC(=O)c2ccc(CNC(=O)c3cnc4ccccn34)cc2)C1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+58285741,Clc1ccc(-c2cnc3sc(NCc4cccnc4)nn23)cc1,P06241,IC50,3.659,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58285544,CN(C)C(=O)c1cccc(-c2cnc3sc(NCC4CC4)nn23)c1,P06241,IC50,0.884,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58285692,NC(=O)c1cccc(-c2cnc3sc(NCC4CC4)nn23)c1,P06241,IC50,1.941,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673307,CN1CCN(c2ccc(-c3cn4c(-c5ccc6c(c5)OCO6)cnc4cn3)cc2)CC1,P06241,IC50,7.931,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+51031001,CC(=O)N1CCC(c2ccc(C(=O)N=C(N)N)cc2C(F)(F)F)CC1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+44182295,COc1cc(F)c(F)c(Nc2ccc(I)cc2F)c1NS(=O)(=O)C1(C[C@H](O)CO)CC1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+10297043,CCN1CCN(Cc2ccc(-c3cc4c(N[C@H](C)c5ccccc5)ncnc4[nH]3)cc2)CC1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+124088866,CN(C)C1CCN(CCn2nc(-c3cnc4[nH]ccc4c3)c3c(N)ncnc32)CC1,P06241,IC50,0.055,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+122705248,CN(C)CC1CCN(CCn2nc(-c3cnc4[nH]ccc4c3)c3c(N)ncnc32)CC1,P06241,IC50,0.038,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+24964624,NC1(c2ccc(-c3nc4ccn5c(=O)[nH]nc5c4cc3-c3ccccc3)cc2)CCC1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+16049771,Cc1cc(O)cc(C)c1/C=C/c1cncc(-c2nn[nH]n2)c1,P39688,IC50,0.04,Fyn - Fyn proto-oncogene (house mouse),Confirmatory,Active,1
+25114442,COc1ccc2cc(OCC3(C(=O)O)CN(C(=O)c4ccc(F)cc4)C3)ccc2c1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+11525848,COc1cccc(CNC(=O)c2nc3scc(COCc4ccc(C(=O)O)cc4)c3c(=O)[nH]2)c1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+68755406,FC(F)(F)CNc1nc(Nc2ccc(N3CCOCC3)c(Cl)c2)nc2ccoc12,P06241,IC50,1.51,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+90480257,c1cncc(-c2cnc3ccc(-c4ccoc4)nn23)c1,P06241,IC50,2.349,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+25138012,Cc1ccc(O)cc1Nc1ccnc(Nc2cccc(C(N)=O)c2)n1,P06241,Kd,0.0004,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+24856436,C=CCn1c(=O)c2cnc(Nc3ccc(N4CCN(C)CC4)cc3)nc2n1-c1cccc(C(C)(C)O)n1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+42642648,C[C@@H]1COC(Nc2ccc3ncnc(Nc4ccc(OCc5nccs5)c(Cl)c4)c3c2)=N1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+11488320,CNC(=O)CN1CCC(Oc2cc3c(Nc4cccc(Cl)c4F)ncnc3cc2OC)CC1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+25127713,C=CC(=O)N1CCC(Oc2cc3c(Nc4ccc(Cl)c(Cl)c4F)ncnc3cc2OC)CC1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+71729571,COc1ccccc1-c1cc2c(Nc3cccc(C(F)(F)F)c3)nccc2n1C,P06241,IC50,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+71729585,COc1ccccc1-c1cc2c(Nc3ccc(NC(C)=O)cc3)nccc2[nH]1,P06241,IC50,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+155519537,Nc1ncnc2c1c(-c1ccc(Oc3ccccc3)cc1)cn2C[C@H]1CCCN1C[C@@H]1CO1,P06241,IC50,0.232,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+137635614,CCCCNc1nc(SC)nc2c1ccn2Cc1ccc(F)cc1,P06241,IC50,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Inactive,0
+155555047,O=C(NS(=O)(=O)c1ccc(NCC2CCOCC2)c([N+](=O)[O-])c1)c1ccc(N2CCN(Cc3ccc(C(F)(F)F)cc3-c3ccc(Cl)cc3)CC2)cc1Oc1cnc2[nH]ccc2c1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+162653077,COC[C@H]1O[C@@H](c2ccc(O)c(O)c2)[C@H](OC)[C@@H](OC)[C@@H]1OC,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+162652131,COC[C@H]1O[C@@H](c2cc(O)ccc2O)[C@H](OC)[C@@H](OC)[C@@H]1OC,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+10892862,CC(=O)c1c(O)cc(O)c([C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)c1O,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+162645522,COC[C@H]1O[C@@H](c2c(O)cc(O)cc2O)[C@H](OC)[C@@H](OC)[C@@H]1OC,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+162645931,COC[C@H]1O[C@@H](c2c(O)cc(O)c(C(C)=O)c2O)[C@H](OC)[C@@H](OC)[C@@H]1OC,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+68488430,CCCNc1ccc2ncc(-c3ccncc3)n2n1,P06241,IC50,0.217,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672976,CC(C)[C@@H](CO)Nc1ccc2ncc(-c3ccncc3)n2n1,P06241,IC50,0.631,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+68490024,OCCCNc1ccc2ncc(-c3ccncc3)n2n1,P06241,IC50,0.538,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+44324716,CC[C@H](C)[C@H](NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](Cc1ccc(OP(=O)(O)O)cc1)N/C=C/c1ccc(O)c(O)c1)C(=O)N[C@@H](CCC(=O)O)C(=O)O,P06241,IC50,0.084,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+24821881,C=CC(=O)NC1CCC(n2nc(-c3ccc(Oc4ccccc4)cc3)c3c(N)ncnc32)CC1,P06241,IC50,0.0071,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+22049997,CNC(=O)c1ccc(C)c(-n2c(C)cc(OCc3ccc(F)cc3F)c(Br)c2=O)c1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+126673015,COc1ncc(-c2ccnc3n[nH]c(-c4ccccc4OC)c23)cn1,P06241,IC50,6.431,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+117769781,Oc1cccc(-c2cnc3cnc(-c4cccs4)cn23)c1,P06241,IC50,2.784,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+155545891,Cc1ccc(-c2cnc([C@@]3(O)CC[C@H](C(=O)O)C(C)(C)C3)s2)cc1Nc1cccc(C(F)(F)F)n1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+11973736,Cc1cc(-c2cc(OC(=O)c3ccccc3)ccc2Cl)cc2nnc(Nc3ccc(OCCN4CCCC4)cc3)nc12,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+155543618,CC1=C(C#N)[C@@H](c2ccc3n[nH]c(C)c3c2)C(C#N)=C(c2ccc(Cl)cc2)N1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+51039094,Cc1cc(Nc2ncnc3ccc(NC4=NC(C)(C)CO4)cc23)ccc1Oc1ccn2ncnc2c1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+135316077,c1cc(-c2ccc3ncc(-c4ccc5c(c4)OCO5)n3n2)co1,P06241,IC50,1.602,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+49821991,COCCOc1nc(-c2ccc(Cl)nc2)nc2c1CN(C(=O)c1ncn3ccccc13)CC2,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+57861407,CCOCCn1cc(C(=O)Nc2ccc(-n3nc(-c4cccnc4)cc3C(F)(F)F)cn2)ccc1=O,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+58285709,COc1cncc(-c2cnc3sc(NCC(C)C)nn23)c1,P06241,IC50,5.167,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+11955855,Cc1cnc(NC(=O)Nc2cc(Br)c(C)cc2OC[C@@H]2CNCCO2)cn1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+42611257,CCCS(=O)(=O)Nc1ccc(F)c(C(=O)c2c[nH]c3ncc(-c4ccc(Cl)cc4)cc23)c1F,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+1430509,CCc1ccc2[nH]c(=O)c(CN(Cc3ccc4c(c3)OCO4)C(=O)Nc3ccc(F)cc3)cc2c1,P06241,Ki,2.1,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+56949517,Cc1c(Cn2c(C)nc3c(C(=O)O)cc(N4CCOCC4)cc32)cccc1C(F)(F)F,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+9915028,CCCCN(CCCC)C(=O)CN1C[C@H](c2cc(OC)c3c(c2)OCO3)[C@@H](C(=O)O)[C@@H]1CC(C)(C)CCC,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+91827581,CCCCN(CCCC)C(=O)CN1C[C@@H](c2cc(OC)c3c(c2)OCO3)[C@H](C(=O)O)[C@H]1CC(C)(C)CCC,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+58285556,c1cncc(-c2cnc3sc(NCC4CCOCC4)nn23)c1,P06241,IC50,4.849,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58285617,COc1cncc(-c2cnc3sc(NCC4CCOCC4)nn23)c1,P06241,IC50,0.293,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+10050705,COCCOc1cc2c(cc1OC)Cc1c(Nc3cc(OC)c(Cl)cc3Cl)ncnc1N2,P06241,IC50,10.0,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+10174505,C[C@@H]1CCN(C(=O)CC#N)C[C@@H]1N(C)c1ncnc2[nH]ccc12.O=C(O)CC(O)(CC(=O)O)C(=O)O,P06241,Kd,1.1,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+135565596,COc1c(OCCCN2CCOCC2)ccc2c3n(c(=NC(=O)c4cnc(N)nc4)nc12)CCN3,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+126672928,CN(C)CCCNC(=O)c1ccc(-c2cn3c(-c4ccsc4)cnc3cn2)cc1,P06241,IC50,3.872,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672949,O=C(NCCO)c1cccc(-c2cn3c(-c4ccsc4)cnc3cn2)c1,P06241,IC50,3.671,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673283,c1ccc(-c2cn3c(-c4ccsc4)cnc3cn2)cc1,P06241,IC50,3.95,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673355,CC(=O)Nc1cccc(-c2cn3c(-c4ccsc4)cnc3cn2)c1,P06241,IC50,2.329,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+135316081,CN(C)CCNC(=O)c1ccc(-c2cn3c(-c4ccsc4)cnc3cn2)cc1,P06241,IC50,1.898,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+135316041,CS(=O)(=O)Nc1cccc(-c2cn3c(-c4ccsc4)cnc3cn2)c1,P06241,IC50,3.32,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673074,OCc1ccc(-c2cn3c(-c4ccsc4)cnc3cn2)cc1,P06241,IC50,2.352,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673302,Oc1ccc(-c2cn3c(-c4ccsc4)cnc3cn2)cc1,P06241,IC50,2.702,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+58285584,c1csc(CNc2nn3c(-c4ccncc4)cnc3s2)c1,P06241,IC50,3.616,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673033,Cn1cc(-c2ccc3ncc(-c4cccc(O)c4)n3n2)cn1,P06241,IC50,0.388,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672909,CC(=O)c1cccc(-c2cnc3ccc(-c4cnn(C)c4)nn23)c1,P06241,IC50,0.373,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673216,COc1ccc(-c2cnc3ccc(-c4cnn(C)c4)nn23)cc1OC,P06241,IC50,0.367,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126673012,CN(C)CCNC(=O)c1cccc(-c2cnc3ccc(-c4cnn(C)c4)nn23)c1,P06241,IC50,1.765,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+644241,Cc1cn(-c2cc(NC(=O)c3ccc(C)c(Nc4nccc(-c5cccnc5)n4)c3)cc(C(F)(F)F)c2)cn1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+11625818,CC[C@H](Nc1ncnc2nc[nH]c12)c1nc2cccc(F)c2c(=O)n1-c1ccccc1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+49831257,O=C(Nc1nc2cccc(-c3ccc(CN4CCS(=O)(=O)CC4)cc3)n2n1)C1CC1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+5281757,O=c1c(-c2ccc(O)cc2)coc2c([C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)c(O)cc(O)c12,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+65064,O=C(O[C@@H]1Cc2c(O)cc(O)cc2O[C@@H]1c1cc(O)c(O)c(O)c1)c1cc(O)c(O)c(O)c1,P06241,Kd,0.367,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+24993252,COc1ccc(Nc2ccn3ncc(-c4cccc(O)c4)c3n2)cn1,P06241,IC50,3.394,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+59662281,COc1ccc(Nc2ccn3ncc(-c4cccc(C(C)=O)c4)c3n2)cn1,P06241,IC50,1.636,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+59662300,COc1cccc(-c2cnn3ccc(Nc4ccc(OC)nc4)nc23)c1,P06241,IC50,5.315,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+90283326,Nc1nccn2c([C@@H]3CC[C@H]4CCC(=O)N4C3)nc(-c3ccc(C(=O)Nc4cc(C(F)(F)F)ccn4)cc3OC3CC3)c12,P06241,IC50,7.4,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+126673143,CNc1cncc(-c2ccc3[nH]ccc3c2)n1,P06241,IC50,14.942,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+137652864,C=CS(=O)(=O)N1CCC[C@@H]1Cn1cc(-c2ccc3c(c2)OCO3)c2c(N)ncnc21,P06241,IC50,0.4298,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+51042438,Cn1ncc(Cl)c1-c1cc(C(=O)N[C@H](CN)Cc2ccc(F)c(F)c2)oc1Cl,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+122178642,Cc1cc(OCc2ccc(F)cc2F)cc(=O)n1Cc1ccc(C(F)(F)F)cc1,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+122178643,COc1ccc(Cn2c(C)cc(OCc3cccc(F)c3)cc2=O)cc1,P06241,,,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Literature-derived,Inactive,0
+126673309,c1cncc(-c2ccc3ncc(-c4ccc5c(c4)OCO5)n3n2)c1,P06241,IC50,0.688,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+9863672,C[C@H]1CNCCCN1S(=O)(=O)c1cccc2cncc(F)c12,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+9549183,COc1cc(-c2nn(C3CCC(N4CCN(C)CC4)CC3)c3ncnc(N)c23)ccc1NC(=O)c1cc2ccccc2n1C,P06241,IC50,0.33,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+155560522,CS(=O)(=O)N1CCCC(NC(=O)[C@H](CCC2CCCCC2)NC(=O)c2ccc(CNc3ncnc4c3nnn4-c3ccccc3)cc2)C1,P06241,,,Tyrosine-protein kinase Fyn (human),Other,Inactive,0
+9823235,Cc1cccc(Cl)c1NC(=O)c1ccc2nc(NC(=O)NC(C)(C)C)sc2c1,P06241,Ki,0.1,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+122178652,Oc1cccc(Nc2nc(NCc3ccccc3)nc3nc[nH]c23)c1,P06241,ID50,4.1,"FYN - FYN proto-oncogene, Src family tyrosine kinase (human)",Confirmatory,Active,1
+124088856,COc1cc(-c2nn(CCN3CCC(OC)CC3)c3ncnc(N)c23)ccc1NC(=O)OC(C)(C)C,P06241,IC50,0.01,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+124088864,COc1cc(-c2nn(CCN3CCC(N(C)C)CC3)c3ncnc(N)c23)ccc1CC(=O)OC(C)(C)C,P06241,IC50,0.01,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+124088862,COc1cc(-c2nn(CCN3CCC(N(C)C)CC3)c3ncnc(N)c23)ccc1NC(=O)CC(C)(C)C,P06241,IC50,0.55,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+124088842,COc1cc(-c2nn(CCN3CCC(N(C)C)CC3)c3ncnc(N)c23)ccc1NC(=O)NC(C)(C)C,P06241,IC50,0.55,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+124088843,CN(C)C1CCN(CCn2nc(-c3ccc(NC(=O)OC(C)(C)C)cc3)c3c(N)ncnc32)CC1,P06241,IC50,0.55,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+124088876,CN(C)C1CCN(CCn2nc(-c3ccc(CC(=O)OC(C)(C)C)cc3)c3c(N)ncnc32)CC1,P06241,IC50,0.01,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+124088841,COc1cc(-c2nn(CCN3CCC(CN(C)C)CC3)c3ncnc(N)c23)ccc1NC(=O)OC(C)(C)C,P06241,IC50,0.01,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+124088839,Cc1ccc(-c2nn(CCN3CCC(CN(C)C)CC3)c3ncnc(N)c23)cc1,P06241,IC50,0.913,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+121231408,COc1cc(-c2nn(CCN3CCC(N(C)C)CC3)c3ncnc(N)c23)ccc1NC(=O)OC(C)(C)C,P06241,IC50,0.0021,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+127052538,Cc1ccc(-c2nn(CCN3CCC(N(C)C)CC3)c3ncnc(N)c23)cc1,P06241,IC50,0.311,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+126672929,Oc1cccc(-c2cnc3ccc(C4CC4)nn23)c1,P06241,IC50,1.886,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1
+17754438,OCCn1cc(-c2cnc3nnn(Cc4ccc5ncccc5c4)c3n2)cn1,P06241,Kd,30.0,Tyrosine-protein kinase Fyn (human),Confirmatory,Inactive,0
+122419211,Cc1ccc(NC(=O)c2ccc(C)c(C(F)(F)F)c2)cc1C#Cc1nn(C2CCC(O)CC2)c2ncnc(N)c12,P06241,IC50,0.006,Tyrosine-protein kinase Fyn (human),Confirmatory,Active,1

@@ -1,0 +1,544 @@
+cid,SMILES,protacxn,acname,acvalue,targetname,aidtypeid,activityid,label
+156169745,Cn1cc(-c2cc3c(cc2NC(=O)c2coc(-c4ccnc(N)c4)n2)CC(C)(C)O3)cn1,P22455,,,Fibroblast growth factor receptor 4 (human),Literature-derived,Inactive,0
+118036295,N#Cc1cnc(NC(=O)N2CCCc3ccc(C=O)nc32)cc1OCC1CCCO1,P22455,IC50,0.0011,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118036912,N#Cc1cnc(NC(=O)N2CCCc3cc(CO)c(C=O)nc32)cc1OCC1CCCO1,P22455,IC50,0.0052,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118430456,Cc1c(Oc2c(F)cccc2F)c(OC(C)C)nn1-c1ncc(C2CC2)cc1F,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+118029170,C=CC(=O)Nc1cc(CCCN(C)C)ccc1Nc1cc(N(C)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.001,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118029178,C=CC(=O)Nc1ccc(CCN(C)C)cc1Nc1cc(N(C)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.001,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118029203,C=CC(=O)Nc1cc(CN(C)C)ccc1Nc1cc(N(C)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.001,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118029219,C=CC(=O)Nc1ccccc1Nc1cc(N(CCOC)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.004,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118029171,C=CC(=O)Nc1cc(OCCN(C)C)ccc1Nc1cc(N(C)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.001,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118029221,C#CC(=O)Nc1ccccc1Nc1cc(N(C)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.001,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118025484,C=CC(=O)Nc1cc(C(C)OC)ccc1Nc1cc(N(C)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.001,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118029175,C=CC(=O)Nc1ccccc1Nc1cc(N(CCCN(C)C)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.001,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118029183,C=CC(=O)Nc1cc(OCCO)ccc1Nc1cc(N(C)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.001,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118025209,C=CC(=O)Nc1cc(CO)ccc1Nc1cc(N(C)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.001,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118029132,C=CC(=O)Nc1cc(C(C)O)ccc1Nc1cc(N(C)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.001,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118029222,C=CC(=O)Nc1cc(N(C)CCO)ccc1Nc1cc(N(C)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.001,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118029172,COc1cc(OC)c(Cl)c(NC(=O)N(C)c2cc(Nc3ccccc3NC(=O)/C=C\Cl)ncn2)c1Cl,P22455,IC50,0.003,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118029184,C=CC(=O)Nc1cc(C(C)N)ccc1Nc1cc(N(C)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.001,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118034145,C=CC(=O)Nc1cc(C(=O)N(C)C)ccc1Nc1cc(N(C)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.001,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118029325,C=CC(=O)Nc1ccccc1Nc1cc(N(C)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.001,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118029313,COc1cc(OC)c(Cl)c(NC(=O)N(C)c2cc(Nc3ccccc3NC(=O)/C=C/Cl)ncn2)c1Cl,P22455,IC50,0.008,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118029159,C=CC(=O)Nc1cccc(F)c1Nc1cc(N(C)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.001,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118024790,C=CC(=O)Nc1cccc(C)c1Nc1cc(N(C)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.001,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118034182,C=CC(=O)Nc1cccc(OC)c1Nc1cc(N(C)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.001,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118029241,C=CC(=O)Nc1cc(OCCOC)ccc1Nc1cc(N(C)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.001,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+121317876,C=CC(=O)Nc1cc(COC)ccc1Nc1cc(N(C)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.001,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118029226,C=CC(=O)Nc1cc(CCN(C)C)ccc1Nc1cc(N(C)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.001,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118029174,C=CC(=O)Nc1cccc(Cl)c1Nc1cc(N(C)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.001,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+168281452,C=CC(=O)Nc1cc(-c2cnn(C)c2)ccc1Nc1ccc2c(C(=O)c3cc(OC)cc(OC)c3)c[nH]c2n1,P22455,IC50,0.0057,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+168291841,C=CC(=O)Nc1cc(-c2cnn(C)c2)ccc1Nc1ccc2c(C(=O)c3c(Cl)c(OC)cc(OC)c3Cl)c[nH]c2n1,P22455,IC50,0.0058,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+132159704,C=CC(=O)Nc1cc(N2CCC(N(C)C3CC3)CC2)ccc1Nc1cc(N(C)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.0038,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+87522699,CCC(=N\O)/C(C)=C/c1ccc(F)c(C)c1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+42641861,CCC(=N\O)/C(C)=C/c1ccc(F)cc1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+89447251,COc1cc(OC)cc(N(CCN2CCC[C@H]2CO)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.008318,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134145938,COc1cc(OC)cc(N(CCN2CCC[C@H]2C)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1.Cl,P22455,IC50,0.006607,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134156523,COc1cc(OC)cc(N(CCN2CCCC2)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1.Cl,P22455,IC50,0.008128,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68208975,COc1cc(OC)cc(N(CCN2CCC(N(C)C)C2)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.008913,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134255801,CO[C@@H]1CCN(c2cc(NC(=O)N3CCCc4cc(CN(C)C(=O)[C@H]5CCCO5)c(C=O)nc43)ncc2C#N)C1,P22455,IC50,0.0042,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+156009445,Cc1noc([C@H]2C[C@@H](c3ccc(C(F)(F)F)cc3)CN(C(=O)N3CCS(=O)(=O)C3)C2)n1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+24826455,CC1(C)CC=C(c2cc(C3(O)CCC(C(=O)O)CC3)ccc2NC(=O)c2ncc(C#N)[nH]2)CC1,P09581,IC50,0.00065,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+24826538,COCCNC1(c2ccc(NC(=O)c3ncc(C#N)[nH]3)c(C3=CCC(C)(C)CC3)c2)CCCCC1,P09581,IC50,0.0029,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+24826535,CC1(C)CC=C(c2cc(C3(O)CCCCC3)ccc2NC(=O)c2ncc(C#N)[nH]2)CC1,P09581,IC50,0.0059,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+89534126,COc1cc(OC)cc(N(Cc2ncc[nH]2)c2ccc3ncc(-c4cccnc4)cc3n2)c1,P22455,IC50,0.00398,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+156558799,C=CS(=O)(=O)N1CC=C(c2cc3c(Oc4ccc(NC(=O)NC5CC5)c(Cl)c4)ccnc3cc2OC)CC1,P22455,IC50,0.00465,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+156540258,C=CC(=O)N1CC=C(c2cc3c(Oc4ccc(NC(=O)NC5CC5)c(Cl)c4)ccnc3cc2OC)CC1,P22455,IC50,0.00288,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118036418,COCCOc1cc(NC(=O)N2CCCc3cc(C4CC4)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0083,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+132156603,CC1OCCC1Sc1cc(NC(=O)N2CCCc3cc(CN4CCOCC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0054,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+132156749,N#Cc1cnc(NC(=O)N2CCCc3cc(CN4CCOCC4=O)c(C=O)nc32)cc1S[C@@H]1CCOC1,P22455,IC50,0.00752,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+132156780,N#Cc1cnc(NC(=O)N2CCCc3cc(CN4CCOCC4=O)c(C=O)nc32)cc1S[C@H]1CCOC1,P22455,IC50,0.00529,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+157476523,COc1nc2c(cc1CN(C)C(=O)[C@@H]1CCCO1)CCCN2C(=O)Nc1cc(NCCSC)c(C#N)cn1,P22455,IC50,0.0018,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134255880,COCCNc1cc(NC(=O)N2CCCc3cc(CN(C)C(=O)[C@H]4CCCO4)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0009,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134256040,COC[C@H](C)Nc1cc(NC(=O)N2CCCc3cc(CN(C)C(=O)[C@H]4CCCO4)c(C=O)nc32)ncc1C#N,P22455,IC50,0.00901,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134255865,COC[C@@H](C)Oc1cc(NC(=O)N2CCCc3cc(CN(C)C(=O)[C@H]4CCCO4)c(C=O)nc32)ncc1C#N,P22455,IC50,0.00253,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134255966,COCCSc1cc(NC(=O)N2CCCc3cc(CN(C)C(=O)[C@H]4CCCO4)c(C=O)nc32)ncc1C#N,P22455,IC50,0.00198,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134255954,COCCNc1cc(NC(=O)N2CCCc3cc(CN(C)C(=O)[C@@H]4CCCO4)c(C=O)nc32)ncc1C#N,P22455,IC50,0.00072,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134255953,CN(Cc1cc2c(nc1C=O)N(C(=O)Nc1cc(N(C)C)c(C#N)cn1)CCC2)C(=O)C1CCCO1,P22455,IC50,0.00454,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134256037,COC[C@@H](C)Nc1cc(NC(=O)N2CCCc3cc(CN(C)C(=O)[C@H]4CCCO4)c(C=O)nc32)ncc1C#N,P22455,IC50,0.00209,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+5330127,COc1cc(OC)cc(-c2cc3cnc(NCCCN4CCN(C)CC4)cc3nc2NC(=O)NC(C)(C)C)c1,P22455,IC50,0.0019,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+168278294,C=CC(=O)Nc1cc(-c2cc3c(cn2)cc(-c2c(Cl)c(OC)cc(OC)c2Cl)c(=O)n3CC)c(OC)cc1N1C[C@H]2C[C@@H]1CO2,P22455,IC50,0.0048,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118036533,N#Cc1cnc(NC(=O)N2CCCc3cc(CO)c(C=O)nc32)cc1N[C@@H]1[C@H]2CC[C@H](C2)[C@@H]1CO,P22455,IC50,0.0008,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+155554081,C[C@@]1(Cc2ccc(C#N)cc2)C(=O)N(c2cc(Cl)cc(Cl)c2)c2ncc(C(=O)NC3(c4nc(C5CCC5)no4)CC3)n21,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+25218659,CCc1ccc(-n2cc(C(=O)NOC)c(=O)c3cnc(Nc4ccc(C5CCN(C)CC5)cc4)nc32)cc1,P09581,IC50,0.0006,Csf1r - colony stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+25218660,CCc1cccc(-n2cc(C(=O)NOC)c(=O)c3cnc(Nc4ccc(C5CCN(C)CC5)cc4)nc32)c1,P09581,IC50,0.002,Csf1r - colony stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+68208757,COc1cc(OC)cc(N(Cc2csc(C)n2)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.007244,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+137479135,CN(C)c1ncnc(-c2ccc3nc(Nc4cc(CN5CCN(C(=O)CC(F)(F)F)CC5)ccn4)[nH]c3c2)c1Cl,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+145925685,C[C@H](c1ccnc(Nc2nc3ccc(-c4cc(N(C)C)ncn4)cc3[nH]2)c1)N1CCN(C(=O)CC(F)(F)F)CC1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+118036627,CN1CCC2(CCN(c3cc(NC(=O)N4CCCc5ccc(C=O)nc54)ncc3C#N)CC2)C1,P22455,IC50,0.0034,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+11698924,N#Cc1cnc(C(=O)Nc2ccc(C3CCN(C(=O)c4ccc[n+]([O-])c4)CC3)cc2C2=CCCCC2)[nH]1,P09581,IC50,0.0095,Csf1r - colony stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+132159608,C=CC(=O)Nc1cc(N2CCNC3(CC3)C2)ccc1Nc1cc(N(C)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.0046,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+132159651,C=CC(=O)Nc1cc(N2CCN(CC)C3(CC3)C2)ccc1Nc1cc(N(C)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.0024,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+168272885,COc1cc(OC)cc(N(CCNC(C)C)c2ccc3ncc(-c4cnn(CCOc5ccc(C(=O)NO)cc5)c4)nc3c2)c1,P22455,IC50,0.0013,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+71736249,COc1cc(Nc2ncc(CCc3c(F)c(OC)cc(OC)c3F)cn2)ccc1N1CCC(N2CCN(C)CC2)CC1,P22455,IC50,0.0042,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+45279963,O=C1c2ccc(Nc3ccc(F)cc3F)cc2CCc2ccc(OC[C@H](O)CO)cc21,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+11577204,O=S(=O)(NC1CCC(c2cc(F)ccc2F)(S(=O)(=O)c2ccc(Cl)cc2)CC1)C(F)(F)F,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+155568985,O=C(Nc1ccc(Oc2ccc(F)cc2)cc1)N1CCc2ncccc2[C@H]1c1ccc(F)cc1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+142413851,CCN1CCN(c2ccc(Nc3ncc4cc(-c5cc6[nH]c(C)cc6cc5Cl)c5nncn5c4n3)cc2)CC1,P22455,IC50,0.0055,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+24771824,O=C(Nc1cccnn1)N1CCC(=Cc2cccc(Oc3ccc(C(F)(F)F)cn3)c2)CC1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+118036726,COCCNc1cc(NC(=O)N2CCCc3cc(CN4CCCC45COC5)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0059,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+137635074,N#Cc1ccc(Nc2ccc3[nH]c(=O)[nH]c3c2)c(Cl)c1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+164624573,C=CC(=O)Nc1cc(CCN2CCCC2CN2CCCC2)cc(C)c1Nc1ncc2cc(-c3c(Cl)c(OC)cc(OC)c3Cl)ccc2n1,P22455,IC50,0.001,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+132159610,C=CC(=O)Nc1cc(N2CCC3(CCNCC3)C2)ccc1Nc1cc(N(C)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.002,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118036448,COCCNc1cc(NC(=O)N2CCCc3cc(CN4CCSCC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0001,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118036705,CC(C)S(=O)(=O)c1ccccc1Nc1nc(NC(=O)N2CCCc3ccc(C=O)nc32)ncc1Cl,P22455,IC50,0.0002,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+132156797,COCC1(Nc2cc(NC(=O)N3CCCc4cc(CN5CCOCC5=O)c(C=O)nc43)ncc2C#N)CC1,P22455,IC50,0.00177,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+164617271,C=CC(=O)Nc1cc(CCN2CCCC2)cc(C)c1Nc1ncc2cc(-c3c(Cl)c(OC)cc(OC)c3Cl)ccc2n1,P22455,IC50,0.0057,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+132156815,CO[C@H]1CCOC[C@@H]1Oc1cc(NC(=O)N2CCCc3cc(CN4CCOCC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0027,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+159384121,CO[C@H]1CCOCC1Oc1cc(NC(=O)N2CCCc3cc(CN4CCOCC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0033,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+168298489,COCCNc1cc(NC(=O)c2cn(C)c3cc(CN4CCN(C)CC4=O)c(C=O)nc23)ncc1C#N,P22455,IC50,0.0064,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+166634607,COCCOc1cc(NC(=O)N2CCCc3ccc(C=O)nc32)ncc1C#Cc1ccccn1,P22455,IC50,0.0072,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+166625757,CC(C)Oc1cc(NC(=O)N2CCCc3ccc(C=O)nc32)ncc1C#Cc1ccccn1,P22455,IC50,0.0054,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+166629351,COCCNc1cc(NC(=O)N2CCCc3ccc(C=O)nc32)ncc1C#Cc1ccccn1,P22455,IC50,0.0049,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+72550314,COc1cc(OC)c(F)c(N(Cc2ncc[nH]2)c2ncc3ncc(-c4cnn(C)c4)nc3n2)c1,P22455,IC50,0.00794,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+141755881,OCCOCc1cn(CCNc2nonc2C(=Nc2ccc(F)c(Br)c2)NO)nn1,P22455,,,FGFR4 - fibroblast growth factor receptor 4 (human),Literature-derived,Inactive,0
+166625787,COc1cc(CCc2cnc(NC(=O)N3CCCc4cc(CN5CCN(C)CC5=O)c(C=O)nc43)cc2OC(C)C)cc(OC)c1,P22455,IC50,0.00715,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+132156777,COc1ccncc1Nc1cc(NC(=O)N2CCCc3cc(CN4CCOCC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.00378,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+155519199,CN(C)C1CCN(c2cc(NC(=O)N3CCCc4cc(CN5CCOCC5=O)c(C=O)nc43)ncc2C#N)C1,P22455,IC50,0.0094,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+155515231,COC[C@@H]1CCCN1c1cc(NC(=O)N2CCCc3cc(CN4CCOCC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0091,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+132156653,COC1CCN(c2cc(NC(=O)N3CCCc4cc(CN5CCOCC5=O)c(C=O)nc43)ncc2C#N)C1,P22455,IC50,0.0051,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+139479647,CO[C@@H]1CCN(c2cc(NC(=O)N3CCCc4cc(CN5CCOCC5=O)c(C(N)=O)nc43)ncc2C#N)C1,P22455,IC50,0.00133,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+132156669,CO[C@H]1CCN(c2cc(NC(=O)N3CCCc4cc(CN5CCOCC5=O)c(C=O)nc43)ncc2C#N)C1,P22455,IC50,0.00346,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+57666538,CC1(C)CC=C(c2cc(C3(O)C[C@@]4(C)O[C@@](C)(C3)[C@@H]3OC(C)(C)O[C@@H]34)ccc2NC(=O)c2ncc(C#N)[nH]2)CC1,P09581,IC50,0.0018,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+24826864,CN1CCN(C2CCC(c3ccc(NC(=O)c4ncc(C#N)[nH]4)c(C4=CCC(C)(C)CC4)c3)CC2)CC1,P09581,IC50,0.00099,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+112500216,C=CC(=O)N1CC(N2C=C(C#Cc3cc(OC)cc(OC)c3)C3C(N)=NC=NC32)C1,P22455,IC50,0.0017,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+168298735,Cn1cc(C(=O)Nc2cc(NCCN3CCOCC3)c(C#N)cn2)c2nc(C=O)ccc21,P22455,IC50,0.003,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+44543970,CCS(=O)(=O)c1cc2cc(C[C@](O)(CC(C)(C)c3ccc(F)cc3C(N)=O)C(F)(F)F)[nH]c2cn1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+58026161,CCS(=O)(=O)c1cc2cc(C[C@@](O)(CC(C)(C)c3ccc(F)cc3C(N)=O)C(F)(F)F)[nH]c2cn1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+118029180,C=CC(=O)Nc1cc(CN2CCN(CC)CC2)ccc1Nc1cc(N(C)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.001,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+155547256,COC[C@@H](C)Oc1cc(NC(=O)N2CCCc3cc(CN4CCOCC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0013,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118036565,COCCOc1cc(NC(=O)N2CCCc3cc(CN4CCOCC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0045,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118036840,COCCNc1cc(NC(=O)N2CCCc3cc(CN4CCOCC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0004,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118036959,COCCNc1cc(NC(=O)N2CCCc3cc(CN4C(=O)COC[C@H]4C)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0006,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118036444,COCCNc1cc(NC(=O)N2CCCc3cc(CN4C(=O)COC[C@@H]4C)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0003,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+132156803,COCCSc1cc(NC(=O)N2CCCc3cc(CN4CCOCC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.00461,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+132156964,CONc1cc(NC(=O)N2CCCc3cc(CN4CCOCC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.00277,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118958833,COc1cnccc1Nc1nc(-c2nn(Cc3c(F)cc(OCCO)cc3F)c3ccccc23)ncc1OC,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+172459283,[2H]C([2H])([2H])Oc1cc2nccc(Oc3ccc(NC(=O)NC4CC4)c(Cl)c3)c2cc1C1CCN(C(=O)C=C)CC1,P22455,IC50,0.00704,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+172466354,C=CC(=O)N1CCC(c2cc3c(Oc4ccc(NC(=O)NC5CC5)c(Cl)c4)ccnc3cc2OC)C(C)C1,P22455,IC50,0.00573,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+156540249,C=CC(=O)N1CCC(c2cc3c(Oc4ccc(NC(=O)NC5CC5)c(Cl)c4)ccnc3cc2OC)CC1,P22455,IC50,0.0018,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+172462315,COc1cc2nccc(Oc3ccc(NC(=O)NC4CC4)c(Cl)c3)c2cc1C1CCN(C(=O)/C=C/CN(C)C)CC1,P22455,IC50,0.0046,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134255939,COCC(=O)N(C)Cc1cc2c(nc1C=O)N(C(=O)Nc1cc(N3CC[C@@H](OC)C3)c(C#N)cn1)CCC2,P22455,IC50,0.00149,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134256002,COCC(=O)N(C)Cc1cc2c(nc1C=O)N(C(=O)Nc1cc(N3CC[C@H](OC)C3)c(C#N)cn1)CCC2,P22455,IC50,0.00279,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+23652660,CCC(F)(F)c1cc(N2CCC(S(C)(=O)=O)CC2)nc2sc(C(N)=O)c(N)c12,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+132159662,C=CC(=O)Nc1cc(N2CCC(N(C)C)CC2)ccc1Nc1cc(N(C)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.0011,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+89534137,COc1cc(OC)c(F)c(N(Cc2ncccn2)c2ccc3ncc(-c4cnn(C)c4)cc3n2)c1,P22455,IC50,0.00389,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118036996,CC1(O)CCN(c2cc(NC(=O)N3CCCc4cc(CO)c(C=O)nc43)ncc2C#N)CC1,P22455,IC50,0.006,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118036804,CC1(O)CCN(c2cc(NC(=O)N3CCCc4ccc(C=O)nc43)ncc2C#N)CC1,P22455,IC50,0.0012,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+5329102,CCN(CC)CCNC(=O)c1c(C)[nH]c(/C=C2\C(=O)Nc3ccc(F)cc32)c1C,P05532,GI50,0.003,Kit - KIT proto-oncogene receptor tyrosine kinase (house mouse),Confirmatory,Active,1
+164621772,C=CC(=O)Nc1cc(CCN2CCN(C)CC2)cc(C)c1Nc1ncc2cc(-c3c(Cl)c(OC)cc(OC)c3Cl)ccc2n1,P22455,IC50,0.00055,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+164624502,C=CC(=O)Nc1cc(CCN2CCN(CCOC)CC2)cc(C)c1Nc1ncc2cc(-c3c(Cl)c(OC)cc(OC)c3Cl)ccc2n1,P22455,IC50,0.0011,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+162662928,O=C(Nc1cccnn1)N1CC(C/C=C/c2cncc(Oc3ccc(C(F)(F)F)cn3)n2)C1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+134256003,COCCNc1cc(NC(=O)N2CCCc3cc(CN(C=O)C[C@@H]4CCCO4)c(C=O)nc32)ncc1C#N,P22455,IC50,0.009,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134255999,COCCNc1cc(NC(=O)N2CCCc3cc(CN(C=O)C[C@H]4CCCO4)c(C=O)nc32)ncc1C#N,P22455,IC50,0.00431,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134255891,COCCNc1cc(NC(=O)N2CCCc3cc(CN(C[C@H]4CCCO4)C(C)=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.00262,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134255998,COCCNc1cc(NC(=O)N2CCCc3cc(CN(C[C@@H]4CCCO4)C(C)=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.00371,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+46893145,COc1cc(-c2cn([C@H]3CCc4c(F)cccc4N(CC(F)(F)F)C3=O)nn2)ccc1-n1cnc(C)c1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+158423115,COc1nc2c(cc1CN(C)C(=O)C1CCOC1)CCCN2C(=O)Nc1cc(NCCSC)c(C#N)cn1,P22455,IC50,0.0021,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134255802,COCCNc1cc(NC(=O)N2CCCc3cc(CN(C)C(=O)C4CCOC4)c(C=O)nc32)ncc1C#N,P22455,IC50,0.00145,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134256039,COCCNc1cc(NC(=O)N2CCCc3cc(CN(C)C(=O)[C@H]4CCOC4)c(C=O)nc32)ncc1C#N,P22455,IC50,0.00074,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134256034,COCCNc1cc(NC(=O)N2CCCc3cc(CN(C)C(=O)[C@@H]4CCOC4)c(C=O)nc32)ncc1C#N,P22455,IC50,0.00162,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+166642419,CNCCN(C)Cc1cncc(-c2ccc(NS(=O)(=O)C3CC3)cc2)c1,P22455,,,Fibroblast growth factor receptor 4 (human),Literature-derived,Inactive,0
+52916803,CS(=O)(=O)c1cc(C2(NC(=O)c3cncc4c3cnn4-c3ccc(F)cc3)CC2)ccn1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+118029234,C=CC(=O)Nc1ccccc1Nc1cc(N(Cc2ccccn2)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.001,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+161096540,CO[C@H]1COCC1Oc1cc(NC(=O)N2CCCc3cc(CN4CCOCC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.00231,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+89447586,COc1ccnc(C#CCN(c2ccc3ncc(-c4cnn(C)c4)nc3c2)c2c(F)c(OC)cc(OC)c2F)n1,P22455,IC50,0.003162,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+66764813,CN(C)C(=O)Cn1cc(-c2nc([C@@](C)(c3ccc(-c4cnc(N)nc4)cc3)C3CC3)no2)cn1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+68208778,COc1cc(OC)cc(N(CCNCC2CC2)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.00871,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+71559040,COc1cc(OC)c(F)c(N(Cc2ncn[nH]2)c2ccc3ncc(-c4cnn(C)c4)cc3n2)c1F,P22455,IC50,0.000933,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+89534326,COc1cc(OC)c(F)c(N(Cc2ncn[nH]2)c2ccc3ncc(-c4cnn(C)c4)cc3n2)c1,P22455,IC50,0.0011,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+89534139,COc1cc(OC)cc(N(Cc2ncn[nH]2)c2ccc3ncc(-c4cnn(C)c4)cc3n2)c1,P22455,IC50,0.00151,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+16755727,CC1(C)CC=C(c2cc(C3(O)CCC(N4CCOCC4)CC3)ccc2NC(=O)c2ncc(C#N)[nH]2)CC1,P09581,IC50,0.00072,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+24826863,CC1(C)CC=C(c2cc(C3CCC(N4CCOCC4)CC3)ccc2NC(=O)c2ncc(C#N)[nH]2)CC1,P09581,IC50,0.0019,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+11511719,N#Cc1cnc(C(=O)Nc2ccc(C3CCN(C(=O)CN4CCOCC4)CC3)cc2C2=CCCCC2)[nH]1,P09581,IC50,0.0064,Csf1r - colony stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+68209279,COc1cc(OC)cc(N(Cc2cc(C)no2)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.002818,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68209331,COc1cc(OC)cc(N(Cc2cc(C)no2)c2ccc3ncc(-c4cnn(CCO)c4)nc3c2)c1,P22455,IC50,0.004467,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+89447246,COCCn1cc(-c2cnc3ccc(N(Cc4cc(C)no4)c4cc(OC)cc(OC)c4)cc3n2)cn1,P22455,IC50,0.004266,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118026074,C=CC(=O)Nc1ccccc1Nc1cc(N(Cc2cccnc2)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.001,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+132156818,N#Cc1cnc(NC(=O)N2CCCc3cc(CN4CCCCOC4=O)c(C=O)nc32)cc1N[C@@H]1CCOC1,P22455,IC50,0.00127,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+132156728,N#Cc1cnc(NC(=O)N2CCCc3cc(CN4CCCCOC4=O)c(C=O)nc32)cc1N[C@H]1CCOC1,P22455,IC50,0.00144,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+132156868,CO[C@@H]1COCC1Nc1cc(NC(=O)N2CCCc3cc(CN4CCCCOC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.00112,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+168276293,C=CC(=O)Nc1cccc(C)c1Nc1cc2c(cn1)cc(-c1c(Cl)c(OC)cc(OC)c1Cl)c(=O)n2C1CC1,P22455,IC50,0.0039,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118029214,C=CC(=O)Nc1ccc(N2CCN(CC)CC2)cc1Nc1cc(N(C)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.004,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+59447577,CN(C)CC#Cc1ccc(OCCCc2sc(N3CCc4cccc(C(=O)Nc5nc6ccccc6s5)c4C3)nc2C(=O)O)c(F)c1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+68208882,COc1cc(OC)cc(N(CC2COCC(C)(C)N2)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.004571,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+146271379,C=CC(=O)Nc1ccccc1Nc1ccc2c(C(=O)c3c(Cl)c(OC)cc(OC)c3Cl)c[nH]c2n1,P22455,IC50,0.0018,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+168270411,C=CC(=O)Nc1cc(OCCN(C)C)ccc1Nc1ccc2c(C(=O)c3c(Cl)c(OC)cc(OC)c3Cl)c[nH]c2n1,P22455,IC50,0.0028,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+168288332,C=CC(=O)Nc1cc(OCCOC)ccc1Nc1ccc2c(C(=O)c3c(Cl)c(OC)cc(OC)c3Cl)c[nH]c2n1,P22455,IC50,0.0067,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+139600336,O=C(Nc1cnc(Oc2ccc(F)cc2)nc1)N1CCc2ncccc2[C@@H]1c1ccc(F)cc1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+68209349,COc1cc(OC)cc(N(Cc2cn(CCO)nn2)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.004677,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+49846946,COC1CCC(CNc2ccc(S(=O)(=O)NC(=O)c3ccc(N4CCN(CC5=C(c6ccc(Cl)cc6)CC(C)(C)CC5)CC4)cc3Oc3cnc4[nH]ccc4c3)cc2[N+](=O)[O-])CC1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+162647091,C#CCOc1ccc(Nc2cc(-c3cccnc3Nc3c(Cl)c(OC)cc(OC)c3Cl)ncn2)c(NC(=O)C=C)c1,P22455,,,FGFR4 - fibroblast growth factor receptor 4 (human),Literature-derived,Inactive,0
+138973681,CNCc1ccccc1-c1csc([C@H](C)Nc2nc(C)nc3cc(OC)c(OC)cc23)c1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+137322663,CNCc1ccccc1-c1csc([C@@H](C)Nc2nc(C)nc3cc(OC)c(OC)cc23)c1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+118036950,COCCNc1cc(NC(=O)N2CCCc3cc(N4CCOC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0002,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+155884467,CC[C@@H](Nc1c(C#N)c(-c2ccc(-c3cccc(C)c3F)cc2)nc2cnccc12)C(=O)O,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+71559188,COc1cc(OC)c(F)c(N(Cc2ncco2)c2ccc3ncc(-c4cnn(C)c4)cc3n2)c1,P22455,IC50,0.00631,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118036239,N#Cc1cnc(NC(=O)N2CCCc3cc(CO)c(C=O)nc32)cc1NC1CCOC1,P22455,IC50,0.0017,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134256004,COCC(=O)N(C)Cc1cc2c(nc1C=O)N(C(=O)Nc1cc(NC3COC[C@H]3OC)c(C#N)cn1)CCC2,P22455,IC50,0.00107,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+162679967,COc1nc2c(cc1CN1CCN(C)CC1=O)CCCN2C(=O)Nc1cc(NCc2cscn2)c(C#N)cn1,P22455,IC50,0.0021,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+132159644,C=CC(=O)Nc1cc(N2CCC3(CCN(CC)C3)C2)ccc1Nc1cc(N(C)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.0022,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+162652871,COc1cc(-c2cn([C@H]3CCc4ccccc4N(CC(F)(F)F)C3=O)nn2)ccc1-n1ccc(C)n1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+24937877,CONC(=O)c1cn(-c2ccc3c(c2)CCC3)c2nc(Nc3ccc(CCN4CCOCC4)cc3)ncc2c1=O,P09581,IC50,0.0009,Csf1r - colony stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+161154846,COc1nc2c(cc1CN(C)C(=O)C1CCOCC1)CCCN2C(=O)Nc1cc(NCCSC)c(C#N)cn1,P22455,IC50,0.0023,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134255814,COCCNc1cc(NC(=O)N2CCCc3cc(CN(C)C(=O)C4CCOCC4)c(C=O)nc32)ncc1C#N,P22455,IC50,0.00098,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+168283864,C=CC(=O)N[C@H]1CCOC[C@H]1Nc1cc2c(cn1)cc(-c1c(Cl)c(OC)cc(OC)c1Cl)c(=O)n2CC,P22455,IC50,0.0007,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+155540682,NS(=O)(=O)c1cc(NC(=O)C2(c3ccccc3Cl)CC2)ccc1Oc1cccc(Cl)c1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+132156626,CO[C@H]1CCN(c2cc(NC(=O)N3CCCc4cc(CN5CCCCOC5=O)c(C=O)nc43)ncc2C#N)C1,P22455,IC50,0.00315,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+132156594,CO[C@@H]1CCN(c2cc(NC(=O)N3CCCc4cc(CN5CCCCOC5=O)c(C=O)nc43)ncc2C#N)C1,P22455,IC50,0.00289,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+42610735,CC1(C)CC(c2ccc(NC(=O)c3ncc(C#N)[nH]3)c(C3=CCCCC3)n2)CC(C)(C)O1,P09581,IC50,0.0014,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+42610739,CC1(C)CC=C(c2nc(C3C[C@](C)(CO)O[C@](C)(CO)C3)ccc2NC(=O)c2ncc(C#N)[nH]2)CC1,P09581,IC50,0.00041,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+24874774,CC1(C)CC=C(c2nc(C3(O)CCOCC3)ccc2NC(=O)c2ncc(C#N)[nH]2)CC1,P09581,IC50,0.0037,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+24874775,C[C@@H]1CC(O)(c2ccc(NC(=O)c3ncc(C#N)[nH]3)c(C3=CCC(C)(C)CC3)n2)C[C@H](C)O1,P09581,IC50,0.0032,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+118670492,CC1(C)CC=C(c2nc([C@H]3CC(C)(C)O[C@](C)(CO)C3)ccc2NC(=O)c2ncc(C#N)[nH]2)CC1,Q00495,IC50,0.0096,Csf1r - colony stimulating factor 1 receptor (Norway rat),Confirmatory,Active,1
+118670487,CC1(C)CC=C(c2nc([C@@H]3CC(C)(C)O[C@@](C)(C(=O)O)C3)ccc2NC(=O)c2ncc(C#N)[nH]2)CC1,Q00495,IC50,0.0079,Macrophage colony-stimulating factor 1 receptor (Norway rat),Confirmatory,Active,1
+86271697,CC1(C)CC=C(c2nc([C@H]3CC(C)(C)O[C@@](C)(CO)C3)ccc2NC(=O)c2ncc(C#N)[nH]2)CC1,Q00495,IC50,0.0096,Macrophage colony-stimulating factor 1 receptor (Norway rat),Confirmatory,Active,1
+86271698,CC1(C)CC=C(c2nc([C@@H]3CC(C)(C)O[C@](C)(CO)C3)ccc2NC(=O)c2ncc(C#N)[nH]2)CC1,Q00495,IC50,0.0079,Macrophage colony-stimulating factor 1 receptor (Norway rat),Confirmatory,Active,1
+86271607,CC1(C)CC=C(c2nc([C@@H]3CC(C)(C)O[C@](C)(C(=O)O)C3)ccc2NC(=O)c2ncc(C#N)[nH]2)CC1,Q00495,IC50,0.0022,Macrophage colony-stimulating factor 1 receptor (Norway rat),Confirmatory,Active,1
+86271606,CC1(C)CC=C(c2nc([C@H]3CC(C)(C)O[C@@](C)(C(=O)O)C3)ccc2NC(=O)c2ncc(C#N)[nH]2)CC1,Q00495,IC50,0.0025,Macrophage colony-stimulating factor 1 receptor (Norway rat),Confirmatory,Active,1
+168298181,CN1CCN(CCNc2cc(NC(=O)c3cn(C)c4ccc(C=O)nc34)ncc2C#N)CC1,P22455,IC50,0.0019,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+171346127,COc1cc(CCc2cc(NC(=O)c3ccc(N4C[C@@H](C)N(CC(=O)N/N=C/c5ccc(OCCOCCOCCOCCOCCOCC(=O)NCC#Cc6cccc7c6CN(C6CCC(=O)NC6=O)C7=O)cc5)[C@@H](C)C4)cc3)n[nH]2)cc(OC)c1,P22455,,,FGFR4 - fibroblast growth factor receptor 4 (human),Literature-derived,Inactive,0
+132156878,N#Cc1cnc(NC(=O)N2CCCc3cc(CN4CCOCC4=O)c(C=O)nc32)cc1NCCN1CCCC1,P22455,IC50,0.0029,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+155550101,CS(=O)(=O)NCC[C@H](NC(=O)c1cncc2c1cnn2-c1ccc(F)cc1)c1ccnc(S(C)(=O)=O)c1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+89447499,COc1cc(OC)cc(N(CC#Cc2cc(N)ccn2)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.004677,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+89447328,COc1cc(OC)cc(N(CC#Cc2cc(C(N)=O)ccn2)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.009772,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68209321,COc1cc(OC)cc(N(CC#Cc2cc(OC)ccn2)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.005012,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+89447476,COc1cccnc1C#CCN(c1ccc2ncc(-c3cnn(C)c3)nc2c1)c1c(F)c(OC)cc(OC)c1F,P22455,IC50,0.004365,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+51352628,COCCc1ccc(-c2c(C)nc3c(N4CCOCC4)ccnn23)cn1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+59126962,COc1ccc2c(O[C@@H]3C[C@H]4C(=O)N[C@]5(C(=O)O)CC5/C=C\CCCCC[C@H](NC(=O)OC5CCCC5)C(=O)N4C3)cc(-c3csc(NC(=O)C(C)C)n3)nc2c1C,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+89534312,COc1cc(N=c2ccc3ncc(-c4cnn(C)c4)cc3n2CCNC(C)C)c(F)c(OC)c1,P22455,IC50,0.00661,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118036588,COC[C@@H](C)Nc1cc(NC(=O)N2CCCc3cc(CN4CCN(C)CC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0015,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+162669854,COCCOc1cc(NC(=O)N2CCCc3cc(CN4C(=O)CN(C)CC4(C)C)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0014,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118037177,COC[C@H](C)Nc1cc(NC(=O)N2CCCc3cc(CN4CCN(C)CC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0024,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118036665,COCCOc1cc(NC(=O)N2c3nc(C=O)c(CN4CCN(C)CC4=O)cc3CC[C@@H]2C)ncc1C#N,P22455,IC50,0.0025,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118036719,CC(C)Oc1cc(NC(=O)N2CCCc3cc(CN4CCN(C)CC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0007,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118036501,CN1CCN(Cc2cc3c(nc2C=O)N(C(=O)Nc2cc(NCCO)c(C#N)cn2)CCC3)C(=O)C1,P22455,IC50,0.0023,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118036806,COCCNc1cc(NC(=O)N2CCCc3cc(CN4CCNCC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0014,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118037040,COCCNc1cc(NC(=O)N2c3nc(C=O)c(CN4CCN(C)CC4=O)cc3CC[C@@H]2C)ncc1C#N,P22455,IC50,0.0006,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118036680,CC(C)Nc1cc(NC(=O)N2CCCc3cc(CN4CCN(C)CC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0007,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118036644,CN1CCN(Cc2cc3c(nc2C=O)N(C(=O)Nc2cc(NCCOS(=O)(=O)O)c(C#N)cn2)CCC3)C(=O)C1,P22455,IC50,0.0082,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118036293,COC[C@@H](C)Oc1cc(NC(=O)N2CCCc3cc(CN4CCN(C)CC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0006,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118036534,CC(C)Oc1cc(NC(=O)N2c3nc(C=O)c(CN4CCN(C)CC4=O)cc3CC[C@@H]2C)ncc1C#N,P22455,IC50,0.0007,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118036487,COCCNc1cc(NC(=O)N2CCCc3cc(CN4CCN(C)C(O)C4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0019,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+158633085,COc1nc2c(cc1CN1CCN(C)CC1=O)CCCN2C(=O)Nc1cc(NCCS(C)(=O)=O)c(C#N)cn1,P22455,IC50,0.002,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+162679971,COc1nc2c(cc1CN1CCN(C)CC1=O)CCCN2C(=O)Nc1cc(NCC(C)(C)SC)c(C#N)cn1,P22455,IC50,0.0021,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+146320293,CSCCNc1cc(NC(=O)N2CCCc3cc(CN4CCN(C)CC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0015,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+157800799,COc1nc2c(cc1CN1CCN(C)CC1=O)CCCN2C(=O)Nc1cc(NCCCSC)c(C#N)cn1,P22455,IC50,0.0016,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+157914539,COc1nc2c(cc1CN1CCN(C)CC1=O)CCCN2C(=O)Nc1cc(NCCS(C)=O)c(C#N)cn1,P22455,IC50,0.0024,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+159787251,COc1nc2c(cc1CN1CCN(C)CC1=O)CCCN2C(=O)Nc1cc(N[C@H](C)CS(C)(=O)=O)c(C#N)cn1,P22455,IC50,0.0021,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+160560345,COc1nc2c(cc1CN1CCN(C)CC1=O)CCCN2C(=O)Nc1cc(N[C@H](C)CS(C)=O)c(C#N)cn1,P22455,IC50,0.0021,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+162679973,CCSCCNc1cc(NC(=O)N2CCCc3cc(CN4CCN(C)CC4=O)c(OC)nc32)ncc1C#N,P22455,IC50,0.0024,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+162679970,COc1nc2c(cc1CN1CCN(C)CC1=O)CCCN2C(=O)Nc1cc(NCCSC(F)(F)F)c(C#N)cn1,P22455,IC50,0.0017,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+146320344,CSC[C@@H](C)Nc1cc(NC(=O)N2CCCc3cc(CN4CCN(C)CC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0014,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+11386747,CC(=O)Nc1c(C(C)=O)c(=O)n(C)c2nc(-c3ccc(Cl)cc3Cl)c(-c3ccc(Cl)cc3)cc12,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+11364870,CC(=O)c1c(NS(C)(=O)=O)c2cc(-c3ccc(Cl)cc3)c(-c3ccc(Cl)cc3Cl)nc2n(C)c1=O,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+42610809,CC1(C)CC=C(c2cc(C3CC(C)(C)S(=O)(=O)C(C)(C)C3)ccc2NC(=O)c2ncc(C#N)[nH]2)CC1,P09581,IC50,0.002,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+58995017,CC1(C)CC=C(c2cc(C3(C#N)CCS(=O)(=O)CC3)ccc2NC(=O)c2ncc(C#N)[nH]2)CC1,P09581,IC50,0.0011,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+24874639,CC1(C)CC=C(c2cc(C3(O)CCS(=O)(=O)CC3)ccc2NC(=O)c2ncc(C#N)[nH]2)CC1,P09581,IC50,0.0011,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+24874642,N#Cc1cnc(C(=O)Nc2ccc(C3(O)CCS(=O)(=O)CC3)cc2C2=CCCCC2)[nH]1,P09581,IC50,0.0029,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+164610478,C=CC(=O)Nc1cc(CCN2CCC(NC(=O)OC(C)(C)C)CC2)cc(C)c1Nc1ncc2cc(-c3c(Cl)c(OC)cc(OC)c3Cl)ccc2n1,P22455,IC50,0.0017,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+164618593,C=CC(=O)Nc1cc(CCN2CCC(N)CC2)cc(C)c1Nc1ncc2cc(-c3c(Cl)c(OC)cc(OC)c3Cl)ccc2n1,P22455,IC50,0.0086,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+5310991,CCCOc1ccc([C@H]2[C@H](C(=O)O)[C@@H](c3ccc4c(c3)OCO4)CN2CC(=O)Nc2c(CC)cccc2CC)cc1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+101933292,CCCOc1ccc([C@@H]2[C@@H](C(=O)O)[C@H](c3ccc4c(c3)OCO4)CN2CC(=O)Nc2c(CC)cccc2CC)cc1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+146969936,C=CC(=O)Nc1cc(-c2cc3c(cn2)cc(-c2c(Cl)c(OC)cc(OC)c2Cl)c(=O)n3CC)c(C)cc1N1CCN(CC)CC1,P22455,IC50,0.0078,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+146919352,CC#CC(=O)Nc1cc(-c2cc3c(cn2)cc(-c2c(Cl)c(OC)cc(OC)c2Cl)c(=O)n3CC)c(OC)cc1N1CCN(CC)CC1,P22455,IC50,0.0032,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+141729413,C=CC(=O)Nc1cc(-c2cc3c(cn2)cc(-c2c(Cl)c(OC)cc(OC)c2Cl)c(=O)n3CC)c(OC)cc1N1C[C@@H](C)N[C@@H](C)C1,P22455,IC50,0.004,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+168271510,C=CC(=O)Nc1cc(-c2cc3c(cn2)cc(-c2c(Cl)c(OC)cc(OC)c2Cl)c(=O)n3CC)c(OC)cc1N1C[C@@H](C)N(CC)[C@@H](C)C1,P22455,IC50,0.0039,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+141729393,C=CC(=O)Nc1cc(-c2cc3c(cn2)cc(-c2c(Cl)c(OC)cc(OC)c2Cl)c(=O)n3CC)c(OC)cc1N1CCN(C(C)=O)CC1,P22455,IC50,0.0036,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+141729374,C=CC(=O)Nc1cc(-c2cc3c(cn2)cc(-c2c(Cl)c(OC)cc(OC)c2Cl)c(=O)n3CC)c(OC)cc1N1CCN(CC)CC1,P22455,IC50,0.0033,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+141729418,C=CC(=O)Nc1cc(-c2cc3c(cn2)cc(-c2c(Cl)c(OC)cc(OC)c2Cl)c(=O)n3CC)ccc1N1CCN(CC)CC1,P22455,IC50,0.0024,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+132156817,CO[C@@H]1CCC1Oc1cc(NC(=O)N2CCCc3cc(CN4CCOCC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.00102,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+137504412,CO[C@H]1CCC1Oc1cc(NC(=O)N2CCCc3cc(CN4CCOCC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0021,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+135398510,CN1CCN(c2ccc3nc(-c4c(N)c5c(F)cccc5[nH]c4=O)[nH]c3c2)CC1,NP_075252,,4.3,FGFR4 - fibroblast growth factor receptor 4 (human),Other,Inactive,0
+89534125,COc1cc(OC)c(F)c(N(Cc2ccn(S(=O)(=O)N(C)C)n2)c2ccc3ncc(-c4cnn(C)c4)cc3n2)c1,P22455,IC50,0.00617,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+132156961,COC[C@@H](C)Oc1cc(NC(=O)N2CCCc3cc(CN4CCOC4=S)c(C=O)nc32)ncc1C#N,P22455,IC50,0.00848,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118029140,C=CC(=O)Nc1ccccc1Nc1cc(N(CCCN2CCN(C)CC2)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.001,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+156540285,C=CC(=O)N1CC=C(c2cc3c(Oc4ccc(NC(=O)NC5CC5)c(Cl)c4)ccnc3cc2OC)C1,P22455,IC50,0.00249,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+24874604,CC1(C)CC=C(c2cc(C3(N4CCN(CC(=O)O)CC4)CCOCC3)ccc2NC(=O)c2ncc(C#N)[nH]2)CC1,P09581,IC50,0.0079,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+24874602,CN1CCN(C2(c3ccc(NC(=O)c4ncc(C#N)[nH]4)c(C4=CCC(C)(C)CC4)c3)CCOCC2)CC1,P09581,IC50,0.004,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+24874603,CC1(C)CC=C(c2cc(C3(N4CCNCC4)CCOCC3)ccc2NC(=O)c2ncc(C#N)[nH]2)CC1,P09581,IC50,0.0019,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+53251189,Cc1cc(Nc2nccc(C)n2)cc(-c2cnc([C@@]3(O)CC[C@H](C(=O)O)C(C)(C)C3)s2)c1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+137660921,C=CC(=O)Nc1cc(N2CCN(C(C)=O)CC2)cc(C)c1Nc1ncc(OCc2c(F)c(OC)cc(OC)c2F)cn1,P22455,IC50,0.006,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+122604640,C=CC(=O)Nc1cc(N2CCN(CC)CC2)cc(C)c1Nc1ncc(OCc2c(F)c(OC)cc(OC)c2F)cn1,P22455,IC50,0.004,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+164610252,C=CC(=O)Nc1cc(CCN2CCC(c3ccccc3)C2)cc(C)c1Nc1ncc2cc(-c3c(Cl)c(OC)cc(OC)c3Cl)ccc2n1,P22455,IC50,0.002,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+137504368,CO[C@@H]1CCCC1Oc1cc(NC(=O)N2CCCc3cc(CN4CCOCC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.00457,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118029204,C=CC(=O)Nc1cc(C(=O)N2CCN(C)CC2)ccc1Nc1cc(N(C)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.001,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118029187,C=CC(=O)Nc1cc(C(=O)N2CCN(CC)CC2)ccc1Nc1cc(N(C)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.001,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118036301,COCCNc1cc(NC(=O)N2CCCc3cc(CN4CCS(=O)(=O)CC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0012,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+11505187,N#Cc1cnc(C(=O)Nc2ccc(C3CCN(Cc4ccccn4)CC3)cc2C2=CCCCC2)[nH]1,P09581,IC50,0.0049,Csf1r - colony stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+24875077,N#Cc1ccc(C(=O)Nc2ccc(CCN3CCOCC3)cc2C2=CCCCC2)o1,P09581,IC50,0.00143,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+57666481,COC(=O)N1[C@@]2(C)C=C[C@]1(C)CC(O)(c1ccc(NC(=O)c3ncc(C#N)[nH]3)c(C3=CCC(C)(C)CC3)c1)C2,P09581,IC50,0.0035,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+118036257,COCCNc1cc(NC(=O)N2CCCc3cc(C4CCOCC4)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0025,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+171344330,C=CC(=O)N1CC[C@H](c2nc(-c3cc4cc(Br)cc(OC)c4s3)c3c(N)nccn23)C1,P22455,IC50,0.0015,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+155540255,O=C(N[C@H]1CCCCC/C=C\C2C[C@@]2(C(=O)O)NC(=O)[C@@H]2C[C@@H](Oc3ccncc3)CN2C1=O)OC1CCCC1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+11524200,Cc1c[nH]c2nccc(Oc3c(F)cc(Nc4cc(Cl)nc(N)n4)cc3F)c12,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+155552454,Cn1cc(Cl)c2c(Oc3c(F)cc(Nc4cc(Cl)nc(N)n4)cc3F)ccnc21,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+134255813,CN(Cc1cc2c(nc1C=O)N(C(=O)Nc1cc(N[C@H]3CCOC3)c(C#N)cn1)CCC2)C(=O)C1CCOCC1,P22455,IC50,0.00195,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+166628903,CC(C)Oc1cc(NC(=O)N2CCCc3ccc(C=O)nc32)ncc1C#Cc1cncnc1,P22455,IC50,0.0059,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+24874842,CC1(C)CC=C(c2cc(C(C)(C)N3CCS(=O)CC3)ccc2NC(=O)c2ncc(C#N)[nH]2)CC1,P09581,IC50,0.0058,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+132156748,CO[C@H]1CCCC1Nc1cc(NC(=O)N2CCCc3cc(CN4CCOCC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.00369,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+132156799,CO[C@@H]1CCCC1Nc1cc(NC(=O)N2CCCc3cc(CN4CCOCC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0008,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+132156758,CO[C@@H]1CCC[C@H]1Nc1cc(NC(=O)N2CCCc3cc(CN4CCOCC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.00099,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+132156747,CO[C@H]1CCC[C@@H]1Nc1cc(NC(=O)N2CCCc3cc(CN4CCOCC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.00467,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+51038269,Cc1ccc(C(=O)Nc2ccc(CN3CCN(C)CC3)c(C(F)(F)F)c2)cc1C#Cc1cnc2[nH]ncc2c1,P22455,,,FGFR4 - fibroblast growth factor receptor 4 (human),Literature-derived,Inactive,0
+126608377,COC(=O)c1nc2ccc(-n3ncc(C(=O)c4cc5ccccc5[nH]4)c3N)cc2[nH]1,P22455,IC50,10.0,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Inactive,0
+126608388,CCOC(=O)c1nc2ccc(-n3ncc(C(=O)c4cc5ccccc5[nH]4)c3N)cc2[nH]1,P22455,IC50,10.0,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Inactive,0
+118029230,C=CC(=O)Nc1cc(N2CCOCC2)ccc1Nc1cc(N(C)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.001,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+24874689,N#Cc1cnc(C(=O)Nc2ccc(C3(CN4CCOCC4)CCOCC3)cc2C2=CCCCC2)[nH]1,P09581,IC50,0.0016,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+24874732,CC1(C)CC=C(c2cc(C3(CN4CCOCC4)CCOCC3)ccc2NC(=O)c2ncc(C#N)[nH]2)CC1,P09581,IC50,0.003,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+168432120,COc1cc(OC)c(Cl)c(NC(=O)N(C)c2cc(Nc3ccc(N4CCN(C(=O)C5CCN(c6ccc7c(c6)C(=O)N(C6CCC(=O)NC6=O)C7=O)CC5)CC4)cc3)ncn2)c1Cl,P22455,,,Fibroblast growth factor receptor 4 (human),Literature-derived,Inactive,0
+162679976,COc1nc2c(cc1CN1CCN(C)CC1=O)CCCN2C(=O)Nc1cc(NC2CCSCC2)c(C#N)cn1,P22455,IC50,0.0044,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+171736010,C=CC(=O)Nc1cc(N2CCOCC2C)ccc1Nc1cc2c(cn1)CN(c1c(F)c(OC)nc(OC)c1F)C(=O)C21CC1,P22455,IC50,0.00063,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+170692604,C=CC(=O)Nc1cc(N2CCOCC2)c(F)cc1Nc1cc2c(cn1)CN(c1c(F)c(OC)nc(OC)c1F)C(=O)C21CC1,P22455,IC50,0.0026,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+170692603,C=CC(=O)Nc1cc(N2CCOCC2)ccc1Nc1cc2c(cn1)CN(c1c(F)c(OC)nc(OC)c1F)C(=O)C21CC1,P22455,IC50,0.00067,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+5025739,c1ccc(N2CCN(Cc3nc4ccccc4[nH]3)CC2)nc1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+11772152,CSc1cccnc1N1CCN(Cc2nc3ccccc3[nH]2)CC1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+25218662,CONC(=O)c1cn(C2CCC(C)(C)CC2)c2nc(Nc3ccc(C4CCN(C)CC4)cc3)ncc2c1=O,P09581,IC50,0.001,Csf1r - colony stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+25218663,CONC(=O)c1cn(C2CCCCC2)c2nc(Nc3ccc(C4CCN(C)CC4)cc3)ncc2c1=O,P09581,IC50,0.0025,Csf1r - colony stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+170692601,C=CC(=O)Nc1cc(N2CCC(N3CCOCC3)CC2)ccc1Nc1cc2c(cn1)CN(c1c(F)c(OC)nc(OC)c1F)C(=O)C21CC1,P22455,IC50,0.0003,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+60195662,C[C@H](c1ccc(F)cc1)N(Cc1cccc(C(=O)O)c1)C(=O)c1cnc2ccccc2c1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+163322039,CC(C)Oc1cc(NC(=O)N2CCCc3cc(CN4CCN(C)CC4=O)c(C=O)nc32)ncc1C#Cc1cccnc1,P22455,Kd,0.0062,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+132156726,COCCNc1cc(NC(=O)N2CCCc3cc(CN4CCCOCC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0004,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+57861407,CCOCCn1cc(C(=O)Nc2ccc(-n3nc(-c4cccnc4)cc3C(F)(F)F)cn2)ccc1=O,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+134255896,CO[C@@H]1CCN(Cc2cc3c(nc2C=O)N(C(=O)Nc2cc(N[C@@H]4CCOC4)c(C#N)cn2)CCC3)C1=O,P22455,IC50,0.0011,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134256041,CO[C@H]1CCN(Cc2cc3c(nc2C=O)N(C(=O)Nc2cc(N[C@H]4CCOC4)c(C#N)cn2)CCC3)C1=O,P22455,IC50,0.00101,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134256048,CO[C@H]1CCN(Cc2cc3c(nc2C=O)N(C(=O)Nc2cc(N[C@@H]4CCOC4)c(C#N)cn2)CCC3)C1=O,P22455,IC50,0.00101,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134255888,CO[C@H]1CCN(Cc2cc3c(nc2C=O)N(C(=O)Nc2cc(N[C@@H]4COC[C@H]4OC)c(C#N)cn2)CCC3)C1=O,P22455,IC50,0.00134,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118036949,CN1CCOC(CNc2cc(NC(=O)N3CCCc4cc(C(F)F)c(C=O)nc43)ncc2C#N)C1,P22455,IC50,0.0025,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+166625969,CC(C)Oc1cc(NC(=O)N2CCCc3ccc(C=O)nc32)ncc1C#Cc1cccc(C#N)c1,P22455,IC50,0.0092,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134255807,COCCNc1cc(NC(=O)N2CCCc3cc(CN(C)C(=O)C4COC4)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0024,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+136211077,C[C@@H](Oc1ccc2[nH]nc(-c3nc4ccc(N5CCN(C)CC5)cc4[nH]3)c2c1)c1c(Cl)cncc1Cl,P22455,IC50,0.0061,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+24874843,CC1(C)CC=C(c2cc(C(C)(C)N3CCS(=O)(=O)CC3)ccc2NC(=O)c2ncc(C#N)[nH]2)CC1,P09581,IC50,0.0085,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+58994558,C=C(CN1CCOCC1)c1ccc(NC(=O)c2ncc(C#N)[nH]2)c(C2=CCCCC2)c1,P09581,IC50,0.0039,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+68209387,COc1cc(OC)cc(N(Cc2cn[nH]n2)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.006457,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+162679969,COc1nc2c(cc1CN1CCN(C)CC1=O)CCCN2C(=O)Nc1cc(NC2CCSC2)c(C#N)cn1,P22455,IC50,0.002,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+122179556,FC(F)(F)c1ccc2c(c1)nc(-c1cccnc1)n2C1CC1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+56645363,CC(C)(O)c1cncc(-c2nc3ccc(F)cc3n2C2CC2)c1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+42610808,CC1(C)CC=C(c2nc(C3CC(C)(C)S(=O)(=O)C(C)(C)C3)ccc2NC(=O)c2ncc(C#N)[nH]2)CC1,P09581,IC50,0.0089,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+25229646,N#CC1(c2ccccn2)CCN(Cc2cc(C(=O)O)c(=O)n3ccccc23)CC1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+132156831,COc1ccccc1Nc1cc(NC(=O)N2CCCc3cc(CN4CCOCC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0034,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68208888,COc1cc(OC)cc(N(CCCN2CC(O)C2)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.001905,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68208619,COc1cc(OC)cc(N(CCCO)c2ccc3ncc(-c4cnn(C5CCCCO5)c4)nc3c2)c1,P22455,IC50,0.004677,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118036541,COCCNc1cc(NC(=O)N2CCCc3cc(-c4cn(C)nc4C)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0067,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+11525848,COc1cccc(CNC(=O)c2nc3scc(COCc4ccc(C(=O)O)cc4)c3c(=O)[nH]2)c1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+89534128,COc1cc(OC)c(F)c(N(Cc2ncc[nH]2)c2cc3cc(-c4cnn(C)c4)cnc3cn2)c1F,P22455,IC50,0.00813,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+137644036,C=CC(=O)Nc1ccccc1Nc1ncc2cc(-c3c(Cl)c(OC)cc(OC)c3Cl)ccc2n1,P22455,IC50,0.003,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+164616220,C=CC(=O)Nc1cc(CCO)cc(C)c1Nc1ncc2cc(-c3c(Cl)c(OC)cc(OC)c3Cl)ccc2n1,P22455,IC50,0.0055,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+164624088,C=CC(=O)Nc1cc(CCN(C)C)cc(C)c1Nc1ncc2cc(-c3c(Cl)c(OC)cc(OC)c3Cl)ccc2n1,P22455,IC50,0.0036,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+164626866,C=CC(=O)Nc1cc(CCC(=O)O)cc(C)c1Nc1ncc2cc(-c3c(Cl)c(OC)cc(OC)c3Cl)ccc2n1,P22455,IC50,0.0036,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+164619382,C=CC(=O)Nc1cc(CC(=O)O)cc(C)c1Nc1ncc2cc(-c3c(Cl)c(OC)cc(OC)c3Cl)ccc2n1,P22455,IC50,0.0032,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+164614245,C=CC(=O)Nc1cc(CC(=O)OC)cc(C)c1Nc1ncc2cc(-c3c(Cl)c(OC)cc(OC)c3Cl)ccc2n1,P22455,IC50,0.0078,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+164614106,C=CC(=O)Nc1cc(CCN(CC)CCC)cc(C)c1Nc1ncc2cc(-c3c(Cl)c(OC)cc(OC)c3Cl)ccc2n1,P22455,IC50,0.001,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+89534258,COc1cc(OC)cc(N(Cc2cn(S(=O)(=O)N(C)C)cn2)c2ccc3ncc(-c4cnn(C)c4)cc3n2)c1,P22455,IC50,0.00575,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+71552190,COc1cc(OC)cc(N(Cc2cnc[nH]2)c2ccc3ncc(-c4cnn(C)c4)cc3n2)c1,P22455,IC50,0.000912,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+11650178,N#Cc1cnc(C(=O)Nc2ccc(C3CCN(C(=O)Cc4cccnc4)CC3)cc2C2=CCCCC2)[nH]1,P09581,IC50,0.0031,Csf1r - colony stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+123752658,CN1CCN(Cc2ccc(NC(=O)c3ccc(Cl)c(C#Cc4cncc(N5CCOCC5)c4)c3)cc2C(F)(F)F)CC1,P22455,IC50,0.0055,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+138105961,CN1C[C@H](Nc2nc3cc[nH]c3c(=O)n2C)C[C@H](c2ccc3c(c2)OCCO3)C1,P22455,,,FGFR4 - fibroblast growth factor receptor 4 (human),Literature-derived,Inactive,0
+11634544,N#Cc1cnc(C(=O)Nc2ccc(C3CCN(CCN4CCOCC4)CC3)cc2C2=CCCCC2)[nH]1,P09581,IC50,0.0032,Csf1r - colony stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+118036383,N#Cc1cnc(NC(=O)N2CCCc3cc(CO)c(C=O)nc32)cc1OC1CCOCC1,P22455,IC50,0.0029,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+24826457,CC1(C)CC=C(c2cc(C3(C#N)CC3)ccc2NC(=O)c2ncc(C#N)[nH]2)CC1,P09581,IC50,0.0095,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+154701643,Cc1nc(C2CCN(C(=O)c3ccc(OC(F)(F)F)cc3N)CC2)c2ncc(N3CCN(C)CC3)cc2n1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+134128280,CN1CCN(c2cnc3c(C4CCN(C(=O)c5ccc(OC(F)(F)F)cc5N)CC4)ncnc3c2)CC1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+42611190,O=C(O)c1cc(-c2ccc(C3CCNCC3)cc2)c2ccc(-c3ccc(C(F)(F)F)cc3)cc2c1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+155561056,Cc1c(C(=O)O)cc(-c2ccc(C3CCNCC3)cc2)c2ccc(-c3ccc(C(F)(F)F)cc3)cc12,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+134256021,CO[C@H]1CCN(Cc2cc3c(nc2C=O)N(C(=O)Nc2cc(NC4COC4)c(C#N)cn2)CCC3)C1=O,P22455,IC50,0.00132,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68208767,COc1cc(OC)cc(N(CCN2CCCC(C(N)=O)C2)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.007943,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+49821991,COCCOc1nc(-c2ccc(Cl)nc2)nc2c1CN(C(=O)c1ncn3ccccc13)CC2,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+132156624,CO[C@H]1CCN(c2cc(NC(=O)N3CCCc4cc(CN5CCN(C)CC5=O)c(C=O)nc43)ncc2C#N)C1,P22455,IC50,0.00249,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+132156655,CO[C@@H]1CCN(c2cc(NC(=O)N3CCCc4cc(CN5CCN(C)CC5=O)c(C=O)nc43)ncc2C#N)C1,P22455,IC50,0.00162,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+162679978,COc1nc2c(cc1CN1CCN(C)CC1=O)CCCN2C(=O)Nc1cc(NCc2ccc(C)s2)c(C#N)cn1,P22455,IC50,0.0021,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134255845,CO[C@H]1CCN(c2cc(NC(=O)N3CCCc4cc(CN5CC[C@H](OC)C5=O)c(C=O)nc43)ncc2C#N)C1,P22455,IC50,0.00717,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134255835,CO[C@@H]1CCN(c2cc(NC(=O)N3CCCc4cc(CN5CC[C@H](OC)C5=O)c(C=O)nc43)ncc2C#N)C1,P22455,IC50,0.00246,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+139030518,COc1cc2nccc(Oc3ccc(NC(=O)Cc4ccc(Cl)c(C(F)(F)F)c4)cc3)c2cc1OC,P05532,GI50,0.001,Kit - KIT proto-oncogene receptor tyrosine kinase (house mouse),Confirmatory,Active,1
+89794927,Cc1nc(N2CC[C@@H](O)C2)ncc1-c1cc(C(F)(F)F)cc2[nH]ncc12,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+132157026,CO[C@H]1CCOCC1Nc1cc(NC(=O)N2CCCc3cc(CN4CCOCC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.00134,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+11996298,CN(c1ccnc(CNc2nc(Nc3ccc4c(c3)CC(=O)N4)ncc2C(F)(F)F)n1)S(C)(=O)=O,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+155549686,O=C(O)[C@@H]1[C@@H](Cn2nnc3ccccc3c2=O)CC[C@H]1C(=O)c1ccc(OCCC2CCOCC2)cc1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+118425786,O=C(O)[C@H]1[C@H](Cn2nnc3ccccc3c2=O)CC[C@@H]1C(=O)c1ccc(OCCC2CCOCC2)cc1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+126956694,C#CCNC(=O)c1cc(Nc2cc(C3CC3)[nH]n2)nc(N2CCN(Cc3ccc(S(=O)(=O)F)cc3)CC2)n1,P22455,,,FGFR4 - fibroblast growth factor receptor 4 (human),Literature-derived,Inactive,0
+89447583,COc1cc(OC)cc(N(CC(=O)Nc2cc(=O)cc[nH]2)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.004786,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+162679968,COc1nc2c(cc1CN1CCN(C)CC1=O)CCCN2C(=O)Nc1cc(NC(C)c2nccs2)c(C#N)cn1,P22455,IC50,0.003,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+162679977,COc1nc2c(cc1CN1CCN(C)CC1=O)CCCN2C(=O)Nc1cc(NCc2nccs2)c(C#N)cn1,P22455,IC50,0.0016,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118036655,COCCNc1cc(NC(=O)N2CCCc3cc(-n4ccnc4)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0011,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+24874600,CC1(C)CC=C(c2cc(C3(N4CCOCC4)CCOCC3)ccc2NC(=O)c2ncc(C#N)[nH]2)CC1,P09581,IC50,0.0016,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+166957942,CO[C@@H]1COCC1Nc1cc(NC(=O)N2CCCc3cc(CN(C)C(=O)[C@H]4CCOC4)c(C=O)nc32)ncc1C#N,P22455,IC50,0.00152,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118029151,C=CC(=O)Nc1ccccc1Nc1cc(N(Cc2ccccc2)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.002,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+123132228,CS(=O)(=O)c1ccc(-c2cnc(NCc3ccco3)n3cnnc23)cc1,P22455,IC50,10.0,Fibroblast growth factor receptor 4 (human),Confirmatory,Inactive,0
+164515197,C=CC(=O)Nc1ccc(N2CCN(C)CC2)cc1C1NNC2C[C@H](c3c(F)c(OC)cc(OC)c3F)CCC21,P22455,IC50,0.0034,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+168289627,C=CC(=O)Nc1cc(N2CCN(C3COC3)CC2)cc(F)c1Nc1n[nH]c2ccc(O[C@H](C)c3c(Cl)cncc3Cl)cc12,P22455,IC50,0.008,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+11465545,CONC(=O)c1cc(Nc2ncnn3cc(-c4nnc(C5CC5)o4)c(C(C)C)c23)c(F)cc1F,P22455,IC50,0.0053,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+24937622,CONC(=O)c1cn(-c2ccc3c(c2)CCC3)c2nc(Nc3ccc(CCN4CCNC(=O)C4)cc3)ncc2c1=O,P09581,IC50,0.0021,Csf1r - colony stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+25218654,CONC(=O)c1cn(-c2ccc3c(c2)CCC3)c2nc(Nc3ccc(CCN4CCN(C)C(=O)C4)cc3)ncc2c1=O,P09581,IC50,0.0024,Csf1r - colony stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+24874887,CC1(C)CC=C(c2cc(C(C)(C)NCCN3CCOCC3)ccc2NC(=O)c2ncc(C#N)[nH]2)CC1,P09581,IC50,0.0072,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+162648033,COCCOc1cc(NC(=O)N2CCCc3cc(C4CCN(C5COC5)CC4)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0081,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118036485,COCCNc1cc(NC(=O)N2CCCc3cc(C4CCN(C5COC5)CC4)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0082,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+162679975,COc1nc2c(cc1CN1CCCCOC1=O)CCCN2C(=O)Nc1cc(NCCSC)c(C#N)cn1,P22455,IC50,0.0022,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+132156727,COC[C@@H](C)Oc1cc(NC(=O)N2CCCc3cc(CN4CCCCOC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.00206,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+132156633,COC[C@@H](C)Nc1cc(NC(=O)N2CCCc3cc(CN4CCCCOC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.00096,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+132156901,COC[C@H](C)Nc1cc(NC(=O)N2CCCc3cc(CN4CCCCOC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0025,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+132156763,COCCNc1cc(NC(=O)N2CCCc3cc(CN4CCCCOC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.00206,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+58994529,Nc1ccc(CN2CCOCC2)cc1C1=CCCCC1,P09581,IC50,0.0046,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+89447420,COc1cc(OC)cc(N(CCCN2CCCC(C(N)=O)C2)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.007413,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134135131,COc1cc(OC)cc(N(CCCN2CCCCC2)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1.Cl,P22455,IC50,0.002884,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134135843,COc1cc(OC)cc(N(CCCN2CCCCC2C)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1.Cl,P22455,IC50,0.006607,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+89447202,COc1cc(OC)cc(N(CCCN2CCC(C(F)(F)F)CC2)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.003981,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+164616641,C=CC(=O)Nc1cc(CCN2CCN(C3COC3)CC2)cc(C)c1Nc1ncc2cc(-c3c(Cl)c(OC)cc(OC)c3Cl)ccc2n1,P22455,IC50,0.0011,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+9915028,CCCCN(CCCC)C(=O)CN1C[C@H](c2cc(OC)c3c(c2)OCO3)[C@@H](C(=O)O)[C@@H]1CC(C)(C)CCC,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+91827581,CCCCN(CCCC)C(=O)CN1C[C@@H](c2cc(OC)c3c(c2)OCO3)[C@H](C(=O)O)[C@H]1CC(C)(C)CCC,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+9982235,CONC(=O)c1cc(Nc2ncnn3cc(-c4nnc(N(C)C)o4)c(C(C)C)c23)c(F)cc1F,P22455,IC50,0.0073,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+10478569,CONC(=O)c1cc(Nc2ncnn3cc(-c4nnc(C)o4)c(C(C)C)c23)c(F)cc1F,P22455,IC50,0.0065,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+11352215,CONC(=O)c1cc(Nc2ncnn3cc(-c4nnc(CC(C)C)o4)c(C(C)C)c23)c(F)cc1F,P22455,IC50,0.0066,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+11374515,CCc1nnc(-c2cn3ncnc(Nc4cc(C(=O)NOC)c(F)cc4F)c3c2C(C)C)o1,P22455,IC50,0.0047,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+10436729,CONC(=O)c1cc(Nc2ncnn3cc(-c4nnc(CS(C)(=O)=O)o4)c(C(C)C)c23)c(F)cc1F,P22455,IC50,0.0046,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+11442803,CONC(=O)c1cc(Nc2ncnn3cc(-c4nnc(C(C)C)o4)c(C(C)C)c23)c(F)cc1F,P22455,IC50,0.001,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+56678756,CCC(=O)N[C@@H]1CC[C@H](C(=O)N(C)c2ccc(-c3nc4ccccc4o3)cc2)C1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+51346964,CCC(=O)N[C@H]1CC[C@@H](C(=O)N(C)c2ccc(-c3nc4ccccc4o3)cc2)C1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+88888588,COc1cc(OC)cc(N(Cc2ccc(Cl)nc2)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.005754,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+168430357,CO[C@H]1COCC1Nc1cc(NC(=O)N2CCCc3cc(CN4C(=O)OCC4C)c(C=O)nc32)ncc1C#N,P22455,IC50,0.00293,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+11612700,N#Cc1cnc(C(=O)Nc2ccc(C3CCN(C(=O)c4cccnc4)CC3)cc2C2=CCCCC2)[nH]1,P09581,IC50,0.0044,Csf1r - colony stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+129284334,CC(C)(O)[C@H](F)CN1Cc2cc(NC(=O)c3cnn4cccnc34)c(N3CCOCC3)cc2C1=O,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+164617136,C=CC(=O)Nc1cc(CCCN2CCCC2)cc(C)c1Nc1ncc2cc(-c3c(Cl)c(OC)cc(OC)c3Cl)ccc2n1,P22455,IC50,0.0032,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134140318,COc1cc(OC)cc(N(CCCN2CC=CCC2)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1.Cl,P22455,IC50,0.006026,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118036277,COCCNc1cc(NC(=O)N2CCCc3cc(-c4cnc(C)s4)c(C=O)nc32)ncc1C#N,P22455,IC50,0.003,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+25117126,CNC(=O)c1ccc(Nc2ncc(C(F)(F)F)c(NCc3nccnc3N(C)S(C)(=O)=O)n2)cc1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+155560522,CS(=O)(=O)N1CCCC(NC(=O)[C@H](CCC2CCCCC2)NC(=O)c2ccc(CNc3ncnc4c3nnn4-c3ccccc3)cc2)C1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+71559038,COc1cc(OC)cc(N(c2ccc3ncc(-c4cnn(C)c4)cc3n2)C2CCNCC2)c1,P22455,IC50,0.00331,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+171345406,COc1cc(CCc2cc(NC(=O)c3ccc(N4C[C@@H](C)N(CC(=O)N/N=C/c5ccc(OCCOCC(=O)NCC#Cc6cccc7c6CN(C6CCC(=O)NC6=O)C7=O)cc5)[C@@H](C)C4)cc3)n[nH]2)cc(OC)c1,P22455,,,FGFR4 - fibroblast growth factor receptor 4 (human),Literature-derived,Inactive,0
+155550034,CC(=O)N1CCC(c2ccc(C(=O)NC3=NCCN3)cc2C(F)(F)F)CC1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+24959105,CC1=C(C#N)C(c2ccc3n[nH]c(C)c3c2)C(C#N)=C(C)N1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+132156843,COCCNc1cc(NC(=O)N2CCCc3cc(CN4CCN(C5CC5)CC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.00162,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+10388612,CONC(=O)c1cc(Nc2ncnn3cc(-c4ncc(C)o4)c(C(C)C)c23)c(F)cc1F,P22455,IC50,0.004,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+84972986,CC1(C)CC=C(c2cc(C(C)(C)CN3C[C@@H](O)[C@@H](O)C3)ccc2NC(=O)c2ncc(C#N)[nH]2)CC1.Cl,P09581,IC50,0.0019,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+118036631,COCCNc1cc(NC(=O)N2CCCc3cc(N4CCOCC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0088,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+89870765,C=CC(=O)N1CC(n2nc(C#Cc3cc(OC)cc(OC)c3)c3c(N)ncnc32)C1,P22455,IC50,0.0017,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+56849304,CN(C)C(=O)Cn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)cc4)CC3)no2)cn1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+118029233,C=CC(=O)Nc1ccccc1Nc1cc(N(Cc2ccncc2)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.001,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118036594,CN1CCN(Cc2cc3c(nc2C=O)N(C(=O)Nc2cc(NC45CC(C4)C5)c(C#N)cn2)CCC3)C(=O)C1,P22455,IC50,0.0019,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+5330129,COc1cc(OC)cc(-c2cc3cnc(NCCCCN4CCOCC4)cc3nc2NC(=O)NC(C)(C)C)c1,P22455,IC50,0.0044,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+58994487,N#Cc1cnc(C(=O)Nc2ccc(CCS(=O)(=O)N3CCOCC3)cc2C2=CCCCC2)[nH]1,P09581,IC50,0.0049,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+155555047,O=C(NS(=O)(=O)c1ccc(NCC2CCOCC2)c([N+](=O)[O-])c1)c1ccc(N2CCN(Cc3ccc(C(F)(F)F)cc3-c3ccc(Cl)cc3)CC2)cc1Oc1cnc2[nH]ccc2c1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+132156824,COCCNc1cc(NC(=O)N2CCCc3cc(CN4C(=O)COCC45CC5)c(C=O)nc32)ncc1C#N,P22455,IC50,0.00171,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+153429368,CO[C@H]1COCC1Oc1cc(NC(=O)N2CCCc3cc(CN4C(=O)OC[C@@H]4C)c(C=O)nc32)ncc1C#N,P22455,IC50,0.00495,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+57666566,CC1(C)CC=C(c2cc(C3(O)C[C@@]4(CO)C=C[C@@](CO)(C3)O4)ccc2NC(=O)c2ncc(C#N)[nH]2)CC1,P09581,IC50,0.00043,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+57666466,CC1(C)CC=C(c2cc(C3(O)C[C@]4(C)C=C[C@](C)(C3)O4)ccc2NC(=O)c2ncc(C#N)[nH]2)CC1,P09581,IC50,0.0011,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+57666496,COC[C@@]12C=C[C@@](COC)(CC(O)(c3ccc(NC(=O)c4ncc(C#N)[nH]4)c(C4=CCC(C)(C)CC4)c3)C1)O2,P09581,IC50,0.00086,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+71017933,CC1(C)CC=C(c2cc(C3(O)CC4C=C[C@H](C3)O4)ccc2NC(=O)c2ncc(C#N)[nH]2)CC1,P09581,IC50,0.00066,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+162760083,[2H]C([2H])([2H])C1(C([2H])([2H])[2H])Cn2nc(-c3ccc(F)cn3)c(-c3ccnc4[nH]ncc34)c2CO1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+118036870,COCCNc1cc(NC(=O)N2CCCc3cc(CN4CC[N+](C)([O-])CC4=O)c(C=O)nc32)ncc1C#N,P22455,IC50,0.0048,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68208865,COc1cc(OC)cc(N(CCNC(=O)C2CC2)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.006026,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+132159652,C=CC(=O)Nc1cc(N2CCN(C3CC3)CC2)ccc1Nc1cc(N(C)C(=O)Nc2c(Cl)c(OC)cc(OC)c2Cl)ncn1,P22455,IC50,0.0025,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+163322307,C=CC(=O)Nc1cc(N2CCC(N3CCOCC3)CC2)cc(F)c1Nc1n[nH]c2ccc(O[C@H](C)c3c(Cl)cncc3Cl)cc12,P22455,IC50,0.0047,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+78319901,C[C@@H]1CN(c2cc(-c3n[nH]c4ccc(OC5(C)CC5)cc34)ncn2)C[C@H](C)O1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+155558331,C[C@@H]1CN(c2cc(-c3nn(C)c4ccc(OC5(C)CC5)cc34)ncn2)C[C@H](C)O1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+154624349,C=CC(=O)Nc1cnn(C)c1-c1n[nH]c2c1CC[C@H](c1c(F)c(OC)cc(OC)c1F)C2,P22455,IC50,0.00296,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+138457772,C=CC(=O)Nc1cnn(C)c1-c1n[nH]c2c1CC[C@@H](c1c(F)c(OC)cc(OC)c1F)C2,P22455,IC50,0.00573,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+138457913,C=CC(=O)Nc1cnn(C)c1-c1n[nH]c2c1CC[C@H](c1c(F)c(OC)cc(OC)c1Cl)C2,P22455,IC50,0.0055,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+138457914,C=CC(=O)Nc1cnn(C)c1-c1n[nH]c2c1CC[C@@H](c1c(F)c(OC)cc(OC)c1Cl)C2,P22455,IC50,0.006,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+171354696,COc1cc(CCc2cc(NC(=O)c3ccc(N4C[C@@H](C)N(CC(=O)N/N=C/c5ccc(OCCOCCOCCOCC(=O)NCC#Cc6cccc7c6CN(C6CCC(=O)NC6=O)C7=O)cc5)[C@@H](C)C4)cc3)n[nH]2)cc(OC)c1,P22455,,,FGFR4 - fibroblast growth factor receptor 4 (human),Literature-derived,Inactive,0
+118036923,N#Cc1cnc(NC(=O)N2CCCc3ccc(C=O)nc32)cc1C1=CCOCC1,P22455,IC50,0.0055,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+89534250,COc1cc(OC)cc(N(Cc2ncc[nH]2)c2ccc3ncc(-c4ccncc4)cc3n2)c1,P22455,IC50,0.00363,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118036816,N#Cc1cnc(NC(=O)N2CCCc3cc(CO)c(C=O)nc32)cc1NCC1CCCOC1,P22455,IC50,0.0018,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+9837640,O=c1nc(-c2ccccn2)sc2ccccc12,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+166625235,CC(C)Oc1cc(NC(=O)N2CCCc3cc(CN4CCN(C)CC4=O)c(C=O)nc32)ncc1C#Cc1ccccn1,P22455,IC50,0.007,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+137662140,Cc1nc(Cc2cccc(C(F)(F)F)c2)sc1-c1ccc(C(N)=O)nc1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+164622876,C=CC(=O)Nc1cc(CCN2CCc3ccccc3C2)cc(C)c1Nc1ncc2cc(-c3c(Cl)c(OC)cc(OC)c3Cl)ccc2n1,P22455,IC50,0.0026,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+45268455,CN([C@@H]1CCc2c(CC(=O)O)c3ccccc3n2C1)S(=O)(=O)c1ccc(F)cc1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+53326879,CN([C@@H]1CCc2c(CC(=O)O)c3cc(S(C)(=O)=O)ccc3n2C1)S(=O)(=O)c1ccc(F)cc1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+134255919,CN(Cc1cc2c(nc1C=O)N(C(=O)Nc1cc(N[C@H]3CCOC3)c(C#N)cn1)CCC2)C(=O)[C@H]1CCCO1,P22455,IC50,0.00167,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134255893,CN(Cc1cc2c(nc1C=O)N(C(=O)Nc1cc(N[C@@H]3CCOC3)c(C#N)cn1)CCC2)C(=O)[C@H]1CCCO1,P22455,IC50,0.00175,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+168298409,CC(C)Oc1cc(NC(=O)c2cn(C)c3ccc(C=O)nc23)ncc1C#N,P22455,IC50,0.0016,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+168299145,CN(C)CCNc1cc(NC(=O)c2cn(C)c3ccc(C=O)nc23)ncc1C#N,P22455,IC50,0.0024,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+155554839,Cc1nccc(COC(=O)N2C[C@@H]3C(CNC(=O)c4ccc5n[nH]nc5c4)[C@@H]3C2)n1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+71017923,CC1(C)CC=C(c2cc(C3=C[C@@H]4C=C[C@H](C3)O4)ccc2NC(=O)c2ncc(C#N)[nH]2)CC1,P09581,IC50,0.0071,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+57666560,CC1(C)CC=C(c2cc(C3=C[C@@]4(CO)C=C[C@@](CO)(C3)O4)ccc2NC(=O)c2ncc(C#N)[nH]2)CC1,P09581,IC50,0.00065,Macrophage colony-stimulating factor 1 receptor (house mouse),Confirmatory,Active,1
+89871044,C#CC(=O)N1CC[C@H](n2nc(C#Cc3cc(OC)cc(OC)c3)c3c(N)ncnc32)C1,P22455,IC50,0.0005,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+71621331,C=CC(=O)N1CC[C@H](n2nc(C#Cc3cc(OC)cc(OC)c3)c3c(N)ncnc32)C1,P22455,IC50,0.0034,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+132245892,C=CC(=O)N1CC(n2cc(-c3cc4cc(C)cc(OC)c4s3)c3c(N)ncnc32)C1,P22455,IC50,0.0054,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+132245939,C=CS(=O)(=O)N1CC(n2cc(-c3cc4cc(C)cc(OC)c4s3)c3c(N)ncnc32)C1,P22455,IC50,0.0017,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+141729426,C=CC(=O)Nc1cc(-c2cc3c(cn2)cc(-c2c(Cl)c(OC)cc(OC)c2Cl)c(=O)n3CC)c(OC)nc1N1CCN(CC)CC1,P22455,IC50,0.007,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+89447336,COc1cc(OC)cc(N(Cc2csc(C)n2)c2ccc3ncc(-c4cnn(CCN5CCNCC5)c4)nc3c2)c1,P22455,IC50,0.008511,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+139030333,Nc1c(C(=O)NCc2ccc(C(=O)NCCCC3CCCCC3)cc2)cnn1-c1ccccc1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+155546287,O=C(NCCCC1CCCCC1)c1ccc(CNC(=O)c2cnn(-c3ccccc3)c2C(F)(F)F)cc1,P22455,,,Fibroblast growth factor receptor 4 (human),Other,Inactive,0
+166642476,COc1cc(OC)cc(N(CCNC(C)C)c2ccc3ncc(-c4cnn(CCCCCCC(=O)NO)c4)nc3c2)c1,P22455,IC50,0.0014,FGFR4 - fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68208743,COc1cc(OC)cc(N(CCCNC(C)C)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.008913,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+67462786,COc1cc(OC)cc(N(CCNC(C)C)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.006607,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68208653,COc1cc(OC)cc(N(CC(F)CN)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.005012,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+54591291,COc1cc(OC)cc(N(CCCNC(=O)C(C)(O)C(F)(F)F)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.00302,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68209420,COc1cc(OC)cc(N(CC(O)C(F)(F)F)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.003802,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68209314,CCS(=O)(=O)NCCN(c1cc(OC)cc(OC)c1)c1ccc2ncc(-c3cnn(C)c3)nc2c1,P22455,IC50,0.002089,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134132789,CNC(=O)Cn1cc(-c2cnc3ccc(N(CCNC(C)C)c4cc(OC)cc(OC)c4)cc3n2)cn1.Cl,P22455,IC50,0.008318,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68208981,COc1cc(OC)cc(N(CCCO)c2ccc3ncc(-c4cn[nH]c4)nc3c2)c1,P22455,IC50,0.007762,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68208652,CNC(=O)Cn1cc(-c2cnc3ccc(N(CCO)c4cc(OC)cc(OC)c4)cc3n2)cn1,P22455,IC50,0.008511,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+88888594,COc1cc(OC)c(F)c(N(CCO)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1F,P22455,IC50,0.002138,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+89447335,COc1cc(OC)cc(N(CCNC(=O)C(C)(O)C(F)(F)F)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.006761,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+88888607,COc1cc(OC)cc(N(CCNCC(F)F)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.006761,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68208763,COc1cc(OC)cc(N(CCCO)c2ccc3ncc(-c4cnn(C(C)C)c4)nc3c2)c1,P22455,IC50,0.004266,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68209338,COc1cc(OC)c(C)c(N(CCO)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.007586,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68208797,COc1cc(OC)cc(N(CCNS(C)(=O)=O)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.00123,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+88888623,COc1cc(OC)c(F)c(N(CCCNCC(F)(F)F)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1F,P22455,IC50,0.002754,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+89447562,COc1cc(OC)cc(N(C[C@@H](O)C(F)(F)F)c2ccc3ncc(-c4cnn(C(C)C)c4)nc3c2)c1,P22455,IC50,0.004786,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68208868,COc1cc(OC)cc(N(c2ccc3ncc(-c4cnn(C)c4)nc3c2)C(C)CNCC(F)(F)F)c1,P22455,IC50,0.005623,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118014709,[2H]C([2H])([2H])n1cc(-c2cnc3ccc(N(CCNC(C)C)c4cc(OC)cc(OC)c4)cc3n2)cn1,P22455,IC50,0.004786,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+88888565,COc1cc(OC)cc(N(CCCNC(=O)C(F)(F)F)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.00263,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+89447394,COc1cc(OC)cc(N(CC#CC(C)(C)O)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.006918,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118014721,[2H]C([2H])([2H])Oc1cc(OC([2H])([2H])[2H])cc(N(CCCO)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.00537,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134136870,COc1cc(OC)cc(N(CCNC(C)C)c2ccc3ncc(-c4cnn(C(C)C)c4)nc3c2)c1.Cl,P22455,IC50,0.003802,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68208862,COc1cc(OC)cc(N(CCN)c2ccc3ncc(-c4cnn(C(C)C)c4)nc3c2)c1,P22455,IC50,0.007762,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+54591286,COc1cc(OC)cc(N(CCCC#N)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.009772,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68209116,COc1cc(OC)cc(N(CCCNC(C)(C)CF)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.005623,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68209090,COc1cc(OC)cc(N(CCN)c2ccc3ncc(-c4cnn(CCS(C)(=O)=O)c4)nc3c2)c1,P22455,IC50,0.008128,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134146349,CCn1cc(-c2cnc3ccc(N(CCNC(C)C)c4cc(OC)cc(OC)c4)cc3n2)cn1.Cl,P22455,IC50,0.003388,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68208707,COc1cc(OC)cc(N(CC(O)CO)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.007943,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68209075,COc1cc(OC)cc(N(CCCN)c2ccc3ncc(-c4cnn(CCS(C)(=O)=O)c4)nc3c2)c1,P22455,IC50,0.004467,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68208755,COc1cc(OC)cc(N(CCNS(=O)(=O)N(C)C)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.00166,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134146832,Br.COc1cc(OC)cc(N(CCP(=O)(O)O)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.004677,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68209319,COc1cc(OC)c(Cl)c(N(CCO)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.006607,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118014705,[2H]C([2H])([2H])Oc1cc(OC)cc(N(CCO)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.005754,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+89447047,[2H]C([2H])([2H])Oc1cc(OC([2H])([2H])[2H])cc(N(c2ccc3ncc(-c4cnn(C)c4)nc3c2)C([2H])([2H])C([2H])([2H])NC(C)C)c1,P22455,IC50,0.006166,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68209306,CNC(=O)Cn1cc(-c2cnc3ccc(N(CCCO)c4cc(OC)cc(OC)c4)cc3n2)cn1,P22455,IC50,0.00537,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+89439054,COc1cc(OC)cc(N(C[C@@H](O)C(F)(F)F)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.002512,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+89447446,COc1cc(OC)cc(N(CC(O)C(F)(F)F)c2ccc3ncc(-c4cnn(C(C)C)c4)nc3c2)c1,P22455,IC50,0.003236,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68209146,CNC(=O)Cn1cc(-c2cnc3ccc(N(CCCN)c4cc(OC)cc(OC)c4)cc3n2)cn1,P22455,IC50,0.007943,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68208716,COc1cc(OC)cc(N(CCO)c2ccc3ncc(-c4cnn(CCO)c4)nc3c2)c1,P22455,IC50,0.007413,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+88888612,COc1cc(OC)cc(N(CCCNCC(F)F)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.00871,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68209154,COc1cc(OC)cc(N(CCNC(C)C)c2ccc3ncc(-c4cnn(C)c4C)nc3c2)c1,P22455,IC50,0.007586,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68208816,COc1cc(OC)cc(N(CCCO)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.005623,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68209442,COc1cc(OC)cc(N(CCCO)c2ccc3ncc(-c4cnn(CCO)c4)nc3c2)c1,P22455,IC50,0.008128,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68208768,CNCCCN(c1cc(OC)cc(OC)c1)c1ccc2ncc(-c3cnn(C)c3)nc2c1,P22455,IC50,0.004266,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68208897,COc1cc(OC)cc(N(CCO)c2ccc3ncc(-c4cnn(CCS(C)(=O)=O)c4)nc3c2)c1,P22455,IC50,0.006607,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68208954,COc1cc(OC)cc(N(CCC#N)c2ccc3ncc(-c4cnn(CCO)c4)nc3c2)c1,P22455,IC50,0.003981,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134148391,COc1cc(OC)cc(N(CCCNC(=O)C(C)(O)C(F)(F)F)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1.Cl,P22455,IC50,0.00302,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68208762,COc1cc(OC)cc(N(CCC(=O)NCC(F)(F)F)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.003715,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134137760,COc1cc(OC)cc(N(CCCNC(C)C)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1.Cl,P22455,IC50,0.005495,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+88888611,C#CCN(c1ccc2ncc(-c3cnn(C)c3)nc2c1)c1c(F)c(OC)cc(OC)c1F,P22455,IC50,0.003548,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68209334,COc1cc(OC)cc(N(CCC#N)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.006166,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68209452,COc1cc(OC)cc(N(CCCO)c2ccc3ncc(-c4cnn(CCS(C)(=O)=O)c4)nc3c2)c1,P22455,IC50,0.006761,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+67464997,COc1cc(OC)cc(N(C[C@H](O)CO)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.005754,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68209125,CNC[C@H](O)CN(c1cc(OC)cc(OC)c1)c1ccc2ncc(-c3cnn(C)c3)nc2c1,P22455,IC50,0.00871,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134155853,CCCn1cc(-c2cnc3ccc(N(CCN)c4cc(OC)cc(OC)c4)cc3n2)cn1.Cl,P22455,IC50,0.004786,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+67467018,COc1cc(OC)cc(N(CCNCCC#N)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.008511,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+67465022,COc1cc(OC)cc(N(CCC(C)(C)O)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.004266,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134140602,COC[C@H](O)CN(c1cc(OC)cc(OC)c1)c1ccc2ncc(-c3cnn(C(C)C)c3)nc2c1.Cl,P22455,IC50,0.007244,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68208813,COc1cc(OC)cc(N(CCCN)c2ccc3ncc(-c4cn[nH]c4)nc3c2)c1,P22455,IC50,0.006918,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68209464,COc1cc(OC)cc(N(CCNCCO)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.009772,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68209091,COc1cc(OC)cc(N(CC(O)CNC(C)C)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.007762,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+54591049,COc1cc(OC)cc(N(CCO)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.005623,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+89447273,COc1cc(OC)cc(N(C[C@H](O)CNCC(F)(F)F)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.008318,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+88888572,COc1cc(OC)cc(N(CCNC(=O)C(F)(F)F)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.006457,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68209140,COc1cc(OC)cc(N(CCCNCC(N)=O)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.005623,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68209344,COc1cc(OC)cc(N(CCCN)c2ccc3ncc(-c4cnn(C(C)C)c4)nc3c2)c1,P22455,IC50,0.005495,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+118014711,[2H]C([2H])([2H])Oc1cc(OC)cc(N(CCNC(C)C)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.004365,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+67467552,COc1cc(OC)cc(N(CCCN)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.00912,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+89447054,COc1cc(OC)cc(N(CCNC(C)C)c2ccc3ncc(-c4cnn(CCC#N)c4)nc3c2)c1,P22455,IC50,0.003802,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68209347,COc1cc(OC)cc(N(CCNC(C)=O)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.003236,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134148952,COc1cc(OC)cc(N(CCNC(C)C)c2ccc3ncc(-c4cn[nH]c4)nc3c2)c1.Cl,P22455,IC50,0.007586,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68209104,COc1cc(OC)cc(N(CCNS(=O)(=O)C(C)C)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.002239,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68209010,COc1cc(OC)cc(N(C[C@@H](O)C(F)(F)F)c2ccc3ncc(-c4cnn(CCCN)c4)nc3c2)c1,P22455,IC50,0.008128,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134157816,Cl.[2H]C([2H])([2H])Oc1cc(OC)cc(N(CCNC(C)C)c2ccc3ncc(-c4cn[nH]c4)nc3c2)c1,P22455,IC50,0.006026,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+68208748,CNCCN(c1cc(OC)cc(OC)c1)c1ccc2ncc(-c3cnn(CC(=O)NC)c3)nc2c1,P22455,IC50,0.00912,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+88888566,COc1cc(OC)cc(N(CCNCCF)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1,P22455,IC50,0.007413,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+67466509,COCC(O)CN(c1cc(OC)cc(OC)c1)c1ccc2ncc(-c3cnn(C(C)C)c3)nc2c1,P22455,IC50,0.005623,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134157956,COc1cc(OC)cc(N(CCCNC(=O)C(F)(F)F)c2ccc3ncc(-c4cn[nH]c4)nc3c2)c1.O=C(O)C(F)(F)F,P22455,IC50,0.001622,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134157525,COCC(O)CN(c1cc(OC)cc(OC)c1)c1ccc2ncc(-c3cnn(C(C)C)c3)nc2c1.Cl,P22455,IC50,0.005623,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134153940,COc1cc(F)cc(N(CCNC(C)C)c2ccc3ncc(-c4cn[nH]c4)nc3c2)c1.Cl,P22455,IC50,0.009772,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1
+134157989,COc1cc(OC)c(Cl)c(N(CCNC(C)C)c2ccc3ncc(-c4cnn(C)c4)nc3c2)c1.Cl,P22455,IC50,0.00537,Fibroblast growth factor receptor 4 (human),Confirmatory,Active,1

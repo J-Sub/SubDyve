@@ -1,0 +1,267 @@
+cid,SMILES,protacxn,acname,acvalue,targetname,aidtypeid,activityid,label
+449013,C[C@H](O)[C@@H](CCc1cccc2ccccc12)n1cnc(C(N)=O)c1,P00813,Ki,0.011,ADA - adenosine deaminase (human),Confirmatory,Active,1
+21145345,NC(=O)c1cn(C(CO)CCc2cccc3ccccc23)cn1,P00813,Ki,0.68,ADA - adenosine deaminase (human),Confirmatory,Active,1
+10593196,C[C@H](O)[C@@H](CCCCCc1ccccc1)n1cnc2c(N)ncnc21,P56658,Ki,0.00095,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+46237931,Cn1cc2c(NC(=O)Nc3ccccc3)nc(-c3ccccc3)nc2n1,P56658,,,ADA - adenosine deaminase (domestic cattle),Literature-derived,Inactive,0
+46237932,COc1ccc(NC(=O)Nc2nc(-c3ccccc3)nc3nn(C)cc23)cc1,P56658,,,ADA - adenosine deaminase (domestic cattle),Literature-derived,Inactive,0
+46238063,Cn1cc2c(NC(=O)Nc3cccc(Cl)c3)nc(-c3ccccc3)nc2n1,P56658,,,ADA - adenosine deaminase (domestic cattle),Literature-derived,Inactive,0
+44304750,CCCCCCC(C(C)O)n1ccnc1,P56658,Ki,0.7,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+14888742,CCCCCCC(C(C)O)n1cnc(C(N)=O)c1,P56658,Ki,0.0353,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+14888768,CCCCCCC(C(C)O)n1cnc(C(N)=S)c1,P56658,Ki,0.0471,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+14888748,CCCCCCC(C(C)O)n1cnc(C(=O)NCCO)c1,P56658,Ki,0.93,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+14888750,CCCCCCC(C(C)O)n1cnc(C(=O)NC[C@H](C)O)c1,P56658,Ki,6.9,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+14888766,CCCCCCC(C(C)O)n1cnc(C(=N)N)c1,P56658,Ki,2.56,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+14888745,CCCCCCC(C(C)O)n1cnc(C(=O)NC)c1,P56658,Ki,0.368,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+14888769,CCCCCCC(C(C)O)n1cnc(CN)c1,P56658,Ki,4.02,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+14888756,CCCCCCC(C(C)O)n1cnc(CO)c1,P56658,Ki,2.52,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+13309851,CCCCCCC(C(C)O)n1cnc(C(N)=O)c1N,P56658,Ki,1.04,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+14888755,CCCCCCC(C(C)O)n1cnc(C(N)=O)c1Cl,P56658,Ki,0.126,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+447340,NC(=O)c1cn([C@@H](CO)CCc2ccccc2)cn1,P00813,Ki,5.9,ADA - adenosine deaminase (human),Confirmatory,Active,1
+145978232,C[C@H](O)[C@@H](CCc1cccc(C(F)(F)F)c1)n1cnc(C(N)=O)c1,P56658,Ki,0.0059,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+145973685,C[C@H](O)[C@@H](CCc1ccc(C(F)(F)F)cc1)n1cnc(C(N)=O)c1,P56658,Ki,0.029,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+90662842,Cc1ccc(OC[C@H]2O[C@@H](n3cnc4c(NO)ccnc43)C[C@@H]2Oc2ccc(C)cc2)cc1,P56658,Ki,5.3,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+90662840,Cc1ccc(OC[C@H]2O[C@@H](n3cnc4c(NO)cc(Cl)nc43)C[C@@H]2Oc2ccc(C)cc2)cc1,P56658,,,ADA - adenosine deaminase (domestic cattle),Literature-derived,Inactive,0
+146171856,C[C@](C(=O)NCCC1CCC(O)CC1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0017,Adenosine deaminase (human),Confirmatory,Active,1
+146186378,COCCOc1ccc(N2CCN(CCNC(=O)C(C)(c3ccccc3)n3ncc4c3nc(N)n3nc(-c5ccco5)nc43)CC2)cc1,P00813,IC50,0.0225,Adenosine deaminase (human),Confirmatory,Active,1
+10789454,O=C(OCc1ccccc1)c1cc2c(c(CCn3cnc4c3NC=NCC4O)c1)CCCC2,P56658,Ki,0.72,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+150248313,Nc1nc2c(cnn2C(C(=O)NC2CCCC2)c2ccccc2)c2nc(-c3ccco3)nn12,P00813,IC50,0.0102,Adenosine deaminase (human),Confirmatory,Active,1
+151099440,C[C@](C(=O)N[C@@H]1CCC[C@@H]1O)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0016,Adenosine deaminase (human),Confirmatory,Active,1
+151099438,CC(C(=O)N[C@H]1CCC[C@H]1O)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0128,Adenosine deaminase (human),Confirmatory,Active,1
+150890191,CC(C(=O)N[C@H]1CC[C@@H](O)C1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0079,Adenosine deaminase (human),Confirmatory,Active,1
+151099439,C[C@@](C(=O)N[C@@H]1CCC[C@@H]1O)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0126,Adenosine deaminase (human),Confirmatory,Active,1
+150890192,CC(C(=O)N[C@H]1CC[C@H](O)C1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0095,Adenosine deaminase (human),Confirmatory,Active,1
+150890193,CC(C(=O)NC1CCC(O)C1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0129,Adenosine deaminase (human),Confirmatory,Active,1
+150890195,CC(C(=O)N[C@@H]1CC[C@@H](O)C1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0112,Adenosine deaminase (human),Confirmatory,Active,1
+146186388,CC(C(=O)N[C@@H]1CCC[C@@H]1O)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0029,Adenosine deaminase (human),Confirmatory,Active,1
+150890194,CC(C(=O)N[C@@H]1CC[C@H](O)C1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0112,Adenosine deaminase (human),Confirmatory,Active,1
+152086105,Nc1nc2c(cnn2C(C(=O)N[C@@H]2CCC[C@@H]2O)c2ccccc2)c2nc(-c3ccco3)nn12,P00813,IC50,0.0069,Adenosine deaminase (human),Confirmatory,Active,1
+150629734,Nc1nc2c(cnn2C(C(=O)NC2COc3ccccc32)c2ccccc2)c2nc(-c3ccco3)nn12,P00813,IC50,0.0146,Adenosine deaminase (human),Confirmatory,Active,1
+44349663,CCCCCC[C@H]([C@H](C)O)n1c(=O)[nH]c2c(N)ncnc21,P56658,Ki,0.0064,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+152202570,Nc1nc2c(cnn2C(C(=O)NCc2ccc(F)cc2)c2ccccc2)c2nc(-c3ccco3)nn12,P00813,IC50,0.0026,Adenosine deaminase (human),Confirmatory,Active,1
+146186247,Nc1nc2c(cnn2C(C(=O)NCc2ccccc2)c2ccccc2)c2nc(-c3ccco3)nn12,P00813,IC50,0.0014,Adenosine deaminase (human),Confirmatory,Active,1
+155757736,C[C@@H](NC(=O)C(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21)c1ccccc1,P00813,IC50,0.0165,Adenosine deaminase (human),Confirmatory,Active,1
+155757752,Nc1nc2c(cnn2C(C(=O)NCc2ccccc2OC(F)(F)F)c2ccccc2)c2nc(-c3ccco3)nn12,P00813,IC50,0.002,Adenosine deaminase (human),Confirmatory,Active,1
+146186198,Nc1nc2c(cnn2[C@@H](C(=O)NCc2ccccc2)c2ccccc2)c2nc(-c3ccco3)nn12,P00813,IC50,0.0007,Adenosine deaminase (human),Confirmatory,Active,1
+146186200,Nc1nc2c(cnn2[C@H](C(=O)NCc2ccccc2)c2ccccc2)c2nc(-c3ccco3)nn12,P00813,IC50,0.013,Adenosine deaminase (human),Confirmatory,Active,1
+166178117,CCOc1ccccc1CNC(=O)C(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0009,Adenosine deaminase (human),Confirmatory,Active,1
+152044859,COc1ccc(CNC(=O)C(c2ccccc2)n2ncc3c2nc(N)n2nc(-c4ccco4)nc32)cc1,P00813,IC50,0.0016,Adenosine deaminase (human),Confirmatory,Active,1
+151658592,Cc1cccc(CNC(=O)C(c2ccccc2)n2ncc3c2nc(N)n2nc(-c4ccco4)nc32)c1,P00813,IC50,0.0019,Adenosine deaminase (human),Confirmatory,Active,1
+155757750,Nc1nc2c(cnn2C(C(=O)NCc2cccc(C(F)(F)F)c2)c2ccccc2)c2nc(-c3ccco3)nn12,P00813,IC50,0.0014,Adenosine deaminase (human),Confirmatory,Active,1
+150595008,Nc1nc2c(cnn2C(C(=O)NCc2ccccc2F)c2ccccc2)c2nc(-c3ccco3)nn12,P00813,IC50,0.0015,Adenosine deaminase (human),Confirmatory,Active,1
+155757755,C[C@H](NC(=O)C(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21)c1ccccc1,P00813,IC50,0.0319,Adenosine deaminase (human),Confirmatory,Active,1
+155757747,Nc1nc2c(cnn2C(C(=O)NCc2ccc(C(F)(F)F)cc2)c2ccccc2)c2nc(-c3ccco3)nn12,P00813,IC50,0.0013,Adenosine deaminase (human),Confirmatory,Active,1
+149728772,CC(C(=O)NCc1ccccc1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0107,Adenosine deaminase (human),Confirmatory,Active,1
+155757767,Nc1nc2c(cnn2C(C(=O)NCc2ccc(OC(F)(F)F)cc2)c2ccccc2)c2nc(-c3ccco3)nn12,P00813,IC50,0.0056,Adenosine deaminase (human),Confirmatory,Active,1
+151341541,Cc1ccc(CNC(=O)C(c2ccccc2)n2ncc3c2nc(N)n2nc(-c4ccco4)nc32)cc1,P00813,IC50,0.0015,Adenosine deaminase (human),Confirmatory,Active,1
+447342,Cn1c(CCC(=O)Nc2ccc3ccn(CC[C@H](CO)n4cnc(C(N)=O)c4)c3c2)nc2ccccc21,P00813,Ki,0.0077,ADA - adenosine deaminase (human),Confirmatory,Active,1
+464392,OC[C@H]1O[C@@H](n2cnc3c(NC4CC4)ccnc32)C[C@@H]1O,P56658,Ki,5.9,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+155757768,C[C@](C(=O)NCc1cc(C(F)(F)F)ccn1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0058,Adenosine deaminase (human),Confirmatory,Active,1
+155757743,C[C@](C(=O)NCc1ccccn1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0024,Adenosine deaminase (human),Confirmatory,Active,1
+149747561,CC(C(=O)NCc1cccc(F)n1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0022,Adenosine deaminase (human),Confirmatory,Active,1
+151772485,Cc1cccc(CNC(=O)[C@@](C)(c2ccccc2)n2ncc3c2nc(N)n2nc(-c4ccco4)nc32)n1,P00813,IC50,0.0025,Adenosine deaminase (human),Confirmatory,Active,1
+155757772,CC(C(=O)NCc1ccccn1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0062,Adenosine deaminase (human),Confirmatory,Active,1
+151426026,C[C@](C(=O)NCc1ncccc1F)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.002,Adenosine deaminase (human),Confirmatory,Active,1
+149679206,COc1ccc(CNC(=O)[C@@](C)(c2ccccc2)n2ncc3c2nc(N)n2nc(-c4ccco4)nc32)nc1,P00813,IC50,0.0009,Adenosine deaminase (human),Confirmatory,Active,1
+150274121,Cc1ccc(CNC(=O)C(C)(c2ccccc2)n2ncc3c2nc(N)n2nc(-c4ccco4)nc32)nc1,P00813,IC50,0.001,Adenosine deaminase (human),Confirmatory,Active,1
+151772486,Cc1cccc(CNC(=O)C(C)(c2ccccc2)n2ncc3c2nc(N)n2nc(-c4ccco4)nc32)n1,P00813,IC50,0.003,Adenosine deaminase (human),Confirmatory,Active,1
+150107801,CC(C(=O)NCc1ccc(F)cn1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0034,Adenosine deaminase (human),Confirmatory,Active,1
+150672753,COc1cccnc1CNC(=O)C(C)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0019,Adenosine deaminase (human),Confirmatory,Active,1
+150053027,COc1cccc(CNC(=O)C(C)(c2ccccc2)n2ncc3c2nc(N)n2nc(-c4ccco4)nc32)n1,P00813,IC50,0.0041,Adenosine deaminase (human),Confirmatory,Active,1
+150247832,COc1ccnc(CNC(=O)[C@@](C)(c2ccccc2)n2ncc3c2nc(N)n2nc(-c4ccco4)nc32)c1,P00813,IC50,0.0046,Adenosine deaminase (human),Confirmatory,Active,1
+155757749,C[C@](C(=O)NCc1ncccc1C(F)(F)F)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0011,Adenosine deaminase (human),Confirmatory,Active,1
+150274120,Cc1ccc(CNC(=O)[C@@](C)(c2ccccc2)n2ncc3c2nc(N)n2nc(-c4ccco4)nc32)nc1,P00813,IC50,0.0007,Adenosine deaminase (human),Confirmatory,Active,1
+150668739,Cc1ccnc(CNC(=O)[C@@](C)(c2ccccc2)n2ncc3c2nc(N)n2nc(-c4ccco4)nc32)c1,P00813,IC50,0.0029,Adenosine deaminase (human),Confirmatory,Active,1
+150672752,COc1cccnc1CNC(=O)[C@@](C)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0033,Adenosine deaminase (human),Confirmatory,Active,1
+155757773,C[C@](C(=O)NCc1ccc(C(F)(F)F)cn1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.001,Adenosine deaminase (human),Confirmatory,Active,1
+150668740,Cc1ccnc(CNC(=O)C(C)(c2ccccc2)n2ncc3c2nc(N)n2nc(-c4ccco4)nc32)c1,P00813,IC50,0.0024,Adenosine deaminase (human),Confirmatory,Active,1
+151807595,C[C@](C(=O)NCc1cc(F)ccn1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.006,Adenosine deaminase (human),Confirmatory,Active,1
+150247833,COc1ccnc(CNC(=O)C(C)(c2ccccc2)n2ncc3c2nc(N)n2nc(-c4ccco4)nc32)c1,P00813,IC50,0.0033,Adenosine deaminase (human),Confirmatory,Active,1
+151824025,Cc1cccnc1CNC(=O)C(C)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0006,Adenosine deaminase (human),Confirmatory,Active,1
+146174226,Cc1cccnc1CNC(=O)[C@@](C)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0005,Adenosine deaminase (human),Confirmatory,Active,1
+151426027,CC(C(=O)NCc1ncccc1F)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0032,Adenosine deaminase (human),Confirmatory,Active,1
+150107800,C[C@](C(=O)NCc1ccc(F)cn1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0032,Adenosine deaminase (human),Confirmatory,Active,1
+155757775,C[C@](C(=O)NCc1cccc(C(F)(F)F)n1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0021,Adenosine deaminase (human),Confirmatory,Active,1
+150053026,COc1cccc(CNC(=O)[C@@](C)(c2ccccc2)n2ncc3c2nc(N)n2nc(-c4ccco4)nc32)n1,P00813,IC50,0.0012,Adenosine deaminase (human),Confirmatory,Active,1
+151807596,CC(C(=O)NCc1cc(F)ccn1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0072,Adenosine deaminase (human),Confirmatory,Active,1
+135869422,O=C(Nc1ccc(Cc2ccccc2)cc1)Nc1ccc(Cn2cc3c(=O)[nH]cnc3n2)cc1,P56658,Ki,186.0,Adenosine deaminase  (cattle),Confirmatory,Inactive,0
+10501831,CCOC(=O)c1cc(CCn2cnc3c2NC=NCC3O)c2c(c1OC)CCCC2,P56658,Ki,3.7,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+10500108,CCOC(=O)c1cc2c(c(CCn3cnc4c3NC=NCC4O)c1)CCCC2,P56658,Ki,3.4,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+10551949,CCOC(=O)c1cc(CCn2cnc3c2NC=NCC3O)c2c(c1Br)CCCC2,P56658,Ki,0.53,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+145973258,C[C@H](O)[C@@H](CCc1cccc(C(F)(F)F)c1)n1ncc2c(N)ncnc21,P56658,Ki,,ADA - adenosine deaminase (domestic cattle),Confirmatory,Inactive,0
+145966398,C[C@H](O)[C@@H](CCc1ccc(C(F)(F)F)cc1)n1ncc2c(N)ncnc21,P56658,Ki,,ADA - adenosine deaminase (domestic cattle),Confirmatory,Inactive,0
+90662841,Cc1ccc(OC[C@H]2O[C@@H](n3cnc4c(NO)nc(Cl)nc43)C[C@@H]2Oc2ccc(C)cc2)cc1,P56658,,,ADA - adenosine deaminase (domestic cattle),Literature-derived,Inactive,0
+150217695,C[C@](C(=O)NCCN1CCC(O)CC1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0193,Adenosine deaminase (human),Confirmatory,Active,1
+10709134,Cc1ccc(C[C@H]([C@H](C)O)n2cnc3c(N)ncnc32)cc1,P56658,Ki,0.302,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+10710167,CCc1cccc(C[C@H]([C@H](C)O)n2cnc3c(N)ncnc32)c1,P56658,Ki,0.133,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+146186403,C[C@](C(=O)NC1CCS(=O)CC1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0439,Adenosine deaminase (human),Confirmatory,Active,1
+155757754,CC(C(=O)NCC1CCCOC1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0124,Adenosine deaminase (human),Confirmatory,Active,1
+146186245,Nc1nc2c(cnn2[C@H](C(=O)NCc2cccc(C3(O)CCC3)n2)c2ccccc2)c2nc(-c3ccco3)nn12,P00813,IC50,0.0064,Adenosine deaminase (human),Confirmatory,Active,1
+146186246,Nc1nc2c(cnn2[C@@H](C(=O)NCc2cccc(C3(O)CCC3)n2)c2ccccc2)c2nc(-c3ccco3)nn12,P00813,IC50,0.0004,Adenosine deaminase (human),Confirmatory,Active,1
+146186301,Nc1nc2c(cnn2C(C(=O)NCc2cccc(C3(O)CCC3)n2)c2ccccc2)c2nc(-c3ccco3)nn12,P00813,IC50,0.0009,Adenosine deaminase (human),Confirmatory,Active,1
+146186273,CC(C(=O)NCc1cccc(C2(O)CCC2)n1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0069,Adenosine deaminase (human),Confirmatory,Active,1
+46237927,Nc1nc(-c2ccccc2)nc2nn(CCc3ccccc3)cc12,P56658,,,ADA - adenosine deaminase (domestic cattle),Literature-derived,Inactive,0
+145964134,CCc1ccc(CC[C@H]([C@H](C)O)n2cnc3c(N)ncnc32)s1,P56658,Ki,0.0021,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+166178122,Nc1nc2c(cnn2C(/C=C/c2ccccc2)C(=O)NCC2CCOCC2)c2nc(-c3ccco3)nn12,P00813,IC50,0.0104,Adenosine deaminase (human),Confirmatory,Active,1
+44349662,CCCCCC[C@H]([C@H](C)O)[N+]1([O-])C(=O)Nc2c(N)ncnc21,P56658,Ki,0.0158,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+10687165,O=C(O)c1sccc1CCCn1cnc2c1NC=NCC2O,P56658,Ki,1.4,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+155757746,CC(C(=O)NC[C@@H]1CCOC1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0125,Adenosine deaminase (human),Confirmatory,Active,1
+155757763,CC(C(=O)NC[C@H]1CCOC1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0081,Adenosine deaminase (human),Confirmatory,Active,1
+10173385,C[C@H](O)[C@@H](CCc1cccc2oc(-c3ccc(Cl)cc3)nc12)n1cnc(C(N)=O)c1,P00813,IC50,0.0087,ADA - adenosine deaminase (human),Confirmatory,Active,1
+145966816,C[C@H](O)[C@@H](CCc1cccc(-c2cnccn2)c1)n1cnc2c(N)ncnc21,P56658,Ki,0.0019,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+9862110,Cc1ccccc1CCC[C@H]([C@H](C)O)n1cnc2c(N)ncnc21,P56658,Ki,0.00051,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+10543066,C[C@H](O)[C@@H](CCCc1ccccc1)n1cnc2c(N)ncnc21,P56658,Ki,0.00089,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+155757759,CC(C(=O)Nc1cccnc1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0351,Adenosine deaminase (human),Confirmatory,Active,1
+155757741,Nc1nc2c(cnn2C(C(=O)NC2CCCc3ccccc32)c2ccccc2)c2nc(-c3ccco3)nn12,P00813,IC50,0.0083,Adenosine deaminase (human),Confirmatory,Active,1
+149709941,CC(C)(C(=O)NCC1(O)COC1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0332,Adenosine deaminase (human),Confirmatory,Active,1
+155757769,CC(C(=O)NCCC1CCOCC1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0093,Adenosine deaminase (human),Confirmatory,Active,1
+155757753,CC(C(=O)N[C@@H]1CCCOC1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0082,Adenosine deaminase (human),Confirmatory,Active,1
+155757737,CC(C(=O)N[C@H]1CCCOC1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0111,Adenosine deaminase (human),Confirmatory,Active,1
+146186260,COC(=O)C1(n2ncc3c(NNC(=O)c4ccco4)nc(N)nc32)CCCc2ccccc21,P00813,IC50,0.0038,Adenosine deaminase (human),Confirmatory,Active,1
+53323498,OC[C@H]1O[C@@H](n2cnc3c2N=CN=C[C@@H]3O)C[C@@H]1O,P00813,Ki,2.5e-06,ADA - adenosine deaminase (human),Confirmatory,Active,1
+53318756,OC[C@H]1O[C@@H](n2cnc3c2N=CN=C[C@@H]3O)[C@H](O)[C@@H]1O,P00813,Ki,1e-05,ADA - adenosine deaminase (human),Confirmatory,Active,1
+151898303,Nc1nc2c(cnn2C(C(=O)N[C@@H]2CCOc3ccccc32)c2ccccc2)c2nc(-c3ccco3)nn12,P00813,IC50,0.0079,Adenosine deaminase (human),Confirmatory,Active,1
+151898304,Nc1nc2c(cnn2C(C(=O)N[C@H]2CCOc3ccccc32)c2ccccc2)c2nc(-c3ccco3)nn12,P00813,IC50,0.0446,Adenosine deaminase (human),Confirmatory,Active,1
+151248785,CC(C(=O)NC1CC(O)C1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0133,Adenosine deaminase (human),Confirmatory,Active,1
+151248784,C[C@](C(=O)NC1CC(O)C1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0107,Adenosine deaminase (human),Confirmatory,Active,1
+156533908,CC1(O)CC(NC(=O)C(C)(c2ccccc2)n2ncc3c2nc(N)n2nc(-c4ccco4)nc32)C1,P00813,IC50,0.0107,Adenosine deaminase (human),Confirmatory,Active,1
+156533904,CC1(O)CC(NC(=O)[C@@](C)(c2ccccc2)n2ncc3c2nc(N)n2nc(-c4ccco4)nc32)C1,P00813,IC50,0.005,Adenosine deaminase (human),Confirmatory,Active,1
+10567019,Cc1cccc(CC[C@H]([C@H](C)O)n2cnc3c(N)ncnc32)c1,P56658,Ki,0.00102,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+71720339,CCCc1ccccc1CC[C@H]([C@H](C)O)n1cnc2c(N)ncnc21,P56658,Ki,0.302,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+145973646,COC(=O)c1cccc(CC[C@H]([C@H](C)O)n2cnc3c(N)ncnc32)c1,P56658,Ki,0.0022,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+145974590,C[C@H](O)[C@@H](CCc1ccc(C(F)(F)F)cc1)n1cnc2c(N)ncnc21,P56658,Ki,0.0052,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+145966869,C[C@H](O)[C@@H](CCc1cccc(C(F)(F)F)c1)n1cnc2c(N)ncnc21,P56658,Ki,0.0011,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+145973070,CNC(=O)c1cccc(CC[C@H]([C@H](C)O)n2cnc3c(N)ncnc32)c1,P56658,Ki,0.0027,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+145965622,CC(C)(O)[C@@H](CCc1ccc(C(F)(F)F)cc1)n1cnc2c(N)ncnc21,P56658,Ki,0.069,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+145975700,C[C@H](O)[C@@H](CCc1cccc(F)c1)n1cnc2c(N)ncnc21,P56658,Ki,0.0016,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+145970290,C[C@H](O)[C@@H](CCc1cccc(CO)c1)n1cnc2c(N)ncnc21,P56658,Ki,0.0046,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+145973225,C[C@H](O)[C@@H](CCc1ccccc1C(F)(F)F)n1cnc2c(N)ncnc21,P56658,Ki,0.0062,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+145972816,C[C@H](O)[C@@H](CCc1cccc(C(=O)N(C)C)c1)n1cnc2c(N)ncnc21,P56658,Ki,0.0018,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+145965980,C[C@H](O)[C@@H](CCc1cccc(C(N)=O)c1)n1cnc2c(N)ncnc21,P56658,Ki,0.0029,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+145977233,C[C@H](O)[C@@H](CCc1cccc(Br)c1)n1cnc2c(N)ncnc21,P56658,Ki,0.0006,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+145975611,C[C@H](O)[C@@H](CCc1cccc(C(=O)O)c1)n1cnc2c(N)ncnc21,P56658,Ki,0.053,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+145965303,CC(=O)[C@@H](CCc1ccc(C(F)(F)F)cc1)n1cnc2c(N)ncnc21,P56658,Ki,,ADA - adenosine deaminase (domestic cattle),Confirmatory,Inactive,0
+10664160,COC(=O)c1ccccc1OCCn1cnc2c1NC=NCC2O,P56658,Ki,2.3,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+56928836,C[C@@]1(O)[C@H](O)[C@@H](CO)O[C@H]1n1cnc2c(N)nc(-n3ccnn3)nc21,P00813,,,ADA - adenosine deaminase (human),Literature-derived,Inactive,0
+11183709,Nc1ncnc2nn(Cc3ccccc3)cc12,P56658,,,ADA - adenosine deaminase (domestic cattle),Literature-derived,Inactive,0
+44398894,CCCCCCCCCCn1cc2c(N)nc(-c3ccccc3)nc2n1,P56658,,,ADA - adenosine deaminase (domestic cattle),Literature-derived,Inactive,0
+46237805,Cn1cc2c(N)nc(-c3ccccc3)nc2n1,P56658,,,ADA - adenosine deaminase (domestic cattle),Literature-derived,Inactive,0
+10833506,COC(=O)c1ccc2ccccc2c1CCCn1cnc2c1NC=NCC2O,P56658,Ki,0.18,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+10713805,O=C(O)c1ccc2ccccc2c1CCCn1cnc2c1NC=NCC2O,P56658,Ki,1.8,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+135450187,CCCCCC[C@@H]([C@@H](C)O)[n+]1c[nH]c2c(N)ncnc21.[Cl-],NP_000013,,,ADA - adenosine deaminase (human),Literature-derived,Active,1
+11235305,CCCCCCOc1ccc2c(c1)c(CC[C@H](CO)n1cnc(C(N)=O)c1)cn2C,P00813,Ki,0.013,ADA - adenosine deaminase (human),Confirmatory,Active,1
+152228741,C[C@](C(=O)N[C@H]1COC[C@@H]1O)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0417,Adenosine deaminase (human),Confirmatory,Active,1
+152228742,CC(C(=O)N[C@H]1COC[C@H]1O)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0763,Adenosine deaminase (human),Confirmatory,Active,1
+152228740,C[C@](C(=O)N[C@H]1COC[C@H]1O)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0322,Adenosine deaminase (human),Confirmatory,Active,1
+152228743,CC(C(=O)N[C@H]1COC[C@@H]1O)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0509,Adenosine deaminase (human),Confirmatory,Active,1
+70697554,OC[C@H]1O[C@@H](n2cnc3cnccc32)[C@H](O)[C@@H]1O,P56658,,,ADA - adenosine deaminase (domestic cattle),Literature-derived,Inactive,0
+46875046,OC[C@@H]1OC(n2cnc3c2N=CCC[C@H]3O)[C@@H](O)[C@H]1O,P00813,Ki,1e-05,ADA - adenosine deaminase (human),Confirmatory,Active,1
+71450843,OC[C@@H]1O[C@H](n2cnc3c2N=CCC[C@H]3O)C[C@H]1O,P00813,Ki,2.5e-06,ADA - adenosine deaminase (human),Confirmatory,Active,1
+11453636,NC(=O)c1cn([C@@H](CO)CCn2ccc3ccc(NC(=O)CCc4cccnc4)cc32)cn1,P00813,Ki,0.017,ADA - adenosine deaminase (human),Confirmatory,Active,1
+146186305,CC(C(=O)Nc1ccccn1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0153,Adenosine deaminase (human),Confirmatory,Active,1
+151521412,CC(C(=O)NCC1(O)CCC1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0038,Adenosine deaminase (human),Confirmatory,Active,1
+23568514,Nc1ccnc2c1ccn2C1O[C@H](CO)[C@@H](O)[C@H]1O,P56658,,,ADA - adenosine deaminase (domestic cattle),Literature-derived,Inactive,0
+149792,CCCCCC[C@H]([C@@H](C)O)n1cnc2c(N)ncnc21,P00813,Ki,0.122,ADA - adenosine deaminase (human),Confirmatory,Active,1
+149793,CCCCCC[C@@H]([C@H](C)O)n1cnc2c(N)ncnc21,P00813,Ki,0.08,ADA - adenosine deaminase (human),Confirmatory,Active,1
+3206,CCCCCCC(C(C)O)n1cnc2c(N)ncnc21,P00813,Ki,0.037,Adenosine deaminase (human),Confirmatory,Active,1
+54585362,CCCNc1nc(N)nc2c1ncn2C[C@@H](CF)OCP(=O)(O)O,P00813,,,ADA - adenosine deaminase (human),Literature-derived,Inactive,0
+54581460,C=CCNc1nc(N)nc2c1ncn2C[C@@H](CF)OCP(=O)(O)O,P00813,,,ADA - adenosine deaminase (human),Literature-derived,Inactive,0
+10779057,CCCCOC[C@H]([C@H](C)O)n1cnc2c(N)ncnc21,P56658,Ki,0.1234,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+11777551,CCCCCC[C@H](CO)n1cnc2c(N)ncnc21,P56658,Ki,0.047,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+10402146,CCCCCC[C@H]([C@@H](O)CO)n1cnc2c(N)ncnc21,P56658,Ki,0.056,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+10356385,CCCCCC[C@H](CCl)n1cnc2c(N)ncnc21,P56658,Ki,0.32,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+10042030,CCCCCC[C@H](CBr)n1cnc2c(N)ncnc21,P56658,Ki,0.6,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+10334306,CCCCCC[C@H](CN=[N+]=[N-])n1cnc2c(N)ncnc21,P56658,Ki,1.3,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+9993035,CCCCCC[C@H](CF)n1cnc2c(N)ncnc21,P56658,Ki,1.6,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+71458031,C=C[C@H](C=O)O[C@H](C=O)n1cnc2c(N)ncnc21,P56658,Ki,7.0,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+44278585,C=C(C=O)OC(C=O)n1cnc2c(N)ncnc21,P56658,Ki,4.0,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+21121780,CCCCCCC(C(C)O)n1cnc2cncnc21,P56658,Ki,0.68,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+149784,CCCCCC[C@@H]([C@@H](C)O)n1cnc2c(N)ncnc21,P56658,Ki,0.0013,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+10016248,CCC/C=C\C[C@H]([C@H](C)O)n1cnc2c(N)ncnc21,P56658,Ki,0.00374,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+10754736,CCCC#CC[C@H]([C@H](C)O)n1cnc2c(N)ncnc21,P56658,Ki,0.188,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+10516542,CCC/C=C/C[C@H]([C@H](C)O)n1cnc2c(N)ncnc21,P56658,Ki,0.0507,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+145977951,CCCCSC[C@H]([C@H](C)O)n1cnc2c(N)ncnc21,P56658,Ki,0.054,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+149790,CCCCCC[C@H]([C@H](C)O)n1cnc2c(N)ncnc21,P56658,Ki,1.14,Adenosine deaminase  (cattle),Confirmatory,Active,1
+145975770,C[C@H](O)[C@@H](CCc1cccc(C(=O)N2CCCC2)c1)n1cnc2c(N)ncnc21,P56658,Ki,0.0022,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+10456279,CCCCCC[C@@H]1[C@@H](O)C[n+]2cnc(N)c3ncn1c32.Cc1ccc(S(=O)(=O)[O-])cc1,P56658,Ki,1.0,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+16154396,CCCC[C@H](NC(=O)[C@H](CO)NC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@H](CO)NC(C)=O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](Cc1c[nH]cn1)C(=O)N[C@H](Cc1ccccc1)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)NCC(=O)N[C@@H](CCCCN)C(=O)N1CCC[C@H]1C(=O)N[C@H](C(N)=O)C(C)C,P00813,Ki,0.016,ADA - adenosine deaminase (human),Confirmatory,Active,1
+90668603,Nc1ncnc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](OC(=O)c2ccccc2)[C@@H]1OC(=O)c1ccccc1,P56658,,,ADA - adenosine deaminase (domestic cattle),Literature-derived,Active,1
+152474348,CC(C(=O)N[C@@H]1CNC(=O)C1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0118,Adenosine deaminase (human),Confirmatory,Active,1
+10404061,C[C@H](O)[C@@H](CCCCc1ccccc1)n1cnc2c(N)ncnc21,P56658,Ki,0.00076,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+146186197,CC(C)(C)OC(=O)N1CCC[C@@H](NC(=O)C(C)(c2ccccc2)n2ncc3c2nc(N)n2nc(-c4ccco4)nc32)C1,P00813,IC50,0.0755,Adenosine deaminase (human),Confirmatory,Active,1
+146186312,CC(C)(C)OC(=O)N1CCC[C@H](NC(=O)C(C)(c2ccccc2)n2ncc3c2nc(N)n2nc(-c4ccco4)nc32)C1,P00813,IC50,0.0721,Adenosine deaminase (human),Confirmatory,Active,1
+464388,Nc1ccnc2c1ncn2[C@H]1C[C@H](O)[C@@H](CO)O1,P56658,Ki,0.19,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+464389,CNc1cc(Cl)nc2c1ncn2[C@H]1C[C@H](O)[C@@H](CO)O1,P56658,Ki,4.2,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+44352779,CNc1ccnc2c1ncn2C1CCC(CO)O1,P56658,Ki,2.2,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+44352764,Nc1ccnc2c1ncn2C1CCC(CO)O1,P56658,Ki,2.5,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+464390,CNc1ccnc2c1ncn2[C@H]1C[C@H](O)[C@@H](CO)O1,P56658,Ki,0.25,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+159738,Nc1ccnc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O,P56658,Ki,0.66,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+10039397,OC[C@H]1O[C@@H](n2cnc3c(NO)ccnc32)[C@H](O)[C@@H]1O,P56658,Ki,1.2,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+14843517,OC[C@H]1O[C@@H](n2cnc3c(NO)ccnc32)C[C@@H]1O,P56658,Ki,0.27,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+46875310,OC[C@H]1OC(n2cnc3c(NO)cc(Cl)nc32)[C@H](O)[C@@H]1O,P56658,Ki,6.9,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+46875370,O=[N+]([O-])c1cc(Cl)nc2c1ncn2C1O[C@H](CO)[C@@H](O)[C@H]1O,P56658,,,ADA - adenosine deaminase (domestic cattle),Literature-derived,Inactive,0
+14843513,O=[N+]([O-])c1ccnc2c1ncn2[C@H]1C[C@H](O)[C@@H](CO)O1,P56658,,,ADA - adenosine deaminase (domestic cattle),Literature-derived,Inactive,0
+146327847,COC(=O)C(C)(c1cccc(C)c1)n1ncc2c(NNC(=O)c3ccco3)nc(N)nc21,P00813,IC50,0.0073,Adenosine deaminase (human),Confirmatory,Active,1
+146186386,COC(=O)C(C)(c1ccc(OC)cc1)n1ncc2c(NNC(=O)c3ccco3)nc(N)nc21,P00813,IC50,0.0859,Adenosine deaminase (human),Confirmatory,Active,1
+146186333,CCC(C(=O)OC)(c1ccccc1)n1ncc2c(NNC(=O)c3ccco3)nc(N)nc21,P00813,IC50,0.0061,Adenosine deaminase (human),Confirmatory,Active,1
+135869423,O=C(NCc1ccccc1)Nc1ccc(Cn2cc3c(=O)[nH]cnc3n2)cc1,P56658,Ki,85.7,Adenosine deaminase  (cattle),Confirmatory,Inactive,0
+166178121,Nc1nc2c(cnn2/C(=C/c2ccccc2)C(=O)NCc2cccnc2)c2nc(-c3ccco3)nn12,P00813,IC50,0.017,Adenosine deaminase (human),Confirmatory,Active,1
+155757735,Nc1nc2c(cnn2C(C(=O)NC2CCOCC2)c2ccccc2)c2nc(-c3ccco3)nn12,P00813,IC50,0.036,Adenosine deaminase (human),Confirmatory,Active,1
+155757774,CC(C(=O)NC1CCOCC1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0192,Adenosine deaminase (human),Confirmatory,Active,1
+327151,OC1CN=CNc2c1ncn2Cc1ccccc1,P56658,Ki,6.0,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+10496516,CCOC(=O)Cc1cccc(Cn2cnc3c2NC=NCC3O)c1,P56658,Ki,5.6,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+44284914,COC(=O)Cc1ccc(Cn2cnc3c2NC=NCC3O)cc1,P56658,Ki,6.7,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+44284938,COC(=O)c1ccc(Cn2cnc3c2NC=NCC3O)cc1,P56658,Ki,8.7,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+11155059,NC(=O)c1cn([C@@H](CO)CCn2ccc3ccc(OCCCCc4ccccc4)cc32)cn1,P00813,Ki,0.012,ADA - adenosine deaminase (human),Confirmatory,Active,1
+146186400,COC(=O)C(C)(c1cccc(OC)c1)n1ncc2c(Cl)nc(N)nc21,P00813,IC50,0.013,Adenosine deaminase (human),Confirmatory,Active,1
+145964751,C[C@H](O)[C@@H](CCc1cccc(C(F)(F)F)c1)n1ccc2c(N)ncnc21,P56658,Ki,,ADA - adenosine deaminase (domestic cattle),Confirmatory,Inactive,0
+145975614,C[C@H](O)[C@@H](CCc1ccc(C(F)(F)F)cc1)n1ccc2c(N)ncnc21,P56658,Ki,,ADA - adenosine deaminase (domestic cattle),Confirmatory,Inactive,0
+166177279,C[C@H](NP(=O)(OC[C@@H]1C[C@@H](O)[C@H](n2cnc3c(N)ncnc32)O1)Oc1ccccc1)C(=O)OCc1ccccc1,P56658,,,ADA - adenosine deaminase (domestic cattle),Literature-derived,Active,1
+150610243,CC(C(=O)NC1(CO)CC1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.5,Adenosine deaminase (human),Confirmatory,Active,1
+152715203,CC(C(=O)NC1CC1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0149,Adenosine deaminase (human),Confirmatory,Active,1
+46238067,O=C(Nc1ccccc1)Nc1nc(-c2ccccc2)nc2nn(Cc3ccccc3)cc12,P56658,,,ADA - adenosine deaminase (domestic cattle),Literature-derived,Inactive,0
+46238068,COc1ccc(NC(=O)Nc2nc(-c3ccccc3)nc3nn(Cc4ccccc4)cc23)cc1,P56658,,,ADA - adenosine deaminase (domestic cattle),Literature-derived,Inactive,0
+44344353,NC(N)=Nc1nc(-c2ccc(CNc3cc4ccccc4[nH]3)s2)cs1,P00813,Ki,1.2,ADA - adenosine deaminase (human),Confirmatory,Active,1
+150671133,CC(C(=O)NCC1(O)CCCCC1)(c1ccccc1)n1ncc2c1nc(N)n1nc(-c3ccco3)nc21,P00813,IC50,0.0078,Adenosine deaminase (human),Confirmatory,Active,1
+135869421,O=C(Nc1ccc(Cn2cc3c(=O)[nH]cnc3n2)cc1)Nc1ccc(C(F)(F)F)cc1,P56658,Ki,0.16,Adenosine deaminase  (cattle),Confirmatory,Active,1
+135869419,O=C(Nc1ccccc1)Nc1ccc(Cn2cc3c(=O)[nH]cnc3n2)cc1,P56658,Ki,2.42,Adenosine deaminase  (cattle),Confirmatory,Active,1
+135869430,CN(C)c1ccc(NC(=O)Nc2ccc(Cn3cc4c(=O)[nH]cnc4n3)cc2)cc1,P56658,Ki,2.01,Adenosine deaminase  (cattle),Confirmatory,Active,1
+135869420,O=C(Nc1ccc(F)cc1)Nc1ccc(Cn2cc3c(=O)[nH]cnc3n2)cc1,P56658,Ki,1.15,Adenosine deaminase  (cattle),Confirmatory,Active,1
+135869429,COc1ccc(NC(=O)Nc2ccc(Cn3cc4c(=O)[nH]cnc4n3)cc2)cc1,P56658,Ki,28.27,Adenosine deaminase  (cattle),Confirmatory,Inactive,0
+10424529,CCCCCC[C@H]([C@@H](O)CF)n1cnc2c(N)nccc21,P56658,Ki,0.0047,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+9994486,CCCCCC[C@H]([C@@H](O)CO)n1cnc2c(N)nccc21,P56658,Ki,0.497,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+11778223,CCCCCC[C@H]([C@H](C)O)n1cnc2c(N)nccc21,P56658,Ki,0.0062,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+44326591,CCCCCCC(C(C)O)n1cnc2cnccc21,P56658,Ki,0.12,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+21265683,CCCCCCC(C(C)O)n1cnc2c(N)nccc21,P56658,Ki,0.01,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+10084791,CCCCCC[C@H]([C@@H]1CO1)n1cnc2c(N)ncnc21,P56658,Ki,0.89,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+44399000,CCCCCCC(C(C)O)N1N=CC2C(N)=NC=NC21,P56658,Ki,0.0661,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+44399001,NC1=NC=NC2C1C=NN2CCO,P56658,Ki,4.619,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+44398822,CCCCCCCCCCCN1N=CC2C(N)=NC=NC21,P56658,,,ADA - adenosine deaminase (domestic cattle),Literature-derived,Inactive,0
+44398821,CCCCCCCCCCN1N=CC2C(N)=NC=NC21,P56658,,,ADA - adenosine deaminase (domestic cattle),Literature-derived,Inactive,0
+44398854,CCCCCCC(O)CN1N=CC2C(N)=NC=NC21,P56658,,,ADA - adenosine deaminase (domestic cattle),Literature-derived,Inactive,0
+44398955,CCCCCCCCCCCCN1N=CC2C(N)=NC=NC21,P56658,,,ADA - adenosine deaminase (domestic cattle),Literature-derived,Inactive,0
+10753895,N#CCCCCCCn1cnc2c1NC=NCC2O,P56658,Ki,1.0,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+10562655,CCCCCCCn1cnc2c1NC=NCC2O,P56658,Ki,0.35,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+10778046,CCCCCCCCn1cnc2c1NC=NCC2O,P56658,Ki,0.45,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+10804745,COC(=O)CCCCCCCn1cnc2c1NC=NCC2O,P56658,Ki,0.95,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+10514970,OCCCCCCn1cnc2c1NC=NCC2O,P56658,Ki,3.6,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+10686251,CCOC(=O)CCCCCCn1cnc2c1NC=NCC2O,P56658,Ki,0.96,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+10778095,NC(=O)CCCCCn1cnc2c1NC=NCC2O,P56658,Ki,5.9,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+10517890,CCOC(=O)CCCCCn1cnc2c1NC=NCC2O,P56658,Ki,3.0,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+10537106,OCCCCn1cnc2c1NC=NCC2O,P56658,Ki,6.3,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+10659392,COC(=O)CCCCn1cnc2c1NC=NCC2O,P56658,Ki,3.5,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+10513995,CCCCCCn1cnc2c1NC=NCC2O,P56658,Ki,0.48,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+10728632,OCCCCCn1cnc2c1NC=NCC2O,P56658,Ki,4.7,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+151590093,Cc1cccc(CCNC(=O)[C@@](C)(c2ccccc2)n2ncc3c2nc(N)n2nc(-c4ccco4)nc32)n1,P00813,IC50,0.0265,Adenosine deaminase (human),Confirmatory,Active,1
+145968716,C[C@H](O)[C@@H](CSc1cccc(C(F)(F)F)c1)n1cnc2c(N)ncnc21,P56658,Ki,0.025,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+145965728,C[C@H](O)[C@@H](CSc1ccccc1)n1cnc2c(N)ncnc21,P56658,Ki,0.135,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+145975923,Cc1cccc(SC[C@H]([C@H](C)O)n2cnc3c(N)ncnc32)c1,P56658,Ki,0.049,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+145975176,Cc1ccccc1SC[C@H]([C@H](C)O)n1cnc2c(N)ncnc21,P56658,Ki,0.066,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+135869431,O=C(Nc1ccc(Cn2cc3c(=O)[nH]cnc3n2)cc1)Nc1ccc(OCc2ccccc2)cc1,P56658,Ki,108.0,Adenosine deaminase  (cattle),Confirmatory,Inactive,0
+9824827,Cn1cc(CC[C@H](CO)n2cnc(C(N)=O)c2)c2cc(OCCCc3ccccc3)ccc21,P00813,Ki,0.026,ADA - adenosine deaminase (human),Confirmatory,Active,1
+10480325,Cn1cc(CC[C@H](CO)n2cnc(C(N)=O)c2)c2cc(OCCCc3ccc(Cl)cc3)ccc21,P00813,Ki,0.0049,ADA - adenosine deaminase (human),Confirmatory,Active,1
+146186370,COCCOc1ccc(N2CCC(NC(=O)C(C)(c3ccccc3)n3ncc4c3nc(N)n3nc(-c5ccco5)nc43)CC2)cc1,P00813,IC50,0.0109,Adenosine deaminase (human),Confirmatory,Active,1
+44350027,CCCCCC[C@H]([C@H](C)O)[N+]1([O-])C=Nc2c(N)ncnc21,P56658,Ki,0.0038,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+11373857,NC(=O)c1cn([C@@H](CO)CCn2ccc3ccc(OCCCc4ccccc4)cc32)cn1,P00813,Ki,0.017,ADA - adenosine deaminase (human),Confirmatory,Active,1
+11454124,NC(=O)c1cn([C@@H](CO)CCn2ccc3ccc(OCCCc4ccc(Cl)cc4)cc32)cn1,P00813,Ki,0.013,ADA - adenosine deaminase (human),Confirmatory,Active,1
+23674790,O=C([O-])c1cccc(C#CCn2cnc3c2NC=NCC3O)c1.[Na+],P56658,Ki,2.3,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
+44304637,CCCCCCC(C(C)O)n1cncn1,P56658,Ki,1.0,ADA - adenosine deaminase (domestic cattle),Confirmatory,Active,1
